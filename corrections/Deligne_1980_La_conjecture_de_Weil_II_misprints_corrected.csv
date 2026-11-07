@@ -1,0 +1,186 @@
+page,decision,tex_snippet,replacement,kind,justification
+138,correct,un faisceau mixte de poids \(\leq n\) sur \(\mathrm{X}\). Alors,un faisceau mixte de poids \(\leq n\) sur \(\mathrm{X}_0\). Alors,typographical,"Under the conventions (0.7) the sheaf 𝓕_0 lives on X_0, like f:X_0→S_0 in the same statement, so the missing index 0 is restored."
+139,keep,,,spelling,"CONJONCTURE occurs only in the running head, which is not part of the transcribed body, so nothing in the LaTeX can be corrected."
+139,correct,Soient \(\alpha\in\overline{\mathbf{Q}}_\ell\) une valeur propre,Soit \(\alpha\in\overline{\mathbf{Q}}_\ell\) une valeur propre,spelling,"Only one eigenvalue α is introduced, so the verb must be the singular Soit."
+140,correct,Ceci pour un prolongement projectif convenable,Ceci pour un plongement projectif convenable,spelling,"A pencil of hyperplane sections of the already projective surface X_0×X_0 requires a projective embedding (plongement projectif, the paper's usual phrase), so prolongement is a wrong word."
+141,keep,,,spelling,"This misprint is in the running head only, which is omitted from the body, so there is nothing to correct in the LaTeX."
+143,keep,,,spelling,"This misprint is in the running head only, which is omitted from the body, so there is nothing to correct in the LaTeX."
+146,correct,idéaux ouverts de \(\mathrm{R}'\) est cofinale,idéaux ouverts de \(\mathrm{R}\) est cofinale,typographical,"Only the complete local ring R with maximal ideal m has been introduced, so the prime is spurious."
+152,correct,"\(\operatorname{Gal}(k/\mathbf{F}_q)\), identifié","\(\operatorname{Gal}(\bar k/\mathbf{F}_q)\), identifié",typographical,"As in the two preceding occurrences in (1.1.13), the group identified with Ẑ is Gal(k̄/F_q), so the missing bar is restored."
+153,correct,"avec celle des faisceaux \(\mathscr{F}\) sur \(\mathrm{X}\), muni","avec celle des faisceaux \(\mathscr{F}\) sur \(\mathrm{X}\), munis",spelling,"The participle qualifies the plural faisceaux 𝓕, so the agreement must be munis."
+157,correct,\(r_v\) le groupe des unités de \(k_v^*\) et,\(r_v^*\) le groupe des unités de \(k_v^*\) et,typographical,"The group of units is written r_v^* in all the idèle quotients that follow, so the definition must carry the star."
+159,correct,"\(\mathrm{W}(x_0,x)\to\mathrm{G}\) fournit","\(\mathrm{W}(\mathrm{X}_0,x)\to\mathrm{G}\) fournit",typographical,"The Weil group is that of the scheme X_0, written W(X_0,x) elsewhere in this proof, whose base point is always written x without a bar; only the lowercase x_0 is wrong."
+160,correct,sur un sous-groupe fini de \(\mathbf{Z}\).},sur un sous-groupe d’indice fini de \(\mathbf{Z}\).},mathematical,"A finite subgroup of Z is {0}, whereas the proof (g^n central of degree n≠0), (1.3.11), (A'') of (2.1.1) and (2.2.1) all require an image of finite index."
+160,correct,(automorphismes intérieurs) (SGA 3 XXXIV (1.3)),(automorphismes intérieurs) (SGA 3 XXIV (1.3)),reference,SGA 3 has no Exposé XXXIV; the structure of the automorphism group of a reductive group is SGA 3 XXIV (1.3).
+162,correct,"\mathrm{H}_c^2(\mathrm{X},\mathcal{F})=\mathrm{F}'''(-1)","\mathrm{H}_c^2(\mathrm{X},\mathcal{F})=\mathrm{F}''(-1)",typographical,"By (1.4.1.3) H_c^2 is given by coinvariants, i.e. by the largest constant quotient F''_0 just defined; no F''' exists."
+164,correct,on a \(\mathrm{W}_{\mathrm{N}(x)}(\alpha)\le r\),on a \(w_{\mathrm{N}(x)}(\alpha)\le r\),typographical,"The ι-weight is the function w_{N(x)} of (1.2.6.1), as in the proof; capital W denotes Weil groups."
+165,correct,\prod\limits_{\gamma>\beta}\prod\limits_i a_i^\gamma,\prod\limits_{\gamma>\beta}\prod\limits_i \alpha_i^\gamma,typographical,"The factors are the eigenvalues α_i^γ, as in the inequality that follows, so the Latin a is a wrong letter."
+166,correct,"\mathrm{P}_3\arrow[dd,start anchor=south west,end anchor=north west]
+  \& \& \cdots \\
+\operatorname{Gr}_2
+  \arrow[dd,bend right=35,start anchor=west,end anchor=west]
+  \& \colon \& \& \&
+  \mathrm{P}_2\arrow[dd,start anchor=south west,end anchor=north west]
+  \& \&
+  \mathrm{P}_4\arrow[dd,start anchor=south west,end anchor=north west]
+  \& \cdots \\
+\operatorname{Gr}_1
+  \arrow[dd,bend left=35,start anchor=east,end anchor=east]
+  \& \colon \& \&
+  \mathrm{P}_1\arrow[dd,start anchor=south west,end anchor=north west]
+  \& \&
+  \mathrm{P}_3\arrow[dd,start anchor=south west,end anchor=north west]
+  \& \& \cdots \\
+\operatorname{Gr}_0
+  \arrow[dd,bend right=35,start anchor=west,end anchor=west]
+  \& \colon \& \mathrm{P}_0 \& \&
+  \mathrm{P}_2\arrow[dd,start anchor=south west,end anchor=north west]
+  \& \&
+  \mathrm{P}_4\arrow[dd,start anchor=south west,end anchor=north west]
+  \& \cdots \\
+\operatorname{Gr}_{-1}
+  \arrow[dd,bend left=35,start anchor=east,end anchor=east]
+  \& \colon \& \& \mathrm{P}_1 \& \&
+  \mathrm{P}_3\arrow[dd,start anchor=south west,end anchor=north west]
+  \& \& \cdots \\
+\operatorname{Gr}_{-2}
+  \arrow[dd,bend right=35,start anchor=west,end anchor=west]
+  \& \colon \& \& \& \mathrm{P}_2 \& \&
+  \mathrm{P}_4\arrow[dd,start anchor=south west,end anchor=north west]
+  \& \cdots \\
+\operatorname{Gr}_{-3}
+  \& \colon \& \& \& \& \mathrm{P}_3","\mathrm{P}_{-3}\arrow[dd,start anchor=south west,end anchor=north west]
+  \& \& \cdots \\
+\operatorname{Gr}_2
+  \arrow[dd,bend right=35,start anchor=west,end anchor=west]
+  \& \colon \& \& \&
+  \mathrm{P}_{-2}\arrow[dd,start anchor=south west,end anchor=north west]
+  \& \&
+  \mathrm{P}_{-4}\arrow[dd,start anchor=south west,end anchor=north west]
+  \& \cdots \\
+\operatorname{Gr}_1
+  \arrow[dd,bend left=35,start anchor=east,end anchor=east]
+  \& \colon \& \&
+  \mathrm{P}_{-1}\arrow[dd,start anchor=south west,end anchor=north west]
+  \& \&
+  \mathrm{P}_{-3}\arrow[dd,start anchor=south west,end anchor=north west]
+  \& \& \cdots \\
+\operatorname{Gr}_0
+  \arrow[dd,bend right=35,start anchor=west,end anchor=west]
+  \& \colon \& \mathrm{P}_0 \& \&
+  \mathrm{P}_{-2}\arrow[dd,start anchor=south west,end anchor=north west]
+  \& \&
+  \mathrm{P}_{-4}\arrow[dd,start anchor=south west,end anchor=north west]
+  \& \cdots \\
+\operatorname{Gr}_{-1}
+  \arrow[dd,bend left=35,start anchor=east,end anchor=east]
+  \& \colon \& \& \mathrm{P}_{-1} \& \&
+  \mathrm{P}_{-3}\arrow[dd,start anchor=south west,end anchor=north west]
+  \& \& \cdots \\
+\operatorname{Gr}_{-2}
+  \arrow[dd,bend right=35,start anchor=west,end anchor=west]
+  \& \colon \& \& \& \mathrm{P}_{-2} \& \&
+  \mathrm{P}_{-4}\arrow[dd,start anchor=south west,end anchor=north west]
+  \& \cdots \\
+\operatorname{Gr}_{-3}
+  \& \colon \& \& \& \& \mathrm{P}_{-3}",mathematical,"By (1.6.4) P_i=0 for i>0, and by (1.6.4.1) Gr_i^M V is the sum of the P_{-j} (j≥|i|), so the primitive pieces in the diagram need negative indices."
+166,correct,"dans une base \(\mathbf{e}\) de \(\mathrm{N}\), la matrice","dans une base \(\mathbf{e}\) de \(\mathrm{V}\), la matrice",mathematical,The basis is a basis of the vector space V; N is the endomorphism whose matrix is displayed.
+166,correct,\(\mathrm{N}e_i=e_{i-2}\) pour \(i\ne d\),\(\mathrm{N}e_i=e_{i-2}\) pour \(i\ne -d\),mathematical,"The only basis vector killed by N is e_{-d}, as stated in the same sentence and shown by matrix (1.6.7.1), so the exception is i≠−d."
+167,correct,en identifiant \(\operatorname{Gr}_j^{\mathrm{M}}(\mathrm{V})\) à \(\mathrm{V}\),en identifiant \(\operatorname{Gr}_j^{\mathrm{M}}(\mathrm{V})\) à \(\mathrm{V}_j\),mathematical,"Since M_i is the sum of the V_j for j≤i (1.6.8), the splitting identifies Gr_j^M(V) with V_j, not with the whole of V."
+168,correct,"à la source, et par (1.6.9) au but","à la source, et par (1.6.10) au but",reference,The SL(2)-action on Gr^M(V) is the representation v constructed in (1.6.10); (1.6.9) only deals with tensor products and duals.
+169,correct,\(k-2i-2\geq k\geq2j-k\),\(k-2i-2\geq -k\geq2j-k\),mathematical,k−2i−2≥k is false for i≥0; the required chain is k−2i−2≥−k (i.e. k>i) and −k≥2j−k (i.e. j≤0).
+169,correct,puissance convenable \(\lambda^{-k}\) de \(\mathrm{N}\),puissance convenable \(\lambda^{-k}\) de \(\lambda\),mathematical,"Replacing N by λN multiplies each component by a power λ^{−k} of the scalar λ, not of the endomorphism N."
+170,correct,une variance faisceautique,une variante faisceautique,spelling,"The intended word is variante, a sheaf-theoretic variant of (1.6.14), the term used throughout the paper."
+171,correct,"La théorie (1.6.14), (1.6.15)",La théorie (1.6.14),reference,"There is no paragraph (1.6.15): the twisted formalism, including its version for (1.6.1)–(1.6.12) with formulas (1.6.14.2)–(1.6.14.5), is all contained in (1.6.14), so the dangling number is removed."
+171,correct,\(\mathrm{M}'_i=\prod\limits_{j<i}\mathrm{V}'_j\),\(\mathrm{M}'_i=\prod\limits_{j\leq i}\mathrm{V}'_j\),mathematical,"For Gr_i to be ι-pure of weight i, as the statement of (1.7.5) requires, M'_i must contain V'_i, i.e. j≤i."
+171,correct,\(\lambda\) convenable dans \(\mathbf{Q}_\ell(-1)\),\(\lambda\) convenable dans \(\mathbf{Q}_\ell(1)\),mathematical,"Since N maps V(1) to V, λN is an endomorphism of V only for λ in Q_ℓ(1), where t_ℓ takes its values (1.7.2.2)."
+171,correct,\(\mu=\lambda/(1-q^n)\),\(\mu=\lambda/(1-q^{-n})\),mathematical,"The geometric Frobenius acts on Q_ℓ(1) by q^{−1} (weight −2, 1.2.5), so F'^n exp(−μN)F'^{−n}=exp(−q^{−n}μN) and the conjugation requires μ(1−q^{−n})=λ."
+174,correct,des « nilpotents orbits,des « nilpotent orbits,spelling,"The English term is nilpotent orbits, the English adjective taking no plural s."
+176,correct,sur \(\mathrm{P}_{-i}(\mathscr{F}_{0\bar{\eta}})\),sur \(\mathrm{P}_{-j}(\mathscr{F}_{0\bar{\eta}})\),typographical,"The argument runs with the single index j (α²q^j, |ια|≤q^{−j/2}, eigenvalues on P_{−j}), so P_{−i} is a slip for P_{−j}."
+176,correct,"la filtration de monodromie locale de \(\mathrm{V}\), rel. \(\mathrm{W}\) \textup{(1.7.2)}","la filtration de monodromie locale de \(\mathscr{F}_{\bar{\eta}}\), rel. \(\mathrm{W}\) \textup{(1.7.2)}",typographical,"No V is defined in (1.8.5); the representation whose filtration is meant is 𝓕_η̄, named in the same sentence."
+182,correct,\leq b^{\deg(\mathrm{X})},\leq b^{\deg(x)},typographical,"The bound concerns the point x of |S_0|, as in the hypothesis b^{deg(x)}; X is not a point."
+182,correct,"\iota\det(1-\mathrm{F}_xt^{\deg x},j_*\mathscr{F}_0)","\iota\det(1-\mathrm{F}_xt^{\deg x},j_*\mathscr{F}_0)^{-1}",mathematical,"The remaining factors of the first member of (1.8.1.1) are inverse determinants, and only these can have poles."
+183,correct,valeurs propres de \(\mathrm{F}_x\) sur \(\operatorname{Ker}(\mathrm{N})\),valeurs propres de \(\mathrm{F}_s\) sur \(\operatorname{Ker}(\mathrm{N})\),typographical,"The proof concerns the point s∈|S_0| (bound c^{deg s}), so the Frobenius is F_s."
+183,correct,de \(\mathrm{F}_x\) sur \(\mathscr{F}_{\bar{\eta}}\) tout entier,de \(\mathrm{F}_s\) sur \(\mathscr{F}_{\bar{\eta}}\) tout entier,typographical,Same slip: the eigenvalues on the whole of 𝓕_η̄ are those of F_s.
+183,correct,"soit donc \(\mathrm{V}_{\mathrm{N}}\) la valuation de \(\overline{\mathbf{Q}}^{p}\), normalisée par \(\mathrm{V}_{\mathrm{N}}(\mathrm{N})=1\)","soit donc \(v_{\mathrm{N}}\) la valuation de \(\overline{\mathbf{Q}}^{p}\), normalisée par \(v_{\mathrm{N}}(\mathrm{N})=1\)",typographical,"The valuation is written v_N in the rest of (1.10.6)–(1.10.9) (v_N(α_i), v_{N(x)}), so both capital V are corrected."
+184,correct,"point géométrique \(\bar{s}\) de \(s\), soit","point géométrique \(\bar{s}\) de \(\mathrm{S}\), soit",typographical,"The geometric points range over the base scheme S, of which U is later an open subset."
+185,correct,\(\mathrm{M}^n\) agit sur \(\mathrm{T}^n\),\(\mathrm{M}^n\) agit sur \(\mathrm{T}_n\),typographical,"The schemes of the tower are the T_n (complement of X_n in X̄_n, τ^n a section of T_n), so the index is misplaced."
+187,correct,\omega_s=\omega_{s+2\pi i\log q},\omega_s=\omega_{s+2\pi i/\log q},mathematical,"As ω_s(γ)=q^{−s deg γ}, ω_s is periodic in s with period 2πi/log q."
+192,correct,\(\mathrm{G}^0\) est le volume \(1\),\(\mathrm{G}^0\) est de volume \(1\),spelling,The Haar measure is normalized so that G^0 has volume 1; est le volume is ungrammatical.
+192,correct,"converge pour \(\tau\in\widehat{\mathrm{G}}\), \(\mathscr{R}(\tau)>0\)","converge pour \(\tau\in\widetilde{\mathrm{G}}\), \(\mathscr{R}(\tau)>0\)",mathematical,"Elements of Ĝ are unitary, hence of real part 0, so the condition R(τ)>0 only makes sense for τ in G̃."
+192,correct,"Par (2.1.4.1), la transformée de Fourier-Laplace de \(\mu\) est","Par (2.1.4.1), la transformée de Fourier-Laplace de \(\mu^{\natural}\) est",typographical,"The measure of (2.1.10)–(2.1.11) is μ^♮, whose transform is written μ̂^♮ just after."
+192,correct,Dans le domaine \(\mathrm{R}(\tau)\geq0\),Dans le domaine \(\mathscr{R}(\tau)\geq0\),typographical,"The real part of a representation is denoted by the script 𝓡 of (2.1.1), as in the statement of (2.1.11)."
+192,correct,"\tau(g)(\mu^{\natural}-\mu_0^{\natural})\,dg\to0",\tau(g)(\mu^{\natural}-\mu_0^{\natural})\to0,mathematical,"The integral is taken against the measure μ^♮−μ_0^♮ itself, as in the definition of a_n that follows; the extra dg is meaningless."
+193,correct,sont donc conjugués dans \(\mathrm K_{\mathbf R}\),sont donc conjugués dans \(\mathrm K\),typographical,"Only the compact group K and its complexification K_C are defined, and the conclusion is conjugacy in K itself."
+194,correct,"\(\mathrm W_1(\mathrm X_0,\bar{x})\)-représentations","\(\mathrm W(\mathrm X_0,\bar{x})\)-représentations",typographical,"𝓕_0(τ) comes from an ℓ-adic representation of W(X_0,x̄); no group W_1 is defined."
+194,correct,est relativement compact donc contenue,est relativement compacte donc contenue,spelling,"The adjective refers to the feminine noun image, as the following contenue shows."
+195,correct,"\det(1-\mathrm F_xt^{\deg x},\mathscr F_0(\tau_\ell)^{-1})","\det(1-\mathrm F_xt^{\deg x},\mathscr F_0(\tau_\ell))^{-1}",typographical,"Z is a product of inverse determinants (1.4.5.1), so the exponent −1 belongs outside the determinant, not on the sheaf."
+196,correct,des scalaires de \(\mathbf F_q\) à \(\mathbf F_{qn}\),des scalaires de \(\mathbf F_q\) à \(\mathbf F_{q^n}\),typographical,"The degree n extension of F_q is F_{q^n}, since F is replaced by F^n."
+196,correct,et \(w_q\) par \(w_{qn}\),et \(w_q\) par \(w_{q^n}\),typographical,Correspondingly the weights are taken relative to q^n.
+199,correct,\(\mathrm T_{\ell^n}=uv^{-1}\),\(\mathrm T^{\ell^n}=uv^{-1}\),typographical,"The Kummer covering extracts an ℓ^n-th root of uv^{−1}, so ℓ^n is an exponent."
+202,correct,fibre de \(f:\mathrm{U}_0\times\mathrm{U}_0\to\mathrm{A}_0^*\),fibre de \(f:\widetilde{\mathrm{V}}_0\to\mathrm{A}_0^*\),mathematical,"The pencil map f is defined on the blow-up Ṽ_0 of V_0=U_0×U_0 (diagram 3.1.1.1), not on the product itself."
+202,correct,"=\mathrm{H}^1(\mathrm{Y},\pi^*\mathscr{H})","=\mathrm{H}_c^1(\mathrm{Y},\pi^*\mathscr{H})",mathematical,"The stalk of R^1f_! is the compactly supported cohomology of the open fibre, which is what (3.2.1)–(3.2.2) control."
+202,correct,"0\to(\mathrm{R}^1f_!\pi_*\mathscr{G}_0)_{\bar{t}}
+\to(\mathrm{R}^1f_!\pi_*\mathscr{G}_0)_{\bar{\eta}}
+\to\Phi_{\bar{x}}^1
+\to(\mathrm{R}^2f_!\pi_*\mathscr{G}_0)_{\bar{t}}
+\to(\mathrm{R}^2f_!\pi_*\mathscr{G}_0)_{\bar{\eta}}","0\to(\mathrm{R}^1f_!\pi^*\mathscr{G}_0)_{\bar{t}}
+\to(\mathrm{R}^1f_!\pi^*\mathscr{G}_0)_{\bar{\eta}}
+\to\Phi_{\bar{x}}^1
+\to(\mathrm{R}^2f_!\pi^*\mathscr{G}_0)_{\bar{t}}
+\to(\mathrm{R}^2f_!\pi^*\mathscr{G}_0)_{\bar{\eta}}",mathematical,"𝓖_0 lives on V and π:Ṽ→V, so the sheaves are R^qf_!π^*𝓖_0 as everywhere else in (3.2); π_* is a wrong symbol."
+203,correct,"(\mathrm{R}^1f_!\pi_*\mathscr{G}_0)_{\bar{t}}
+\to\operatorname{Gr}_{\mathrm{G}}^i
+(\mathrm{R}^1f_!\pi_*\mathscr{G}_0)_{\bar{\eta}}","(\mathrm{R}^1f_!\pi^*\mathscr{G}_0)_{\bar{t}}
+\to\operatorname{Gr}_{\mathrm{G}}^i
+(\mathrm{R}^1f_!\pi^*\mathscr{G}_0)_{\bar{\eta}}",mathematical,This is the same sheaf R^1f_!π^*𝓖_0 as in (3.2.9.1) and in the prose that follows.
+203,correct,\(w_{\mathrm{N}(x)}(\alpha)\leq\beta+i\),\(w_{\mathrm{N}(x)}(\alpha)\leq i\),mathematical,Here 𝓖_0 is pure of weight 0 (3.2.7) and no β is defined; the bound w≤i is what gives w_q(α)≤2 in the lemma.
+206,correct,"\(\mathrm{H}_c^{2\mathrm{N}-i}(\mathrm{X},\mathscr{F})(\mathrm{N})\)","\(\mathrm{H}_c^{2\mathrm{N}-i}(\mathrm{X},\mathscr{F}^\vee)(\mathrm{N})\)",mathematical,"The proof applies the weight bound to the dual 𝓕^∨ of weight ≤−n, as the computed bound −n+(2N−i)−2N and the Poincaré duality step show."
+206,correct,Soit \(\alpha\) est un nombre algébrique,Soit \(\alpha\) un nombre algébrique,spelling,The verb est duplicates Soit; the construction is Soit α un nombre algébrique.
+209,correct,un ouvert dense \(j:\mathrm U_0\hookrightarrow\mathrm X\) sur lequel,un ouvert dense \(j:\mathrm U_0\hookrightarrow\mathrm X_0\) sur lequel,typographical,"U_0 is a dense open of X_0 with complement F_0, so the index 0 is missing."
+211,correct,\deg(x)\delta[\mathrm F_{x_0}^{n}],\deg(x_0)\delta[\mathrm F_{x_0}^{n}],typographical,"The sum runs over closed points x_0, and the weight is deg(x_0), the number of rational points over x_0."
+211,correct,\substack{n>0\\x_0\in\mathrm X_0(\mathbf F_{q^n})},\substack{n>0\\x\in\mathrm X_0(\mathbf F_{q^n})},typographical,"The right member sums over the F_{q^n}-points x, whose Frobenius F_x is defined in (3.5.2) and appears in the summand."
+212,correct,"\(\mathscr I\mathit{som}(\mathrm E_n,\mathbf Z/n^2)\)","\(\mathscr I\mathit{som}(\mathrm E_n,(\mathbf Z/n)^2)\)",mathematical,"E_n is locally isomorphic to (Z/n)^2, as in α:E_n→(Z/n)^2 just after, not to the cyclic group Z/n^2."
+212,correct,"est la mesure \(\displaystyle\frac{1}{2\pi}\sin^2\theta\,d\theta\)","est la mesure \(\displaystyle\frac{2}{\pi}\sin^2\theta\,d\theta\)",mathematical,The image of the Haar probability measure of SU(2) is (2/π)sin²θ dθ; with 1/2π the total mass would be 1/4.
+212,correct,\(1+2\cos\theta(x)\cdot q^{n/2}+q^n\),\(1-2\cos\theta(x)\cdot q^{n/2}+q^n\),mathematical,"By the trace formula the number of rational points is 1−Tr(F,H^1)+q^n with Tr=2cosθ(x)q^{n/2}."
+212,correct,"tend vaguement vers \(\displaystyle\frac{1}{2\pi}\sin^2\theta\,d\theta\)","tend vaguement vers \(\displaystyle\frac{2}{\pi}\sin^2\theta\,d\theta\)",mathematical,"The limit is the Sato–Tate probability measure (2/π)sin²θ dθ, as above."
+213,correct,"\(g_0:(\mathrm S_0,s_0)\to(\mathrm S'_0,s)\)","\(g_0:(\mathrm S_0,s_0)\to(\mathrm S'_0,s_0)\)",typographical,Over F_q the base point of S'_0 is s_0; s is the corresponding point over k.
+215,correct,la conjecture de Ramanujam-Peterson,la conjecture de Ramanujan-Petersson,spelling,The conjecture is named after Ramanujan and Petersson.
+215,correct,\psi\operatorname{Tr}_{\mathbf F_q/\mathbf F_p},\Psi\operatorname{Tr}_{\mathbf F_q/\mathbf F_p},typographical,"The additive character is Ψ, as in (3.7.2.1) and in 𝓕(ΨQ)."
+215,correct,"\sum_{x_1,\ldots,x_n\in\mathbf F}","\sum_{x_1,\ldots,x_n\in\mathbf F_q}",typographical,"The trace of F on H_c(A^n) counts F_q-points, as in (3.7.2.1)."
+216,correct,"\mathrm H_c^i(\mathrm A_n,\mathscr F(\Psi\mathrm Q))=0","\mathrm H_c^i(\mathrm A^n,\mathscr F(\Psi\mathrm Q))=0",typographical,"The affine space is A^n, as in the next two lines of (3.7.2.3)."
+216,correct,"\mathrm R^if_!\mathscr F_0(\Psi\mathrm Q_{\mathrm S})
+=
+\mathrm R^i\bar f_*j_!","\mathrm R^if_!\mathscr F_0(\Psi\mathrm Q_{\mathrm S})
+=
+\mathrm R^i\bar f_!j_!",mathematical,"The middle term duplicates the last; the chain is R^if_!=R^i f̄_! j_!=R^i f̄_* j_!, the last equality because f̄ is proper."
+216,correct,Le schéma \(\mathrm S'_0\) est connexe,Le schéma \(\mathrm S_0\) est connexe,mathematical,"The sheaves R^if_! live on S_0 and (1.8.12) needs S_0 connected, which holds as it is a dense open of the affine space S'_0."
+217,correct,(dans le prolongement projectif défini par,(dans le plongement projectif défini par,spelling,"The very ample 𝓛 defines a projective embedding of X, called plongement projectif défini par 𝓛 on the next page."
+220,correct,"\(\pm\delta_c\) dans \(\mathrm{H}^n(\mathrm{X}_u,\mathbf{Z}_\ell)(m)\)","\(\pm\delta_c\) dans \(\mathrm{H}^n(\mathrm{X}_u,\mathbf{Z}_\ell)(n')\)",mathematical,"The vanishing cycle lies in H^n(n') (4.2.1), n' being defined by n=2n' or 2n'+1 just before; m has no meaning here."
+222,correct,montre que \(\mathrm{R}^n f_!\mathbf{Z}/m\) est,montre que \(\mathrm{R}^n f_!\mathbf{Z}_\ell\) est,mathematical,"The sentence concerns Z_ℓ-cohomology, and its conclusion is stated with H^0(P^1,R^nf_!Z_ℓ)."
+223,correct,\(\varphi:u^*\mathscr{F}''\twoheadrightarrow\mathscr{F}'\),\(\varphi:u^*\mathscr{F}''\to\mathscr{F}'\),mathematical,"The topos glued along u consists of triples with an arbitrary morphism φ:u^*𝓕''→𝓕' (e.g. the adjunction map for (𝓕',u_*𝓕')); requiring an epimorphism would not give a topos."
+224,correct,\(\sigma\) de \(\eta_x\) avec \(\eta_y\),\(\sigma\) de \(\bar\eta_x\) avec \(\bar\eta_y\),typographical,"σ identifies the geometric points η̄_x and η̄_y, as in the diagram that follows and in (4.3.6)."
+224,correct,"\mathrm{X} \arrow[r,equal]
+  & \mathrm{X}_{(y)}","\mathrm{X} \arrow[r,leftarrow]
+  & \mathrm{X}_{(y)}",mathematical,The last link is the structural morphism X_(y)→X through which one restricts to H^*(X_(y) mod η̄_y); X_(y) is not equal to X.
+227,correct,tel que \(\mathrm{R}\cap\mathrm{N}\) soit dense,tel que \(\mathrm{R}\cap\mathrm{W}\) soit dense,typographical,"The condition is that R∩W be dense in W, as the rest of the proof (R∩W, R∩W^⊥) shows."
+228,correct,les combinaisons linéaires \(\delta'\) de,les combinaisons linéaires \(\delta\) de,typographical,"The combinations of δ' and δ'' are the vectors δ subject to (δ,δ)=2."
+228,correct,et \(s_\delta s_{\delta'}\) est une rotation,et \(s_{\delta'}s_{\delta''}\) est une rotation,typographical,"The rotation of the plane spanned by δ' and δ'' is the product of their reflections, written s_{δ'}s_{δ''} in the second case."
+228,correct,contenant \(s_\delta s_{\delta'}\) est donc,contenant \(s_{\delta'}s_{\delta''}\) est donc,typographical,Same correction for the second occurrence of the product of the two reflections.
+230,correct,"(\dim\operatorname{Ev}(\mathrm{Y})-2)+(\delta,\delta')^2","(\dim\operatorname{Ev}(\mathrm{Y})-4)+(\delta,\delta')^2",mathematical,"s_δs_{δ'} is the identity on the orthogonal of the plane of δ,δ' and has trace (δ,δ')²−2 on that plane, hence total trace (dim−4)+(δ,δ')²."
+231,correct,\(\operatorname{Tr}(s_\delta s_{\delta'})-\dim\operatorname{Ev}(\mathrm{Y})+2\),\(\operatorname{Tr}(s_\delta s_{\delta'})-\dim\operatorname{Ev}(\mathrm{Y})+4\),mathematical,"With the correct trace formula the square (δ,δ')² equals Tr−dim+4."
+232,correct,\textit{Lemme} \textbf{(4.5.4)},\textit{Lemme} \textbf{(4.5.5)},reference,"The number (4.5.4) is already used for the preceding statement, so the lemma, last item of (4.5), becomes (4.5.5)."
+233,correct,quaternions entiers de Hurwicz,quaternions entiers de Hurwitz,spelling,The integral quaternions are named after Hurwitz.
+235,keep,,,mathematical,"The map is injective and identifies Ω(X,Q) with the subcomplex described in the next sentence, and the author uses isomorphisme in this sense also for (5.1.4.2)_A, so the word is deliberate."
+238,correct,Parce que \(k\) est dénombrable,Parce que \(k_1\) est dénombrable,typographical,Only the subfield k_1 is countable; k is an arbitrary algebraically closed field.
+238,correct,"\(\varphi:\mathrm{U}\to\mathrm{X}\), il existe","\(\varphi:\mathrm{U}\to\mathrm{X}_1\), il existe",typographical,"The system is cofinal among coverings of X_1, since φ_α:X_1^α→X_1 must factor through φ."
+239,correct,des nerfs \(\mathrm{N}^{\alpha}=\pi_0,des nerfs \(\mathrm{N}_{\alpha}=\pi_0,typographical,"The nerves are written N_α in all the formulas of (5.2.5), so the index of the defining occurrence is misplaced."
+240,correct,(de type \(\mathbf{Z}\)) de \(\mathcal{M}\otimes\bar{\mathrm{K}}^*\),(de type \(\mathbf{Z}\)) de \(\mathcal{M}\otimes\bar{\mathrm{K}}\),typographical,"The grading is of M⊗K̄, scalars extended to the field K̄ as in the preceding sentences; K̄^* is only a group."
+241,correct,"\(\mathrm{W}_n\mathrm{H}^i(\mathrm{X}(\mathbf{C}),\mathbf{Q})","\(\mathrm{W}_m\mathrm{H}^i(\mathrm{X}(\mathbf{C}),\mathbf{Q})",typographical,The filtration index on the left must be the bound m of the sum over j≤m.
+241,keep,,,spelling,"En terme de is the author's constant usage in this paper (pp. 139, 167, 169, 174, 218, 225), not a misprint."
+243,correct,nous dirons que \(\mathscr{F}\) est mixte,nous dirons que \(\mathscr{F}_{\mathbf{Q}}\) est mixte,typographical,The definition is for the sheaf 𝓕_Q on X_Q just introduced; 𝓕 is the sheaf on X[1/n] from which it comes.
+249,correct,"& \mathbf{P}
+& \mathrm{D}","& \check{\mathbf{P}}
+& \mathrm{D}",typographical,"The incidence variety Z lies over the dual projective space P̌ of hyperplanes, of which D is a line."
+250,correct,et supposons \(\mathrm{K}\) et \(\mathrm{DK}[-2n]\) vérifient,et supposons que \(\mathrm{K}\) et \(\mathrm{DK}[-2n]\) vérifient,spelling,The completive clause after supposons requires que.
+251,correct,"\textbf{48} (1978), 137-204,","\textbf{48} (1978), 137-204.",typographical,"Like every other bibliographic entry, [9] must end with a full stop."

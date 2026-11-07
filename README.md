@@ -4,17 +4,21 @@ LaTeX editions of papers by Pierre Deligne: the French text as printed, and Engl
 de Hodge* I–III and *La conjecture de Weil* I–II.
 [Version française](README.fr.md)
 
-| Paper | French | English | Scan of the print | Corrections |
-|---|---|---|---|---|
-| *Théorie de Hodge. I*, Actes du Congrès international des mathématiciens (Nice, 1970), tome 1, 425–430 | [PDF](https://github.com/KokunoYumeto/pierre-deligne/releases/latest/download/Deligne_1970_Theorie_de_Hodge_I_FR.pdf) | in preparation | — | 81 |
-| *Théorie de Hodge, II*, Publications mathématiques de l'IHÉS 40 (1971), 5–57 | [PDF](https://github.com/KokunoYumeto/pierre-deligne/releases/latest/download/Deligne_1971_Theorie_de_Hodge_II_FR.pdf) | in preparation | [Numdam](https://www.numdam.org/item/PMIHES_1971__40__5_0/) | 264 |
-| *Théorie de Hodge, III*, Publications mathématiques de l'IHÉS 44 (1974), 5–77 | [PDF](https://github.com/KokunoYumeto/pierre-deligne/releases/latest/download/Deligne_1974_Theorie_de_Hodge_III_FR.pdf) | in preparation | [Numdam](https://www.numdam.org/item/PMIHES_1974__44__5_0/) | 691 |
-| *La conjecture de Weil. I*, Publications mathématiques de l'IHÉS 43 (1974), 273–307 | [PDF](https://github.com/KokunoYumeto/pierre-deligne/releases/latest/download/Deligne_1974_La_conjecture_de_Weil_I_FR.pdf) | in preparation | [Numdam](https://www.numdam.org/item/PMIHES_1974__43__273_0/) | 136 |
-| *La conjecture de Weil. II*, Publications mathématiques de l'IHÉS 52 (1980), 137–252 | [PDF](https://github.com/KokunoYumeto/pierre-deligne/releases/latest/download/Deligne_1980_La_conjecture_de_Weil_II_FR.pdf) | in preparation | [Numdam](https://www.numdam.org/item/PMIHES_1980__52__137_0/) | 655 |
+| Paper | French, as printed | French, corrected | English | Scan of the print | Corrections |
+|---|---|---|---|---|---|
+| *Théorie de Hodge. I*, Actes du Congrès international des mathématiciens (Nice, 1970), tome 1, 425–430 | [PDF](https://github.com/KokunoYumeto/pierre-deligne/releases/download/fr-2026-11-07/Deligne_1970_Theorie_de_Hodge_I_FR.pdf) | [PDF](https://github.com/KokunoYumeto/pierre-deligne/releases/download/fr-corrected-2026-11-07/Deligne_1970_Theorie_de_Hodge_I_FR_corrected.pdf) | in preparation | — | 81 |
+| *Théorie de Hodge, II*, Publications mathématiques de l'IHÉS 40 (1971), 5–57 | [PDF](https://github.com/KokunoYumeto/pierre-deligne/releases/download/fr-2026-11-07/Deligne_1971_Theorie_de_Hodge_II_FR.pdf) | [PDF](https://github.com/KokunoYumeto/pierre-deligne/releases/download/fr-corrected-2026-11-07/Deligne_1971_Theorie_de_Hodge_II_FR_corrected.pdf) | in preparation | [Numdam](https://www.numdam.org/item/PMIHES_1971__40__5_0/) | 264 |
+| *Théorie de Hodge, III*, Publications mathématiques de l'IHÉS 44 (1974), 5–77 | [PDF](https://github.com/KokunoYumeto/pierre-deligne/releases/download/fr-2026-11-07/Deligne_1974_Theorie_de_Hodge_III_FR.pdf) | [PDF](https://github.com/KokunoYumeto/pierre-deligne/releases/download/fr-corrected-2026-11-07/Deligne_1974_Theorie_de_Hodge_III_FR_corrected.pdf) | in preparation | [Numdam](https://www.numdam.org/item/PMIHES_1974__44__5_0/) | 691 |
+| *La conjecture de Weil. I*, Publications mathématiques de l'IHÉS 43 (1974), 273–307 | [PDF](https://github.com/KokunoYumeto/pierre-deligne/releases/download/fr-2026-11-07/Deligne_1974_La_conjecture_de_Weil_I_FR.pdf) | [PDF](https://github.com/KokunoYumeto/pierre-deligne/releases/download/fr-corrected-2026-11-07/Deligne_1974_La_conjecture_de_Weil_I_FR_corrected.pdf) | in preparation | [Numdam](https://www.numdam.org/item/PMIHES_1974__43__273_0/) | 136 |
+| *La conjecture de Weil. II*, Publications mathématiques de l'IHÉS 52 (1980), 137–252 | [PDF](https://github.com/KokunoYumeto/pierre-deligne/releases/download/fr-2026-11-07/Deligne_1980_La_conjecture_de_Weil_II_FR.pdf) | [PDF](https://github.com/KokunoYumeto/pierre-deligne/releases/download/fr-corrected-2026-11-07/Deligne_1980_La_conjecture_de_Weil_II_FR_corrected.pdf) | in preparation | [Numdam](https://www.numdam.org/item/PMIHES_1980__52__137_0/) | 655 |
 
 The French text follows the print, its misprints included. For each paper, `corrections/` lists every place where an
 earlier transcription differed from the print and every misprint of the print (kept as printed), with the page. The
 LaTeX sources are in `tex/`; they compile with LuaLaTeX.
+
+The corrected French fixes the misprints of the print; each correction is listed with its reason in
+`corrections/*_misprints_corrected.csv`. One proposed repair of an argument (*Théorie de Hodge, II*, p. 48) is listed
+there but not made in the text. The text as printed remains the main edition.
 
 These editions are AI-produced: the French was AI-transcribed and checked page by page against scans of the print by
 an AI model (OpenAI gpt-6-astra); *Théorie de Hodge, III* and *La conjecture de Weil. II* were typeset anew from the

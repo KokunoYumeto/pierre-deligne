@@ -1,0 +1,101 @@
+page,decision,tex_snippet,replacement,kind,justification
+6,correct,simplicial projectif et lisse \(\overline{\mathrm{X}}_n\),simplicial projectif et lisse \(\overline{\mathrm{X}}_{\bullet}\),mathematical,"The phrase names the simplicial compactification of the simplicial scheme X_\bullet, so the index must be \bullet; the components \overline{X}_n only appear in the next sentence."
+11,correct,un faisceau des groupes abéliens,un faisceau de groupes abéliens,spelling,"French requires 'un faisceau de groupes abéliens' (cf. 'faisceau en groupes abéliens' in 5.1.8), so 'des' is a slip."
+12,correct,H^q(a_{p*}(\mathrm{K}\mid\mathrm{X}^{p})),H^q(a_{p*}(\mathrm{K}\mid\mathrm{X}_{p})),typographical,"K is restricted to the component X_p of the simplicial space, as in (5.2.7.1) (K\mid X_p), and X^p is undefined."
+14,correct,"forment un groupe simplicial, et","forment un groupe cosimplicial, et",mathematical,"Since d_1=\sum(-1)^i\delta_i goes from E_1^{p,q} to E_1^{p+1,q}, the E_1^{\bullet q} (cohomology of a simplicial space) form a cosimplicial group."
+16,correct,\operatorname{sq}_1(\mathrm{X}_{\bullet}))_1\) est le sous-espace,\operatorname{sq}_1(\mathrm{X}_{\bullet}))_2\) est le sous-espace,mathematical,"For n=1 the map is (\varphi_1)_2:X_2\to(\operatorname{cosq}\operatorname{sq}_1X_\bullet)_2, the space of compatible triples of 1-simplices, so the outer index is 2."
+18,correct,algèbre simpliciale \((\mathrm{E}_{1}^{p\bullet})_{p\geq 0}\),algèbre cosimpliciale \((\mathrm{E}_{1}^{p\bullet})_{p\geq 0}\),mathematical,"The E_1^{p\bullet}=H^\bullet(G^{\Delta_p}/G) of the simplicial space B_{\bullet G} form a cosimplicial algebra, as the next clause (suspension of a cosimplicial module) states."
+21,correct,\(\mathrm{Y}_{\bullet}\) et \(f:\mathrm{G}\to\mathrm{F}\) un,\(\mathrm{Y}_{\bullet}\) et \(f:\mathrm{F}\to\mathrm{G}\) un,mathematical,"By (5.1.5) a u-morphism goes from the sheaf on the target X_\bullet to the sheaf on the source Y_\bullet, so here f:F\to G, as required by 'F mod G' and (6.3.2.2) (compare f:K\to L in 6.3.3)."
+22,correct,"\mathrm{R}\Gamma(\mathrm{Y}_{\bullet},\mathrm{K})
+  \arrow[dl,""\partial""'] & \\
+\mathrm{R}\Gamma(\mathrm{C}(u),\mathrm{C}(f)) \arrow[rr]
+& & \mathrm{R}\Gamma(\mathrm{X}_{\bullet},\mathrm{L})","\mathrm{R}\Gamma(\mathrm{Y}_{\bullet},\mathrm{L})
+  \arrow[dl,""\partial""'] & \\
+\mathrm{R}\Gamma(\mathrm{C}(u),\mathrm{C}(f)) \arrow[rr]
+& & \mathrm{R}\Gamma(\mathrm{X}_{\bullet},\mathrm{K})",mathematical,"In (6.3.3) K lives on X_\bullet and L on Y_\bullet (f:K\to L), so the vertices are R\Gamma(Y_\bullet,L) and R\Gamma(X_\bullet,K), matching the sequence (6.3.2.2)."
+25,correct,"(\mathrm{K},\delta(\mathrm{W},\mathrm{L}),\mathrm{F})\) transforme","(\boldsymbol{s}\mathrm{K},\delta(\mathrm{W},\mathrm{L}),\mathrm{F})\) transforme",mathematical,"The filtration \delta(W,L) lives on the simple complex sK, which is what lands in D^+F_2(S) (cf. 7.1.6.3), so the s was dropped."
+25,correct,"(\mathrm{K},\delta(\mathrm{W},\mathrm{L}),\mathrm{F}):","(\boldsymbol{s}\mathrm{K},\delta(\mathrm{W},\mathrm{L}),\mathrm{F}):",mathematical,"Same omission in (7.1.7.1): the value of the functor D^+F_2(S_\bullet)\to D^+F_2(S) is (sK,\delta(W,L),F)."
+29,correct,"\operatorname{Ob}\mathrm{DF}^{+}(\mathrm{X},\mathrm{A}\otimes\mathbf{Q})","\operatorname{Ob}\mathrm{D}^{+}\mathrm{F}(\mathrm{X},\mathrm{A}\otimes\mathbf{Q})",typographical,"The filtered derived category is written D^+F everywhere else (7.1.1, 8.1.5, 8.1.6 \gamma)), so DF^+ is a transposition of the +."
+29,correct,"\operatorname{Ob}\mathrm{D}^{+}(\mathrm{X},\mathrm{A}\otimes\mathbf{C})","\operatorname{Ob}\mathrm{D}^{+}(\mathrm{X},\mathrm{A}\otimes\mathbf{Q})",mathematical,"Gr_n^W(K_{A\otimes Q}) is a complex of A\otimes Q-sheaves (cf. \beta) and the parallel axiom CHM), so the category is D^+(X,A\otimes Q)."
+33,correct,"(\mathrm{H}(\mathrm{K}),\operatorname{Dec}_{1}\mathrm{W},\mathrm{F})","(\mathrm{H}(\mathbf{s}\mathrm{K}),\operatorname{Dec}_{1}\mathrm{W},\mathrm{F})",mathematical,"(8.1.16.2) rewrites (8.1.15.3), which concerns H(sK), and is proved in (8.1.17) for H(sK_{A\otimes Q}) and H(sK_C)."
+34,correct,\mathrm{R}\Gamma j_{\ast}\mathbf{Q}\simeq,\mathrm{R}\Gamma\mathrm{R}j_{\ast}\mathbf{Q}\simeq,mathematical,"Only R\Gamma Rj_*Q is isomorphic to R\Gamma(U_\bullet,Q), exactly as R\Gamma Rj_*Z in a) and R\Gamma Rj_*C in c)."
+35,correct,"\operatorname{Gr}_{a}^{\delta(\mathrm{W},\mathrm{F})}","\operatorname{Gr}_{a}^{\delta(\mathrm{W},\mathrm{L})}",mathematical,"The spectral sequence is that of the diagonal filtration \delta(W,L) (see 8.1.19.1 just below), F being the Hodge filtration and \delta(W,F) undefined."
+35,correct,\mathbf{s}\mathrm{R}\Gamma^\bullet\Omega_{\mathrm{X}}^\bullet(\log\mathrm{D}),\mathbf{s}\mathrm{R}\Gamma^\bullet\Omega_{\mathrm{X}_{\bullet}}^\bullet(\log\mathrm{Y}_{\bullet}),mathematical,"In the example (8.1.12) treated here the complex is \Omega^\bullet_{X_\bullet}(\log Y_\bullet) on the simplicial scheme, while X and D are the notations of the non-simplicial case (8.1.8)."
+35,correct,\mathrm{H}^{b-2(r+2)},\mathrm{H}^{b-2(r+1)},mathematical,"All terms have weight b and H^p(\widetilde Y^{r+1})(-r-1) has weight p+2(r+1), so p=b-2(r+1)."
+35,correct,"\mathrm{H}^{b-2(r-2)}
+(\widetilde{\mathrm{Y}}_{q+1}^{r-1},\varepsilon_{\mathbf{Q}}^{r-1})(-r+1)","\mathrm{H}^{b-2(r-1)}
+(\widetilde{\mathrm{Y}}_{q+1}^{r-1},\varepsilon_{\mathbf{Q}}^{r-1})(-r+1)",mathematical,"H^p(\widetilde Y^{r-1}_{q+1})(-r+1) has weight b only for p=b-2(r-1), the target degree of the Gysin map from H^{b-2r}(\widetilde Y^r)(-r)."
+35,correct,"\mathrm{H}^{b-2(r-2)}
+(\widetilde{\mathrm{Y}}_{q}^{r-1},\varepsilon_{\mathbf{Q}}^{r-1})(-r+1)","\mathrm{H}^{b-2(r-1)}
+(\widetilde{\mathrm{Y}}_{q}^{r-1},\varepsilon_{\mathbf{Q}}^{r-1})(-r+1)",mathematical,Same weight count for the lower right term: H^p(\widetilde Y^{r-1}_q)(-r+1) is of weight b for p=b-2(r-1).
+35,correct,"\end{tikzcd}
+\]
+}
+
+Les indices des composantes","\end{tikzcd}
+\tag*{\textbf{(8.1.19.2)}}
+\]
+}
+
+Les indices des composantes",reference,"The proof of (8.1.20)(iii) appeals to (8.1.19.2), which can only be this double complex, whose number is missing in the print."
+35,correct,\(\mathrm{E}_{1}^{ab}\) vérifient \(-a=q-r\),\(\mathrm{E}_{1}^{ab}\) vérifient \(a=q-r\),mathematical,"The first index of the component H^{b-2r}(\widetilde Y^r_q)(-r) is q-r (a=\gamma-\beta in 8.1.15.1, written -a in 8.1.19.1), so for E_1^{ab} one has a=q-r."
+36,correct,"\mathrm{H}^{\bullet}(\mathrm{U}^{\bullet},\mathbf{Z})","\mathrm{H}^{\bullet}(\mathrm{U}_{\bullet},\mathbf{Z})",typographical,"U_\bullet is the r-simplicial scheme just defined (as in \delta U_\bullet on the right), an upper bullet denoting a cosimplicial object."
+39,correct,"Alors, \(\mathrm{H}^\bullet(\widetilde{\mathrm{X}},\mathbf{Q})\) et","Alors, \(\mathrm{H}^\bullet(\overline{\mathrm{X}},\mathbf{Q})\) et",mathematical,"The proposition compares the images of the smooth compactification \overline X and of X (the proof uses (jf)^* and f^*), and no \widetilde X occurs in (8.2.6)."
+40,correct,la justificati n donnée,la justification donnée,spelling,The letter o of 'justification' is missing.
+41,correct,Pour \(\mathrm{X}^\bullet\) un schéma,Pour \(\mathrm{X}_\bullet\) un schéma,typographical,"The simplicial scheme is X_\bullet, as in the diagram (8.3.1.1) and throughout 8.3."
+41,correct,Soit \(\mathrm{F}:\mathrm{X}_{\bullet1}\to\mathrm{X}_{\bullet2}\),Soit \(f:\mathrm{X}_{\bullet1}\to\mathrm{X}_{\bullet2}\),typographical,"The morphism is named f in the diagram of (8.3.2)(ii) and in (8.3.3) ('pour f=Id'), so F is a slip."
+42,correct,"En (8.1.2.1), nous avons muni","En (8.1.21), nous avons muni",reference,"There is no (8.1.2.1); the mixed Hodge structure on the cohomology of the bisimplicial Z_{\bullet\bullet} comes from the r-simplicial case (8.1.21), the dot being misplaced."
+43,correct,"\to\mathrm{H}^{n+1}(\mathrm{Y},\mathbf{Z})","\to\mathrm{H}^{n+1}(\mathrm{Y}_\bullet,\mathbf{Z})",typographical,"The long exact sequence is that of the simplicial schemes X_\bullet and Y_\bullet, as in all its other terms."
+44,correct,la famille de supports sur \(\mathrm{U}\) formé des,la famille de supports sur \(\mathrm{U}\) formée des,spelling,The participle agrees with 'la famille' and must be feminine.
+47,correct,"\mathrm{W}_{i}\mathrm{H}_{i}(\mathrm{G},\mathbf{Q})","\mathrm{W}_{i}\mathrm{H}^{i}(\mathrm{G},\mathbf{Q})",mathematical,"The Künneth factor is the cohomology group H^i(G,Q), to which (9.1.6) (W_iH^i(G,Q)=0) is applied."
+48,correct,au faisceau constant \(\mathbf{Z}(-1)_{\mathrm{Z}}\),au faisceau constant \(\mathbf{Z}(-1)_{\mathrm{Y}}\),mathematical,"\mathscr{H}^2_Y is a sheaf on the divisor Y, identified with the constant sheaf Z(-1) on Y, which gives H^{n-2}(Y,Z)(-1) in (9.2.1.2)."
+48,correct,\Omega_{\mathrm{Y}}^{\bullet}\to0.,\Omega_{\mathrm{Y}}^{\bullet}[-1]\to0.,mathematical,"The residue sends \Omega^p_X(\log Y) to \Omega^{p-1}_Y, so the quotient complex is \Omega_Y^\bullet[-1], producing the terms H^{n-1}(Y)(-1) of (9.2.1.2)."
+48,correct,"Hodge de \(\mathrm{H}^{n}(\mathrm{U},\mathbf{C})\) détermine","Hodge de \(\mathrm{H}^{n+1}(\mathrm{U},\mathbf{C})\) détermine",mathematical,"The residue (9.2.2.1) has source H^{n+1}(U) and image Ker(H^n(Y)\to H^{n+2}(X)), so it is the filtration of H^{n+1}(U,C) that determines that of this kernel."
+50,correct,soit de filtration de Hodge \(\leq p\),soit de filtration de Hodge \(\geq p\),mathematical,"By (9.2.4) with d=n, forms with poles of order \leq n-p represent F^{p+1}H^n(U), whose residues give F^pH^{n-1}(Y) because of the twist (-1), so the condition is Hodge filtration \geq p."
+55,correct,=\mathrm{H}_{\mathbf{Z}}\backslash,=\operatorname{Gr}^{\mathrm{W}}_{-1}(\mathrm{H}_{\mathbf{Z}})\backslash,mathematical,"The lattice of the complex torus built on Gr_{-1}^W(H_C) is Gr_{-1}^W(H_Z), just as W_{-1}(H_Z) in the definition of G."
+59,correct,"\operatorname{Gr}^{\mathrm{W}}_0\mathrm{T}_{\ell}(\mathrm{M})
+  =\mathrm{X}\otimes\widehat{\mathbf{Z}}","\operatorname{Gr}^{\mathrm{W}}_0\mathrm{T}_{\ell}(\mathrm{M})
+  =\mathrm{X}\otimes\mathbf{Z}_{\ell}",mathematical,"T_\ell(M) is a Z_\ell-sheaf, so its Gr_0^W is X\otimes Z_\ell like the other lines T_\ell(A) and Y\otimes Z_\ell(1), \widehat Z belonging to (10.1.5)."
+60,correct,"\(\mathrm{M}=(\mathrm{X},\mathrm{T},\mathrm{A},\mathrm{G},u)\)","\(\mathrm{M}=(\mathrm{X},\mathrm{A},\mathrm{T},\mathrm{G},u)\)",typographical,"The paper fixes the order (X,A,T,G,u) in (10.1.3) and (10.1.4) and uses it again in (10.2.2.1) two lines below, so T and A are transposed."
+64,correct,Soit \(m_i\in\mathrm{T}_{\mathbf{Z}/n\mathbf{Z}}(\mathrm{M}_1)\),Soit \(m_i\in\mathrm{T}_{\mathbf{Z}/n\mathbf{Z}}(\mathrm{M}_i)\),mathematical,"m_i, represented by (x_i,g_i) with u_i(x_i)=ng_i, is an element of T_{Z/nZ}(M_i) for i=1,2."
+65,correct,(en tout que \(\natural\)-biextension,(en tant que \(\natural\)-biextension,spelling,The intended locution is 'en tant que' (trivializations as \natural-biextension).
+66,correct,"libres de rang fini, et \(\mathrm{P}\)","libres de rang fini, et \(\mathrm{P}^{\natural}\)",mathematical,"The \natural-biextension is P^\natural with underlying biextension P, as the conclusion about the curvature of P^\natural requires."
+67,correct,"\mathrm{P}''_{u(\chi)} \arrow[r] &
+\mathrm{M}/\mathrm{W}_{-2}\mathrm{M} \arrow[r] &
+0
+\end{tikzcd}
+\]
+L’application \(v\) trivialise l’extension
+\(\mathrm{P}'_{u(\chi)}\)","\mathrm{P}''_{u'(\chi)} \arrow[r] &
+\mathrm{M}/\mathrm{W}_{-2}\mathrm{M} \arrow[r] &
+0
+\end{tikzcd}
+\]
+L’application \(v\) trivialise l’extension
+\(\mathrm{P}'_{u'(\chi)}\)",mathematical,"The fibres are taken at the point u'(\chi)\in G' just constructed (u is defined on X, not on X'); the two subscripts of the second diagram are corrected in the next row since they sit in the same tokens as the prime levels."
+67,correct,"\mathrm{P}_{u(\chi)} \arrow[r] \arrow[d] &
+\mathrm{M} \arrow[r] \arrow[d] \arrow[dl, ""v""'] &
+0\\
+& \mathbf{G}_m \arrow[r] &
+\mathrm{P}'_{u(\chi)}","\mathrm{P}'_{u'(\chi)} \arrow[r] \arrow[d] &
+\mathrm{M} \arrow[r] \arrow[d] \arrow[dl, ""v""'] &
+0\\
+& \mathbf{G}_m \arrow[r] &
+\mathrm{P}''_{u'(\chi)}",mathematical,"The top row is the extension P'_{u'(\chi)} of M (P' being the biextension of M and G') and the bottom row the extension P''_{u'(\chi)} of M/W_{-2}M receiving v as in the first diagram, the u' subscripts of the previous item being included here."
+70,correct,"\operatorname{Pic}^{0}(\overline{\mathrm{X}}_0)]} \arrow[r]
+ & {[\mathbf{Z}^{\mathrm{S}}\longrightarrow
+       \operatorname{Pic}(\overline{\mathrm{X}}_0)]}","\operatorname{Pic}^{0}(\overline{\mathrm{X}})]} \arrow[r]
+ & {[\mathbf{Z}^{\mathrm{S}}\longrightarrow
+       \operatorname{Pic}(\overline{\mathrm{X}})]}",mathematical,No \overline X_0 exists: the complexes are H^1_m(X)(1)=[Ker(\alpha)\to Pic^0(\overline X)] (10.3.4) and [Z^S\to Pic(\overline X)] given by u_0 (10.3.3).
+70,correct,Puisque \(p_0:\mathrm{X}_0\to\mathrm{X}\) est fini,Puisque \(p_0:\mathrm{X}\to\mathrm{X}_0\) est fini,mathematical,In (10.3.1) p_0 is the finite radicial map from X to X_0.
+70,correct,n[\mathcal{L}]=[\mathcal{O}(\mathrm{D})],n[\overline{\mathcal{L}}]=[\mathcal{O}(\mathrm{D})],mathematical,"The condition holds in Pic(\overline X) and concerns the extension \overline L, for which \bar\alpha:\overline L^{\otimes n}\simeq O(D)."
+70,correct,"\((\mathcal{O}_{\mathrm{X}_0},0)\) si et seulement s’il est de la forme \((\mathcal{O}_{\mathrm{X}_0}(\mathrm{D}),n\mathrm{D})\)","\((\mathcal{O}_{\overline{\mathrm{X}}},0)\) si et seulement s’il est de la forme \((\mathcal{O}_{\overline{\mathrm{X}}}(\mathrm{D}),n\mathrm{D})\)",mathematical,"These are pairs (\overline L,D) with \overline L on \overline X and D supported on S=\overline X-X, so the sheaves are O_{\overline X} and O_{\overline X}(D)."
+71,correct,"\mathrm{H}^{1}_{m}(\mathrm{X})
+\overset{\mathrm{L}}{\otimes}","\mathrm{H}^{1}_{m}(\mathrm{X})(1)
+\overset{\mathrm{L}}{\otimes}",mathematical,"The 1-motif of (10.3.4) is H^1_m(X)(1), the subcomplex of (10.3.5)(ii), as in the final term T_{Z/nZ}(H^1_m(X)(1))."
+72,correct,un faisceau inversible \(\mathcal{O}_{\mathrm{X}}(\mathrm{D})\),un faisceau inversible \(\mathcal{O}_{\overline{\mathrm{X}}}(\mathrm{D})\),mathematical,"D is concentrated in S=\overline X-X, so O(D) is an invertible sheaf on \overline X, like exp(P) for the O_{\overline X}-torsor P."
+73,correct,"\mathrm{H}^{2}(\overline{\mathrm{X}}'\bmod\mathrm{X},\mathbf{Z})","\mathrm{H}^{2}(\overline{\mathrm{X}}'\bmod\mathrm{X}',\mathbf{Z})",mathematical,"The group of the diagram isomorphic to H^2(\overline X mod X) is H^2(\overline X' mod X'), X not being a subspace of \overline X'."
+74,correct,"=\mathrm{H}_{1}(\overline{\mathrm{X}},\mathcal{O}_{\overline{\mathrm{X}}})","=\mathrm{H}^{1}(\overline{\mathrm{X}},\mathcal{O}_{\overline{\mathrm{X}}})",mathematical,"Lie Pic(\overline X) is the coherent cohomology group H^1(\overline X,O), as written in the upper row."
+75,correct,quotient de \((\mathcal{H}_{\mathbf{Z}}/\mathrm{torsion})(n)\) qui soit,quotient de \((\mathcal{H}_{\mathbf{Z}}/\mathrm{torsion})(n)\)) qui soit,typographical,"The parenthesis opened by 'resp.' must close after (n), since 'qui soit purement de type' applies to both the sub-structure and the quotient."
+75,correct,"(\(\mathrm{H}_{2}(\mathrm{U},\mathbf{Q})\)), dual de","(\(\mathrm{H}_{2}(\mathrm{U},\mathbf{Q})\), dual de",typographical,"The parenthesis opened before H_2(U,Q) closes after 'duale', so the one right after H_2(U,Q) is superfluous."
+77,correct,"\textit{Ann. Inst. Fourier}, \textbf{6} (1966)","\textit{Ann. Inst. Fourier}, \textbf{6} (1956)",reference,"Serre's GAGA appeared in Ann. Inst. Fourier 6 in 1956 (1955-1956), not 1966."
