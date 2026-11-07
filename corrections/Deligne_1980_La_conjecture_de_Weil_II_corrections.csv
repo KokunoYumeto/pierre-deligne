@@ -1,0 +1,656 @@
+page,kind,earlier_transcription,print,confidence,note
+137,silent change,,,,Le titre imprimé ne comporte pas d’espace de mot entre le point et II.
+137,silent change,,,,par est en italique; le prénom est en petites capitales et le nom en grandes capitales.
+137,silent change,,,,Restitutions typographiques regroupées pour le sommaire; les numéros des sous-sections restent en romain non gras.
+137,transcription error,,,,I est la lettre capitale désignant le premier article.
+138,transcription error,,,,La lettre entre accolades est t et non ℓ.
+138,silent change,,,,Le brouillon ajoute agissant; ce mot n’est pas imprimé.
+138,silent change,,,,"Toutes les occurrences de la page: \mathbf{F}, \mathbf{Q}, \mathbf{Z}; \mathrm{X}, \mathrm{S}, \mathrm{H}, \mathrm{R}, \mathrm{N} et F de Frobenius; \mathscr{F}. Ces distinctions sont aplaties dans le texte brut."
+138,silent change,,,,Restitutions typographiques regroupées. Dans la définition: valeurs propres et sur sont italiques. Le renvoi (3.3.1) est romain.
+138,misprint in print,,,,X sans indice est bien imprimé dans le théorème 1; X_0 semblerait attendu. Forme conservée.
+138,transcription error,,,,Le Q imprimé ne porte pas de barre.
+139,misprint in print,,,,CONJONCTURE est la coquille du titre courant; ce titre courant est omis du corps conformément aux consignes.
+139,silent change,,,,Toutes les occurrences de la page. Le R des réels est gras; le R du foncteur dérivé est romain non gras. Le I dans le déterminant est une capitale romaine.
+139,silent change,,,,"Restitutions typographiques regroupées; le renvoi (cf. (3.2.3)) et les lettres A), B), C) sont romains."
+139,misprint in print,,,,Soient au pluriel est bien imprimé devant cette valeur unique; il n’est pas corrigé en Soit.
+140,silent change,,,,Restitutions systématiques de la page. La fraction 1/2 est verticale; δ/2 reste une fraction oblique.
+140,silent change,,,,L’intitulé est en italique; D) reste romain et les X mathématiques sont droits.
+140,misprint in print,,,,prolongement est nettement imprimé; probablement pour plongement. Le mot imprimé est conservé.
+140,transcription error,,,,Renvoi au premier article: lettre I et non chiffre 1.
+140,transcription error,,,,Première occurrence de ce renvoi sur la page.
+140,transcription error,,,,Deuxième occurrence de ce renvoi sur la page.
+140,transcription error,,,,Troisième occurrence de ce renvoi sur la page.
+140,transcription error,,,,Renvoi au premier article: lettre I et non chiffre 1.
+140,transcription error,,,,Quatrième occurrence du renvoi à I.3.2 sur la page.
+141,misprint in print,,,,Coquille du titre courant; titre courant omis du corps.
+141,silent change,,,,Toutes les occurrences de la page; les lettres des espaces et des foncteurs ne sont pas en italique.
+141,silent change,,,,Restitutions typographiques regroupées. E) et les parenthèses restent romains; H est une capitale mathématique droite.
+141,transcription error,,,,Aucune barre au-dessus du Q imprimé.
+141,transcription error,,,,"Le symbole de partie réelle est un R script, non le R fraktur du brouillon."
+141,transcription error,,,,Aucune barre au-dessus du Q imprimé.
+142,silent change,,,,Restitutions systématiques de la page; le demi du numéro de SGA est composé verticalement.
+142,silent change,,,,Les deux repères de liste sont en italique.
+143,misprint in print,,,,Coquille du titre courant; titre courant omis du corps.
+143,transcription error,,,,Il s’agit du premier article: capitale I.
+143,silent change,,,,Restitutions des alphabets et de la fraction verticale du numéro de SGA.
+143,silent change,,,,ad hoc est imprimé en italique.
+144,silent change,,,,Toutes les occurrences de la page; les barres portent sur le Q seul et les indices restent ordinaires.
+144,silent change,,,,Le brouillon introduit un nouvel alinéa après la première phrase de (0.2); le scan poursuit le même alinéa.
+144,silent change,,,,Restitutions typographiques regroupées: Un est compris dans l’italique de Un point géométrique; Une ne l’est pas dans Une courbe lisse. Seul le premier localement de (0.4) est italique.
+145,silent change,,,,"Typographie non encodée dans le brouillon en texte brut, regroupée pour la page. Dans (0.6), trait est italique dans la définition et dans la première expression citée, mais non dans la seconde. Les capitales mathématiques ordinaires sont droites; les symboles des corps finis et Z sont en gras droit."
+145,transcription error,,,,Le zéro est effectivement abaissé et réduit en indice dans le texte courant.
+145,uncertain,,,,"Le V n’est pas répété après F^m dans l’imprimé. Possible omission typographique, non réparée; le brouillon est ici fidèle."
+146,silent change,,,,"Typographie non encodée dans le brouillon, regroupée pour la page. Faisceaux constructibles est italique lors de l’introduction des catégories de R-faisceaux et de E-faisceaux; les autres occurrences ne le sont pas. Capitales mathématiques ordinaires droites."
+146,misprint in print,,,,Le signe prime surnuméraire après R est bien imprimé et a été conservé; le brouillon le reproduisait déjà.
+146,transcription error,,,,"Dans cette occurrence du foncteur, le sous-indice imprimé après la limite est J. Les occurrences ultérieures de la notation 𝓕_I restent inchangées."
+147,silent change,,,,"Typographie non encodée dans le brouillon, regroupée pour la page. Lisse est italique dans les deux définitions; faisceaux constructibles est italique dans l’introduction de la catégorie des Q̄_ℓ-faisceaux. Capitales mathématiques ordinaires droites."
+147,silent change,,,,Premier alinéa α) de la page : le brouillon remplace la flèche simple imprimée par une flèche d’affectation.
+147,transcription error,,,,"L’isomorphisme est une flèche vers la droite surmontée d’un tilde, non le signe ≃."
+148,silent change,,,,"Typographie regroupée pour la page. À chaque produit tensoriel dérivé, le L droit est centré au-dessus de ⊗, non placé en exposant à droite. Capitales mathématiques ordinaires droites; m est une lettre italique ordinaire, non une lettre gothique."
+148,transcription error,,,,La réduction est reliée à K_n par une flèche surmontée d’un tilde.
+149,silent change,,,,"Typographie non encodée dans le brouillon, regroupée pour la page. Triangles est italique dans la phrase Par abus de langage seulement. Tous les L des produits tensoriels dérivés sont droits et centrés au-dessus de ⊗; les capitales mathématiques ordinaires sont droites."
+150,silent change,,,,"Typographie regroupée pour la page. Dans (1.1.5), faisceau et Q̄_ℓ-faisceau constructible restent romains. Dans (1.1.6), seules les occurrences définitoires des termes indiqués sont italiques; les reprises ultérieures restent romaines. Capitales mathématiques ordinaires droites."
+150,silent change,,,,Le foncteur appartient au texte courant; il n’est pas une formule en vedette. Et : suit sur la même ligne imprimée.
+150,transcription error,,,,L’imprimé porte une flèche vers la droite surmontée d’un tilde.
+151,silent change,,,,"Typographie regroupée pour la page. Dans la définition, faisceau de Weil et groupe de Weil sont romains au milieu du texte italique; les références numériques sont également romaines. Les capitales mathématiques ordinaires, notamment F de Frobenius, sont droites et non grasses."
+151,silent change,,,,"La flèche imprimée est une flèche simple, sans barre initiale."
+151,transcription error,,,,"Dans (1.1.8), le corps du spectre ne porte pas de barre."
+152,silent change,,,,Typographie regroupée pour la page. Seule la première occurrence de topologie est italique. Le signe de somme disjointe est un grand coproduit avec σ dessous. Capitales mathématiques ordinaires droites; symboles des corps finis et Z en gras droit.
+152,misprint in print,,,,Dernière occurrence de Gal dans (1.1.13) : la barre sur k manque dans l’imprimé. Le brouillon l’avait tacitement ajoutée. Les deux occurrences précédentes portent bien une barre.
+152,transcription error,,,,"Le séparateur imprimé est un point bas, non un point médian."
+153,transcription error,,,,"Dans (1.1.13.1), la flèche verticale porte un crochet d’inclusion."
+153,transcription error,,,,"Dans (1.1.13.1), la flèche verticale porte un crochet d’inclusion."
+153,transcription error,,,,"Flèche surmontée d’un tilde, et non signe ≃."
+153,transcription error,,,,"Dans « muni d’un isomorphisme », l’imprimé porte une flèche surmontée d’un tilde."
+153,transcription error,,,,"Dans l’exemple de (1.1.14), Q est gras et sans barre."
+153,transcription error,,,,"Dans le même exemple, Q est gras et sans barre."
+153,transcription error,,,,Première flèche du morphisme composé : flèche surmontée d’un tilde.
+153,transcription error,,,,Deuxième flèche du morphisme composé : flèche surmontée d’un tilde.
+153,misprint in print,,,,Le singulier « muni » est imprimé malgré « faisceaux ». Accord non corrigé; le brouillon le reproduit.
+157,misprint in print,,,,"Le symbole défini est r_v sans étoile, tandis que les quotients suivants emploient r_v^*. Discordance de l’imprimé conservée."
+157,transcription error,,,,"Aucune barre sur X dans cette formule, contrairement au début du paragraphe."
+157,transcription error,,,,"La trivialisation est notée par un simple tilde, sans trait inférieur ni flèche."
+157,silent change,,,,Le brouillon ouvre un nouvel alinéa; l’imprimé continue l’alinéa commençant par « Le caractère χ ».
+158,silent change,,,,"Dans (1.3.5), la fraction est superposée et d est centré au-dessus du signe de puissance extérieure, non placé à sa droite."
+158,transcription error,,,,"Dans (1.3.6), Q est sans barre et en romain non gras; cette graphie est conservée."
+158,transcription error,,,,Il n’y a pas de barre de division dans l’exposant : le degré du corps intervient comme facteur.
+159,silent change,,,,"Au début de la preuve de (1.3.9), le point de base est imprimé sans barre."
+159,silent change,,,,"Dans cette occurrence, l’indice x de la fibre est sans barre."
+159,silent change,,,,Le point de base est imprimé sans barre.
+159,silent change,,,,Le point de base est imprimé sans barre.
+159,silent change,,,,Le point de base est imprimé sans barre.
+159,misprint in print,,,,"L’imprimé porte x_0 minuscule, et le second x est sans barre. Le brouillon normalise les deux graphies; elles sont conservées dans la transcription."
+159,silent change,,,,Le point de base est imprimé sans barre.
+159,silent change,,,,Le point de base est imprimé sans barre.
+159,silent change,,,,"Dans le dernier alinéa, cette occurrence de W a un point de base sans barre."
+159,silent change,,,,Le point de base est imprimé sans barre.
+159,silent change,,,,Le point de base est imprimé sans barre.
+159,silent change,,,,Le point de base est imprimé sans barre.
+160,silent change,,,,"Au début de la preuve de (1.3.8), l’indice de la fibre est x sans barre."
+160,misprint in print,,,,"Dans (1.3.10)(iv), l’imprimé dit « fini », non « d’indice fini », contrairement à ce que requièrent la preuve et le corollaire suivant. Non corrigé."
+160,misprint in print,,,,Le numéro d’exposé imprimé est XXXIV; le renvoi attendu est XXIV. La référence imprimée est conservée.
+161,silent change,,,,Le brouillon isole la formule; dans l’imprimé elle termine le même paragraphe et n’est pas une formule hors texte.
+161,transcription error,,,,"Dans (1.3.13) (i), F est en gras droit, non en romain ordinaire ni en double trait."
+161,transcription error,,,,La barre sur le point base n’est pas imprimée; les barres des indices des fibres précédentes sont en revanche présentes.
+161,transcription error,,,,Q est en gras droit dans l’imprimé.
+161,transcription error,,,,Barre ajoutée dans le brouillon.
+161,transcription error,,,,Barre ajoutée dans le brouillon.
+161,transcription error,,,,Barre ajoutée dans le brouillon.
+161,transcription error,,,,Dernière occurrence du groupe de Weil dans le paragraphe de prolongement; barre ajoutée.
+161,transcription error,,,,Barre ajoutée dans le paragraphe définissant W_1.
+161,transcription error,,,,Z est en gras droit aux trois occurrences: deux exposants de g et la condition n∈Z.
+161,silent change,,,,"Le morphisme composé est imprimé dans le texte, immédiatement avant Puisque, et non en formule isolée."
+162,silent change,,,,"Dans (1.4.1.2), les deux cas sont disposés sur deux lignes; aucun point-virgule n’est imprimé après complet."
+162,transcription error,,,,"Dans (1.4.1) b), l’imprimé porte une flèche vers la droite surmontée d’un tilde."
+162,transcription error,,,,"Gras droit aux deux occurrences de (1.4.2), après sur et dans Spec(F_q)."
+162,misprint in print,,,,"Trois primes sont imprimés dans (1.4.2.3), malgré la définition antérieure de F''; le brouillon les a ramenés à deux."
+163,transcription error,,,,"Dans (1.4.5), F est en gras droit."
+163,transcription error,,,,La lettre A de l’espace affine est en gras droit.
+163,transcription error,,,,Aucun point de multiplication ne sépare les deux facteurs du dénominateur de (1.4.7.1).
+164,transcription error,,,,La lettre du corps fini est en gras droit.
+164,transcription error,,,,"Le premier caractère du renvoi est un I romain majuscule, non le chiffre 1."
+164,misprint in print,,,,L’énoncé de (1.5.2) porte un W majuscule droit; la minuscule du brouillon corrige silencieusement l’imprimé.
+164,transcription error,,,,"Dans a), le premier renvoi commence par I romain majuscule."
+164,transcription error,,,,Le premier renvoi commence par I romain majuscule; ne pas le confondre avec le renvoi interne (1.3.5) dans l’énoncé du lemme.
+164,transcription error,,,,"Dans (1.5.3), R est en gras droit."
+165,misprint in print,,,,"Le dernier facteur du produit porte un a latin dans l’imprimé, contrairement aux α de la formule suivante; conservé."
+165,transcription error,,,,"Dans l’énoncé de (1.6.1), il s’agit d’une flèche surmontée d’un tilde."
+165,silent change,,,,"Dans (1.6.4), le V ajouté par le brouillon n’est pas imprimé."
+166,transcription error,,,,Le diagramme comporte un deux-points après chacun des sept intitulés de ligne.
+166,transcription error,,,,"À gauche, les flèches sautent une ligne et alternent entre les côtés gauche et droit; une flèche arrive d’au-dessus et une autre se prolonge au-dessous."
+166,transcription error,,,,Les points de continuation ajoutés à gauche par le brouillon ne sont pas imprimés.
+166,transcription error,,,,"Le schéma comporte une flèche dans la colonne P_1, deux dans P_2, trois dans P_3 et quatre dans P_4, ces dernières reliant aussi les points de continuation; aucune flèche ne part de P_0."
+166,transcription error,,,,"Les points de continuation extrêmes à droite sont horizontaux, non verticaux."
+166,misprint in print,,,,"Les indices positifs sont bien imprimés et déjà reproduits par le brouillon, malgré les P_{−j} de (1.6.4.1); aucun signe moins n’a été ajouté."
+166,transcription error,,,,Le corollaire (1.6.6) porte une flèche surmontée d’un tilde.
+166,transcription error,,,,La lettre désignant la base est en gras droit.
+166,misprint in print,,,,"L’imprimé dit bien de N, comme le brouillon, alors que N désigne l’endomorphisme; lecture conservée."
+166,silent change,,,,La quatrième ligne de (1.6.7.1) est une rangée de huit points simples. Les trois points des autres lignes occupent également trois positions distinctes; aucune ellipse verticale ou diagonale n’est imprimée.
+166,misprint in print,,,,Le signe moins attendu devant d n’est pas imprimé. Le brouillon conserve déjà cette coquille.
+167,transcription error,,,,"Dans (1.6.8), l’imprimé n’a qu’une paire de parenthèses, celle de la matrice; le brouillon en superpose deux."
+167,transcription error,,,,"Dans la seconde formule de (1.6.8), aucune paire supplémentaire n’entoure la matrice."
+167,silent change,,,,"Dans (1.6.10), l’expression est dans la phrase, entre telle que et soit; elle ne comporte que les parenthèses de la matrice."
+167,silent change,,,,Le brouillon transforme cette expression en formule hors texte.
+167,misprint in print,,,,L’indice j et le V sans indice sont tous deux imprimés et déjà présents dans le brouillon; cette identification fautive n’a pas été corrigée.
+167,silent change,,,,La matrice appartient à la phrase définissant le vecteur de plus bas poids.
+168,transcription error,,,,Flèche surmontée d’un tilde dans (1.6.11.2).
+168,transcription error,,,,Flèche surmontée d’un tilde dans (1.6.11.3).
+168,transcription error,,,,Flèche surmontée d’un tilde dans (1.6.11.4).
+168,misprint in print,,,,"Le renvoi imprimé est bien (1.6.9), comme dans le brouillon, quoique l’action de SL(2) soit construite en (1.6.10); renvoi conservé."
+168,transcription error,,,,Flèche surmontée d’un tilde dans la première formule non numérotée de (1.6.12).
+168,silent change,,,,La somme extérieure est imprimée sans indice; le brouillon supplée j à cette omission probable.
+168,transcription error,,,,"Indépendamment de l’indice ajouté, la seconde formule non numérotée de (1.6.12) porte une flèche surmontée d’un tilde."
+168,transcription error,,,,Flèche surmontée d’un tilde dans (1.6.12.1).
+168,transcription error,,,,Flèche surmontée d’un tilde dans (1.6.12.2).
+168,transcription error,,,,Flèche surmontée d’un tilde dans l’énoncé de (1.6.13).
+168,silent change,,,,La formule termine l’énoncé dans le même paragraphe; elle n’est pas imprimée hors texte.
+169,silent change,,,,Typographie non encodée dans le brouillon en texte brut; occurrences regroupées.
+169,misprint in print,,,,Lecture confirmée et conservée. Le premier ≥ est impossible pour i≥0; un signe moins manque vraisemblablement devant le k intermédiaire.
+169,transcription error,,,,"En (1.6.14.1), l’imprimé porte une flèche vers la droite surmontée d’un tilde."
+169,misprint in print,,,,N est bien imprimé après « de »; la puissance indiquée est pourtant une puissance de λ. Texte conservé.
+170,silent change,,,,Typographie non encodée dans le brouillon; occurrences regroupées.
+170,silent change,,,,"La virgule ajoutée dans l’indice de la somme de (1.6.14.4) n’est pas imprimée. Elle figure bien dans P(j′,j″) sur la ligne explicative suivante."
+170,misprint in print,,,,"« variance » est bien la forme imprimée, vraisemblablement pour « variante »; aucune correction dans le corps."
+170,transcription error,,,,L’idéal maximal est noté par un m fraktur.
+170,transcription error,,,,"Z et Q sont en gras droit dans toutes leurs occurrences, non en romain ordinaire ni en tableau noir."
+171,silent change,,,,"Restitution typographique regroupée pour la page, y compris (1.7.2.2) et (1.7.3). Dans (1.7.5), « filtration par le poids » est au contraire en romain au milieu de l’énoncé italique."
+171,silent change,,,,"En (1.7.2.2), le point imprimé est sur la ligne, non à mi-hauteur."
+171,misprint in print,,,,Renvoi (1.6.15) conservé bien que la section précédente se termine par (1.6.14.5).
+171,misprint in print,,,,Le produit et la borne strictement inférieure sont bien imprimés. La borne j<i décale la filtration par rapport à l’énoncé; elle n’a pas été changée en j≤i.
+171,transcription error,,,,Q est en gras droit.
+171,misprint in print,,,,La torsion négative est bien imprimée et conservée; elle est incompatible avec le type N:V(1)→V dans le produit λN.
+171,misprint in print,,,,"L’exposant positif n est bien imprimé. Avec le Frobenius géométrique et N:V(1)→V, la conjugaison demanderait q^{−n}; aucune correction effectuée."
+172,silent change,,,,Informations typographiques absentes du texte brut; occurrences regroupées.
+172,silent change,,,,Le séparateur imprimé dans (1.7.7) est un point sur la ligne.
+172,transcription error,,,,L désignant l’ensemble de nombres premiers est en gras droit dans toutes ses occurrences.
+172,transcription error,,,,Alphabets gras droits non signalés dans le brouillon; les présences et absences de chapeau sont conservées.
+172,silent change,,,,"La définition est imprimée dans le texte courant, sans mise en équation détachée."
+172,transcription error,,,,La flèche du foncteur n’a pas de barre verticale à son origine.
+172,silent change,,,,Le scan ne présente pas d’alinéa après la phrase terminée par Z_L(1)^I.
+173,silent change,,,,Typographie non encodée dans le brouillon; occurrences regroupées.
+173,transcription error,,,,À distinguer du L droit non gras de J⊂K⊂L et des indices D_L dans le carré.
+173,transcription error,,,,Z et Q sont en gras droit; occurrences regroupées.
+173,transcription error,,,,Le côté supérieur du carré est un double trait sans tilde ni pointe de flèche.
+173,transcription error,,,,Le côté inférieur du carré est également un double trait sans tilde ni pointe de flèche.
+174,silent change,,,,Typographie non encodée dans le brouillon; occurrences regroupées.
+174,transcription error,,,,L et Z sont en gras droit; les alternances imprimées avec et sans chapeau sont conservées.
+174,misprint in print,,,,Le s de « nilpotents » est bien imprimé; l’expression anglaise n’a pas été corrigée.
+174,silent change,,,,"Le texte est accolé au numéro dans l’imprimé, contrairement aux autres paragraphes numérotés voisins."
+175,silent change,,,,Restitution typographique regroupée pour la page. Les renvois numériques restent droits dans les passages italiques.
+175,transcription error,,,,La lettre du corps fini est en gras droit.
+175,silent change,,,,"En (1.8.1.1), le point entre les produits est imprimé sur la ligne."
+175,silent change,,,,"Dans les deux puissances tensorielles, k est centré au-dessus du signe ⊗, non placé en exposant à droite."
+175,silent change,,,,Les parenthèses autour de la puissance tensorielle ne figurent pas dans l’imprimé.
+175,uncertain,,,,"Dans l’énoncé de (1.8.4), la barre sur l’η en indice n’est pas discernable dans les agrandissements. Lecture sans barre retenue, sans compléter d’après la page suivante."
+176,silent change,,,,Typographie non encodée dans le brouillon; occurrences regroupées. Le texte de la remarque reste droit.
+176,transcription error,,,,F et Z sont en gras droit.
+176,silent change,,,,La formule continue le premier paragraphe; elle n’est pas une équation détachée.
+176,silent change,,,,Le point de multiplication est imprimé sur la ligne.
+176,misprint in print,,,,"L’indice initial est bien −i, tandis que la suite du même argument utilise −j sans changement de variable annoncé; conservé."
+176,misprint in print,,,,"V est bien imprimé dans (1.8.5), sans introduction locale de ce symbole; il n’a pas été remplacé par la notation de la fibre."
+177,transcription error,,,,Fontes non encodées dans le brouillon en texte brut; les renvois a) à d) et e) du dernier paragraphe sont également italiques.
+177,transcription error,,,,"Dans (1.8.9): F gras romain, non lettre ordinaire ni caractère ajouré."
+178,transcription error,,,,Restauration des fontes absentes du texte brut; le corps de la Variante reste romain.
+178,transcription error,,,,"Trois occurrences: énoncés de (1.8.10), (1.8.11) et (1.8.12)."
+178,transcription error,,,,"Premier membre de l’injection du dual: signe de dualité en exposant à droite, non caron sur la lettre."
+178,transcription error,,,,Second membre de la même injection.
+178,transcription error,,,,Troisième occurrence du signe de dualité dans ce paragraphe.
+179,transcription error,,,,"Fontes omises dans le texte brut; le corps du Problème est romain, non italique."
+179,transcription error,,,,"Les quatre Z et les trois Q des alinéas a) à c) sont gras romains, y compris les indices."
+179,transcription error,,,,Dans la première phrase de (1.9.1).
+179,transcription error,,,,Derniers mots de la page: L désignant l’ensemble de nombres premiers est gras.
+179,silent change,,,,Les quatre symboles de gradué sont imprimés G sans r; le brouillon les a tous développés en Gr. Graphie imprimée conservée.
+179,transcription error,,,,"Dans l’isomorphisme de (1.8.15): flèche vers la droite surmontée d’un tilde, non signe de congruence."
+180,transcription error,,,,Fontes omises dans le brouillon; les deux alinéas En outre appartiennent aux énoncés italiques.
+180,transcription error,,,,Deux occurrences: introduction de l’action et énoncé de (1.9.2); Z et l’indice L sont gras.
+180,silent change,,,,"Dans les deux membres de l’isomorphisme définissant L, le gradué intérieur est imprimé G sans r; les gradués extérieurs portent bien Gr."
+180,transcription error,,,,Flèche d’isomorphisme dans la définition de la condition L.
+180,uncertain,,,,Pas d’écart du brouillon: le passage de M à W(I) est déjà imprimé. Discordance de notation conservée; statut de coquille incertain.
+181,transcription error,,,,Restauration des fontes; les corps de la Variante et de la Remarque restent romains.
+181,transcription error,,,,"Trois occurrences dans le premier paragraphe: affine type, espace affine et au-dessus de."
+181,transcription error,,,,"Trois occurrences dans et après (1.9.5): sur Z dans l’énoncé, sur Z dans le paragraphe suivant et Z[1/ℓ] dans Spec."
+182,transcription error,,,,Restauration des fontes du texte brut; les lettres a) et b) du choix de l’isomorphisme sont aussi italiques.
+182,transcription error,,,,Première phrase après les conventions.
+182,transcription error,,,,Dans le paragraphe Choisissons: les six Q et le C sont gras romains; les barres et indices restent ceux du brouillon.
+182,misprint in print,,,,"Pas d’écart du brouillon: le dernier exposant de (1.10.1) contient bien X majuscule, contrairement au x du premier exposant. Conservé."
+182,misprint in print,,,,"Pas d’écart du brouillon: le déterminant est imprimé sans exposant −1, malgré la discussion des pôles. Aucun inverse ajouté."
+183,transcription error,,,,"Fontes omises du texte brut; dans la seconde définition, en x, rel. ι est également italique; i.e. dans (1.10.5) est droit."
+183,transcription error,,,,"Le point de multiplication est placé sur la ligne dans l’imprimé, non à mi-hauteur."
+183,misprint in print,,,,Pas d’écart du brouillon: x est imprimé alors que le point du paragraphe est s. Conservé.
+183,misprint in print,,,,Seconde occurrence du même indice x imprimé dans la preuve; conservée.
+183,misprint in print,,,,Pas d’écart du brouillon: deux V majuscules sont imprimés dans la définition; la suite emploie v minuscule. Aucune uniformisation.
+183,silent change,,,,"Dans la première phrase de (1.10.6), p est imprimé en exposant. Le brouillon a corrigé silencieusement cette coquille en indice."
+183,transcription error,,,,"Q est gras dans ses deux occurrences de (1.10.6), dont la première porte le p en exposant signalé séparément; R est gras dans la définition du graphe."
+183,transcription error,,,,Deux occurrences: fin de la définition du polygone et preuve de (1.10.7). Le j est centré au-dessus du signe de puissance extérieure.
+184,transcription error,,,,Restauration des fontes absentes du brouillon en texte brut.
+184,transcription error,,,,"Dans la preuve de (1.10.9), point de multiplication sur la ligne, non point médian."
+184,transcription error,,,,Dans l’énoncé de (1.11.1): Z gras romain.
+184,misprint in print,,,,Pas d’écart du brouillon: s minuscule est imprimé après de; il n’a pas été remplacé par S.
+184,transcription error,,,,"Dans la définition de I_n: initiale I en script et som italique, notation du faisceau d’isomorphismes."
+184,transcription error,,,,Dans l’égalité affichée: initiale A en script et ut italique. Les Aut de l’énoncé et de Aut(F/ℓF) sont au contraire droits.
+184,transcription error,,,,"Les cinq occurrences de L dans le dernier paragraphe sont grasses, y compris les deux exposants de π_1."
+184,uncertain,,,,"Hors la fonte de L signalée séparément, le brouillon suit l’imprimé: X et g portent bien des primes, non des indices 1. Notation non introduite dans cette preuve; éventuelle coquille conservée."
+185,silent change,,,,Les deux intitulés Remarque et les mots Preuve de sont en italique; les trois numéros sont gras.
+185,silent change,,,,"Gras mathématique omis dans le brouillon; toutes les occurrences de ces lettres sont concernées, y compris L en indice ou en exposant."
+185,transcription error,,,,"Dans Soit M_t^n l’image, le t n’est pas surmonté d’une barre."
+185,transcription error,,,,"Dans alors M_{t_1}^n se spécialise, aucune barre sur t_1."
+185,transcription error,,,,"Après un conjugué de, aucune barre sur t_2."
+185,misprint in print,,,,"Le n de T est bien en exposant ici, contrairement aux T_n précédents; cette discordance est conservée."
+185,transcription error,,,,"Le signe imprimé est une simple relation ∼, sans trait inférieur."
+185,transcription error,,,,"Dans la dernière phrase de spécialisation, le t_1 sous φ n’a pas de barre."
+185,transcription error,,,,"Dans la dernière phrase de spécialisation, le t_2 sous φ n’a pas de barre."
+186,silent change,,,,"Les lettres P, F et Z sont grasses dans toutes ces occurrences; ce ne sont pas des lettres en double trait."
+186,transcription error,,,,Le corps placé sous le produit tensoriel est F sans indice q.
+186,silent change,,,,"Le premier sur, dans la conséquence du théorème de Bertini, est en italique."
+186,silent change,,,,Locution imprimée en italique.
+186,silent change,,,,"Dans la phrase commençant par Puisque, sur est en italique; les doubles parenthèses de cet encodage ne désignent pas un signe supplémentaire du scan."
+186,silent change,,,,Intitulé en italique et numéro gras.
+187,silent change,,,,Le titre de subdivision et le numéro du paragraphe sont gras.
+187,silent change,,,,"Toutes les occurrences de ces trois lettres sont grasses, y compris R_+^*, C^* et l’exposant de G/g^Z."
+187,silent change,,,,Les étiquettes restent droites; le brouillon ne conserve pas l’italique des deux énoncés.
+187,misprint in print,,,,"Le scan imprime bien une multiplication par log q, et non une division; la périodicité imprimée est conservée."
+187,silent change,,,,"Les points de multiplication sont imprimés sur la ligne, non centrés; cela concerne aussi les deux ensembles et l’application s↦τ.ω_s."
+187,silent change,,,,Les mots définissant la notion sont en italique.
+187,transcription error,,,,"Le signe de partie réelle est un R script, non le R fraktur ℜ; toutes ses occurrences sur cette page sont concernées."
+188,silent change,,,,Gras mathématique à toutes les occurrences de ces lettres.
+188,silent change,,,,Les étiquettes sont droites; les deux énoncés sont italiques.
+188,transcription error,,,,"R script dans toutes les occurrences, y compris l’exemple (2.1.2) et le théorème (2.1.4)."
+188,silent change,,,,Les points imprimés sont sur la ligne.
+188,silent change,,,,Intitulés italiques et numéros gras; tout le texte du théorème est également en italique.
+188,transcription error,,,,"Le 2 de la référence à Serre est sur la ligne, non en indice."
+188,silent change,,,,L’étiquette de la formule est grasse.
+189,silent change,,,,Les cinq étiquettes de formules sont grasses.
+189,silent change,,,,Tous ces points de multiplication sont imprimés sur la ligne.
+189,silent change,,,,"Italiques dans les deux définitions du paragraphe suivant (2.1.4.3), non dans toutes les mentions ultérieures."
+189,silent change,,,,Positive est en italique dans la phrase introduisant (2.1.4.5).
+189,silent change,,,,Intitulé italique et numéro gras; le texte de l’énoncé et les mots des conditions a) et c) sont italiques.
+190,silent change,,,,Le texte de d) et tout le paragraphe de conclusion du lemme restent en italique.
+190,silent change,,,,"Intitulés italiques et numéros gras; les deux énoncés sont en italique, y compris pour tout sous (2.1.7)."
+190,silent change,,,,Caractère est en italique.
+190,transcription error,,,,"La barre porte sur tout ρ(g), non sur ρ seul."
+190,silent change,,,,La formule est dans le paragraphe imprimé; le brouillon en fait un affichage séparé.
+190,silent change,,,,Le point de multiplication est imprimé sur la ligne.
+190,transcription error,,,,"Ici, à l’inverse de la formule de multiplicité, la barre ne porte que sur φ."
+190,silent change,,,,Les lettres des deux conditions de la preuve et le renvoi a) sont italiques.
+190,silent change,,,,Réels est en italique.
+190,uncertain,,,,"Le second membre est également sans dg dans le scan; omission ou notation abrégée, conservée sans complément."
+191,silent change,,,,Les trois numéros de paragraphes sont gras.
+191,silent change,,,,Les points de multiplication sont imprimés sur la ligne dans tous ces passages.
+191,transcription error,,,,Le p suit N sur la ligne; il n’est pas en indice.
+191,uncertain,,,,Le scan paraît composer det comme un groupe droit joint; cette lecture est conservée plutôt que remplacée silencieusement par de t.
+191,transcription error,,,,"R script à toutes les occurrences, notamment dans l’inégalité, la conclusion sur ζ et l’hypothèse (C)."
+191,silent change,,,,Lettres grasses dans (2.1.10) et (D).
+192,silent change,,,,"Z et C sont gras, y compris Z en exposant et C en indice; G reste romain non gras."
+192,misprint in print,,,,"Le scan porte bien est le volume, et non est de volume; conservé."
+192,silent change,,,,Intitulés italiques et numéros gras; les trois énoncés sont en italique.
+192,transcription error,,,,"Dans la proposition, le signe est un R script et non fraktur; le R romain du paragraphe suivant est conservé séparément."
+192,misprint in print,,,,"Le scan porte un chapeau, non un tilde; la condition positive est incompatible avec la définition des représentations unitaires de Ĝ. Chapeau conservé."
+192,misprint in print,,,,Le signe ♮ manque ici dans l’imprimé alors que la mesure définie est μ^♮; aucune complétion dans le corps.
+192,transcription error,,,,Aucun point de multiplication n’est imprimé entre les deux fractions.
+192,silent change,,,,"La formule est imprimée dans le paragraphe, non en affichage séparé."
+192,silent change,,,,Les points entre représentations sont imprimés sur la ligne.
+192,misprint in print,,,,Le scan emploie ici un R romain ordinaire au lieu du R script défini précédemment; cette différence est conservée.
+192,misprint in print,,,,Le dg supplémentaire est bien imprimé après la différence de mesures; il est absent de la définition de a_n qui suit. Conservé.
+192,silent change,,,,La formule du corollaire appartient au texte de l’énoncé; elle n’est pas un affichage séparé.
+192,silent change,,,,"Phrase en italique, avec le numéro de renvoi droit."
+192,silent change,,,,"Le titre, le numéro du paragraphe et l’étiquette de la suite exacte sont gras."
+193,transcription error,,,,Distinctions d’alphabets non encodées dans le brouillon : capitales ordinaires romaines; C et R des indices et symboles des corps ou des entiers en gras romain. Toutes les occurrences de la page sont concernées; Z désignant le centre reste maigre.
+193,transcription error,,,,"Styles absents du brouillon en texte brut; les repères a), b), c) sont également italiques."
+193,misprint in print,,,,Lecture déjà présente dans le brouillon et conservée. Coquille probable : seul K vient d’être défini.
+193,silent change,,,,"La flèche est dans le texte courant de b), non dans une formule hors texte."
+193,silent change,,,,Le brouillon ajoute un exposant 0 absent de l’imprimé.
+194,transcription error,,,,Alphabets à restituer dans toutes les occurrences : indices C et R et symboles des corps ou des entiers en gras romain; autres capitales mathématiques romaines.
+194,transcription error,,,,Styles non encodés dans le brouillon; le texte de l’exemple reste romain et les repères c) sont italiques.
+194,misprint in print,,,,"Le 1 est bien imprimé et est conservé; coquille probable pour W(X_0,x̄)."
+194,transcription error,,,,"L’imprimé porte un simple tilde, sans barre inférieure ni flèche."
+194,silent change,,,,Paire de parenthèses extérieure ajoutée dans le brouillon.
+194,transcription error,,,,"Dans l’imprimé, s porte sur τ(ιF_v), non sur l’argument de τ."
+194,transcription error,,,,Même déplacement de l’indice s et modification des parenthèses dans le groupe relativement compact.
+194,silent change,,,,Parenthèses extérieures ajoutées au membre de gauche.
+194,transcription error,,,,Prime omis au dénominateur dans la dernière occurrence du quotient.
+194,silent change,,,,La paire de parenthèses entourant l’élément déjà indicé n’est pas imprimée.
+194,misprint in print,,,,Accord fautif de compact avec image dans l’imprimé; le brouillon le corrige tacitement.
+195,transcription error,,,,"Indices R et C et symbole du corps fini en gras romain, dans toutes les occurrences."
+195,transcription error,,,,Styles absents du brouillon; repères a) et b) italiques.
+195,transcription error,,,,"R script, non fraktur : cinq occurrences avec s et une avec τ sur cette page."
+195,silent change,,,,Le brouillon transforme une formule en ligne et son texte en bloc séparé.
+195,silent change,,,,"La définition de Z est imprimée en ligne, dans le même paragraphe."
+195,misprint in print,,,,L’exposant −1 est imprimé avant la parenthèse fermante du déterminant; le brouillon le déplace après celle-ci.
+195,silent change,,,,Aucun point final n’est visible après cette formule dans le scan.
+195,uncertain,,,,"Dans le numérateur de (2.2.9.1), seules deux parenthèses fermantes semblent imprimées après τ_ℓ. Lecture adoptée sans compléter la fermeture du déterminant."
+195,uncertain,,,,"Dans le premier facteur du dénominateur de (2.2.9.1), la fermeture extérieure semble également absente. Lecture adoptée sans ajout."
+196,transcription error,,,,"Symboles des corps, des entiers et indice R en gras romain; cette entrée relève les alphabets, indépendamment de la position de n signalée ci-dessous."
+196,transcription error,,,,Styles non encodés dans le brouillon.
+196,silent change,,,,"Le point multiplicatif est bas dans l’imprimé, non centré."
+196,silent change,,,,Les deux points multiplicatifs sont imprimés sur la ligne de base.
+196,misprint in print,,,,q et n sont imprimés au même niveau en indice; le brouillon rétablit tacitement n en exposant.
+196,misprint in print,,,,Même anomalie d’indice dans la notation du poids; conservée.
+196,silent change,,,,Le point est bas dans l’imprimé.
+196,transcription error,,,,"R script, non fraktur, dans le dernier paragraphe."
+197,transcription error,,,,L’espace projectif et son dual sont désignés par P gras romain; toutes les occurrences sont concernées.
+197,transcription error,,,,"Styles absents du brouillon; les repères (a), (b), (c) de la dernière phrase sont italiques."
+197,transcription error,,,,Le schéma ASCII perd les crochets et la disposition du diagramme imprimé; les deux flèches π sont dirigées vers la gauche.
+197,silent change,,,,Tilde ajouté dans le brouillon; S sans tilde est conservé.
+197,silent change,,,,Deuxième tilde ajouté dans la même phrase.
+198,transcription error,,,,Styles non encodés dans le brouillon.
+198,transcription error,,,,"Les dessins et leurs étiquettes sont omis : S_t dans les trois dessins, D dans le deuxième et deux D dans le troisième."
+198,transcription error,,,,"Le signe imprimé est un tilde sur deux barres : \cong, non \simeq."
+199,transcription error,,,,"Symboles des entiers et des coefficients en gras romain, dans toutes les occurrences."
+199,transcription error,,,,Styles absents du brouillon.
+199,transcription error,,,,"Le 2 est centré au-dessus du signe de puissance extérieure, non placé en exposant à sa droite."
+199,transcription error,,,,Signe \cong imprimé.
+199,transcription error,,,,L’imprimé porte une flèche vers la droite surmontée d’un tilde.
+199,misprint in print,,,,ℓ^n est imprimé en indice de T; le brouillon le transforme tacitement en exposant.
+199,transcription error,,,,Signe \cong imprimé.
+200,transcription error,,,,"Symboles des corps en gras romain, dans toutes les occurrences; F désignant Frobenius ou la filtration reste maigre."
+200,transcription error,,,,Styles non encodés dans le brouillon; le corps de la remarque reste romain.
+201-208,silent change,,,,"Systematic typography not encoded in the plain-text draft, grouped here. Also restored upright mathematical capitals and operators; italic a fortiori on 203; italic dévissage headings on 204; italic minorer and entier on 205; italic Les notations ... sont en vigueur and upright names of the two filtrations/decompositions within (3.4.1) on 207."
+201,transcription error,,,,"Bold alphabets: F_q in (3.2.4), (C), and F_q-schémas; both occurrences of P_0 in (3.2.6). The print does not use blackboard-bold letters."
+202,transcription error,,,,"The algebraically closed field is printed in bold, unlike the Frobenius operator."
+202,misprint in print,,,,"Already reproduced by the draft. The source of the pencil morphism is printed as the product, rather than its blow-up; retained without repair."
+202,misprint in print,,,,In (3.2.7.1) the printed H has no compact-support subscript c. The draft already preserves this apparent misprint.
+202,silent change,,,,The draft supplies a bar on the exceptional point; no bar is visible on this x in the printed sentence.
+202,misprint in print,,,,All four stars are printed as subscripts: the two R^1 terms and the two R^2 terms. The draft silently replaces these by pullbacks.
+203,uncertain,,,,The printed glyph appears to be a barred u; the star is clearly below it. The body follows that visible form rather than restoring π^*. Identification of the barred glyph remains uncertain.
+203,misprint in print,,,,"Both stars in the displayed short exact sequence are subscripts, as in (3.2.9.1); the later prose returns to π^*."
+203,uncertain,,,,"The t subscripts appear unbarred in the display and in the occurrences following où, donc, si, and tous les. The body retains this reading; the tiny subscript accents are less distinct than the surrounding text."
+203,misprint in print,,,,The draft already reproduces the printed β. In this weight-zero argument β is unexplained; retained rather than replaced by 0.
+203,transcription error,,,,Both field symbols in the final paragraph are bold in the print.
+204,transcription error,,,,Bold F in the opening continuation and bold Z in Theorem (3.3.1).
+205,silent change,,,,Nous appliquerons continues the paragraph beginning Notons que; the draft inserts a paragraph break.
+205,transcription error,,,,The horizontal arrow labelled j has an inclusion hook.
+205,transcription error,,,,The left-pointing arrow from D has an inclusion hook at its tail.
+205,silent change,,,,"The print has i_!, not i_*. Although the two functors agree for this closed immersion, the printed notation is retained."
+205,transcription error,,,,The draft omits the initial i_! in the sentence immediately following the short exact sequence.
+205,transcription error,,,,The base ring is printed in bold.
+206,misprint in print,,,,The print omits the dual sign on the coefficient sheaf in the proof of (3.3.5). The draft silently repairs it.
+206,misprint in print,,,,The grammatical duplication is present in the print and already retained by the draft.
+206,transcription error,,,,"In the print i is directly below the right edge, and the diagonal ends at that corner. The draft places i before the right edge and extends the diagonal beyond the square."
+206,transcription error,,,,The printed square is raised above the r-axis. Its top edge extends left to the s-axis and its right edge extends down to d on the r-axis. The diagonal extends beyond both square corners and crosses the axis at i. The draft instead puts the square on the axis and d below its left edge.
+206,transcription error,,,,Bold F in Spec and in (3.3.4)–(3.3.6); bold Q in both occurrences in (3.3.7). The overbar on the final Q is genuinely printed on this page.
+207,silent change,,,,The print has bold Q without an overbar.
+207,silent change,,,,In (3.3.9) the coefficient field is again bold Q_ℓ without an overbar.
+207,silent change,,,,No overbar is printed on the Q on the left-hand side.
+207,silent change,,,,No overbar is printed on the Q on the right-hand side.
+207,transcription error,,,,"Bold field/ring alphabets: F_q in (3.3.9), (*), and (3.4.1); R in (3.3.10) and the sum in (3.4.1)(i); Z in (3.3.10), the sum index, and poids mod Z."
+208,transcription error,,,,"Bold F in W(k̄/F_q); bold Z in the congruences in (3.4.3), its proof, and (3.4.4)."
+209,transcription error,,,,Les parenthèses extérieures du brouillon ne sont pas imprimées.
+209,silent change,,,,Le brouillon complète tacitement une formulation fautive de l’imprimé; cette formulation est conservée.
+209,misprint in print,,,,Le but est bien imprimé X sans indice 0; le brouillon reproduit cette coquille.
+209,transcription error,,,,Le gras des lettres désignant les corps et anneaux n’est pas indiqué dans le brouillon.
+209,silent change,,,,Concerne les trois numéros et tous les intitulés de preuve de la page; les indications (i) et (ii) restent en romain.
+210,transcription error,,,,Le crochet au départ de la première flèche verticale manque dans le brouillon.
+210,transcription error,,,,Le crochet au départ de la deuxième flèche verticale manque dans le brouillon.
+210,transcription error,,,,"Toutes les occurrences: Z en (3.4.10) et dans le diagramme; Q_ℓ en (3.4.11), (3.4.13), (3.4.14); P^1 en (3.4.14)."
+210,silent change,,,,"Mise en forme absente du brouillon pour (3.4.9) à (3.4.14), (3.5) et (3.5.1); Preuve de est également en italique."
+210,silent change,,,,L’emphase imprimée en (3.4.9) manque.
+210,silent change,,,,Seul potentiellement est en italique dans la définition (3.4.10).
+211,silent change,,,,Le ♮ ajouté par le brouillon est absent à cet endroit; il figure bien dans (3.5.3).
+211,transcription error,,,,"Les quatre occurrences de la partie réelle emploient un R calligraphique/script, non le R fraktur ℜ."
+211,silent change,,,,La barre sur x manque dans l’imprimé à cette occurrence; elle n’est pas rétablie.
+211,transcription error,,,,Aucun point de multiplication n’est imprimé dans (3.5.2.1).
+211,misprint in print,,,,"Dans le membre gauche de (3.5.2.1), x est imprimé sans indice 0; conservé."
+211,misprint in print,,,,Le membre droit de (3.5.2.1) a bien x_0 sous la somme mais x dans le sommant.
+211,silent change,,,,Le scan ne détache pas cette formule en un paragraphe mathématique.
+211,transcription error,,,,"Le 2 est placé au-dessus du signe de puissance extérieure, non à sa droite."
+211,transcription error,,,,"Gras mathématique rétabli à toutes les occurrences, y compris les extensions F_{q^{nd+i}}."
+211,silent change,,,,"Concerne (3.5.2) à (3.5.5), ainsi que le numéro de formule (3.5.2.1)."
+212,misprint in print,,,,L’imprimé porte Z/n² sans parenthèses; la notation (Z/n)² apparaît ensuite dans la définition de α.
+212,silent change,,,,Le s imprimé est conservé malgré l’accord fautif avec sous-groupe.
+212,transcription error,,,,La flèche imprimée n’a pas de barre de départ.
+212,silent change,,,,"Le scan présente une matrice entre grandes parenthèses, non une succession de couples."
+212,misprint in print,,,,Coefficient imprimé conservé dans la phrase sur la mesure de Haar; la densité ainsi écrite a une masse totale de 1/4.
+212,misprint in print,,,,Le signe plus devant la trace est bien imprimé; il est conservé.
+212,misprint in print,,,,Le même coefficient fautif est répété dans (3.5.7); conservé.
+212,silent change,,,,Le scan ne détache pas cette formule en un paragraphe mathématique.
+212,silent change,,,,L’emphase imprimée manque dans le brouillon.
+212,silent change,,,,Le titre abrégé du périodique et le numéro de volume sont en italique.
+212,transcription error,,,,Gras mathématique rétabli à toutes les occurrences de ces lettres.
+212,silent change,,,,Mise en forme de l’imprimé absente du brouillon.
+213,transcription error,,,,Le F imprimé est gras et ne porte aucune barre.
+213,misprint in print,,,,Le point dans le but est imprimé s sans indice 0; conservé.
+213,transcription error,,,,Gras mathématique rétabli à toutes les occurrences.
+213,silent change,,,,Mise en forme non représentée dans le brouillon.
+214,uncertain,,,,"La lecture X sans prime est certaine; dans ce calcul portant sur X′, l’absence de prime paraît être une coquille. X est conservé."
+214,transcription error,,,,"Les deux flèches verticales du scan portent sur le premier terme de la ligne horizontale, non sur H^i(X_{η̄})^I."
+214,transcription error,,,,Gras mathématique rétabli à toutes les occurrences.
+214,silent change,,,,Mise en forme non représentée dans le brouillon.
+215,transcription error,,,,Le titre porte un I majuscule.
+215,transcription error,,,,I majuscule imprimé dans ce renvoi.
+215,transcription error,,,,I majuscule imprimé à la fin du paragraphe introductif de (3.7).
+215,transcription error,,,,I majuscule imprimé dans ce renvoi de (3.7.1).
+215,transcription error,,,,I majuscule imprimé dans le dernier renvoi de (3.7.1).
+215,transcription error,,,,I majuscule imprimé au début de (3.7.2).
+215,misprint in print,,,,"Orthographe imprimée conservée, sans normalisation en Ramanujan-Petersson."
+215,misprint in print,,,,"Dans (3.7.2.2), le caractère est imprimé ψ minuscule, contrairement aux Ψ du contexte."
+215,misprint in print,,,,"Dans (3.7.2.2), le corps sous la somme est F sans indice q; conservé."
+215,silent change,,,,Le titre abrégé est en italique dans la référence à Steenbrink.
+215,silent change,,,,L’expression latine est imprimée en italique.
+215,transcription error,,,,Gras rétabli pour les corps et l’espace projectif; le Q désignant le polynôme reste en romain non gras.
+215,silent change,,,,Concerne aussi les labels (3.7.2.1) et (3.7.2.2).
+216,misprint in print,,,,La première ligne de (3.7.2.3) porte n en indice de A; les deux suivantes le portent en exposant.
+216,misprint in print,,,,"Les deux derniers termes sont imprimés identiquement, avec un astérisque sous f̄ dans chacun; répétition conservée."
+216,misprint in print,,,,"La prime est bien imprimée, alors que les faisceaux considérés sont sur S_0; conservée."
+216,transcription error,,,,Le dernier renvoi porte un I majuscule.
+216,silent change,,,,Seule l’expression loc. cit. est en italique.
+216,transcription error,,,,Gras mathématique rétabli à toutes les occurrences; les A des espaces affines restent en romain non gras.
+216,silent change,,,,Mise en forme non représentée dans le brouillon.
+217,transcription error,,,,Distinctions d’alphabets non codées dans le brouillon en texte brut; toutes les occurrences de la page sont concernées. Le gras imprimé n’est pas du double trait.
+217,transcription error,,,,Typographie absente du brouillon; la référence bibliographique après (4.1.2) reste en romain.
+217,transcription error,,,,Le second caractère du symbole de classe est un l bouclé; rendu par c\ell.
+217,misprint in print,,,,L’imprimé porte bien prolongement plutôt que plongement; conservé sans correction.
+218,transcription error,,,,Gras mathématique non codé dans le brouillon; toutes les occurrences. Les autres capitales mathématiques sont droites.
+218,transcription error,,,,Typographie absente du brouillon; le corps de (4.1.3) est en romain.
+219,silent change,,,,Les points de suspension aux deux extrémités ont été ajoutés; ils ne figurent pas dans l’imprimé.
+219,transcription error,,,,L’imprimé a une flèche surmontée d’un tilde et non le signe ≃.
+219,transcription error,,,,Même substitution d’un signe d’isomorphisme à une flèche.
+219,transcription error,,,,"Gras mathématique non codé; toutes les occurrences, y compris l’exposant de Tor. Les capitales ordinaires sont droites."
+219,transcription error,,,,Typographie absente du brouillon.
+220,transcription error,,,,Toutes les occurrences de la page: le signe est placé en exposant à droite et non comme un accent au-dessus de la lettre.
+220,transcription error,,,,"Gras mathématique non codé; toutes les occurrences. X, D, S, U, H et I sont des capitales droites."
+220,transcription error,,,,"Sont italiques le titre Théorie globale, transverse à sa définition, chemin, groupe de monodromie, les noms et corps des énoncés. Dans (4.2.4), cycles évanescents et partie évanescente restent en romain à l’intérieur du texte italique."
+220,misprint in print,,,,"Le twist imprimé est bien (m), bien que la notation locale ait introduit n′; conservé."
+221,transcription error,,,,Toutes les occurrences de la page: exposant à droite et non caron suscrit.
+221,transcription error,,,,La barre sur η n’est pas imprimée à cet endroit.
+221,transcription error,,,,"Gras mathématique non codé; toutes les occurrences, ainsi que le P de l’espace projectif dual. Les autres capitales mathématiques sont droites."
+221,transcription error,,,,Typographie absente du brouillon; le titre (4.3) est en gras.
+222,uncertain,,,,Lecture 0 retenue aux sept occurrences du point de base. Le zéro elzévirien du scan ressemble à un o; la distinction graphique n’est pas absolument certaine.
+222,transcription error,,,,Le crochet de la flèche verticale a été omis.
+222,transcription error,,,,Le crochet de la seconde flèche verticale supérieure a été omis.
+222,transcription error,,,,"Gras mathématique non codé; toutes les occurrences. H, R, X, Y, A et S sont droits."
+222,transcription error,,,,Typographie absente du brouillon.
+222,misprint in print,,,,Z/m est bien imprimé dans cette assertion ℓ-adique; non remplacé par Z_ℓ.
+223,transcription error,,,,La flèche supérieure du premier diagramme a deux pointes; celle du second n’en a qu’une.
+223,transcription error,,,,Le crochet de la flèche inférieure du premier diagramme a été omis.
+223,transcription error,,,,Le crochet de la flèche inférieure du second diagramme a été omis.
+223,transcription error,,,,Le second caractère du symbole de classe est un l bouclé; rendu par c\ell.
+223,misprint in print,,,,L’imprimé montre une flèche à deux pointes. Cette probable coquille dans la définition du topos est conservée plutôt que remplacée par la flèche simple du brouillon.
+223,transcription error,,,,Gras mathématique non codé; toutes les occurrences. Les capitales ordinaires et Ev sont droits.
+223,transcription error,,,,Typographie absente du brouillon; les deux numéros des diagrammes sont également gras.
+224,misprint in print,,,,Le brouillon ajoute les deux barres attendues mathématiquement; elles manquent dans cette phrase de l’imprimé et ne sont pas rétablies.
+224,silent change,,,,L’étiquette σ a été ajoutée au diagramme; aucune étiquette n’est imprimée sur cette flèche.
+224,misprint in print,,,,"Le dernier lien inférieur est bien une égalité imprimée, non la flèche structurelle attendue; conservé."
+224,transcription error,,,,"Dans la première des deux vérifications, l’indice de η comporte des parenthèses."
+224,transcription error,,,,Même omission dans la seconde vérification. Les autres η̄_s de la page sont imprimés sans ces parenthèses.
+224,transcription error,,,,"H gras aux huit occurrences indiquées: trois dans (4.3.5.1), deux après le diagramme, deux dans la conclusion de (4.3.6), une au milieu de la suite exacte. Les H ordinaires du reste de la preuve ne sont pas uniformisés en gras."
+224,transcription error,,,,Le brouillon ne code pas la distinction entre le P gras de l’espace projectif et le P droit non gras du torseur; toutes les occurrences. Les autres capitales ordinaires sont droites.
+224,transcription error,,,,Typographie absente du brouillon.
+225,transcription error,,,,Systematic loss of mathematical boldface: all projective-space P and integer-ring Z; the three hypercohomology H; and the simple-complex s in both diagrams and text. The torsor P and ordinary cohomology H are not bold.
+225,transcription error,,,,Typographical distinctions absent from the plain-text draft.
+225,transcription error,,,,The scan has no subscript s on the η̄ following mod.
+225,transcription error,,,,"The subscript is Greek sigma, not Latin s."
+225,uncertain,,,,Already reproduced by the draft. The printed t is retained; the earlier display on this page uses o.
+226,transcription error,,,,"Systematic loss of boldface, throughout the page, for these mathematical symbols; s is the simple-complex symbol in the diagrams."
+226,transcription error,,,,The corollary statement is italic; its displayed mathematics retains the printed mathematical alphabets.
+227,transcription error,,,,"Systematic mathematical-boldface distinction, at every occurrence on this page."
+227,transcription error,,,,The theorem's a) and b) labels are upright; its assertions and both lemma statements are italic.
+227,misprint in print,,,,The scan clearly prints N. The draft silently corrected the apparent misprint to W.
+228,transcription error,,,,"Bold C in W⊕C.δ, C-espace, and C(δ″−δ′); not blackboard bold."
+228,transcription error,,,,"The prose proof is upright. The a), b), c) labels and their references in the final paragraph are italic."
+228,silent change,,,,"The multiplication point is printed on the baseline, not at mid-height."
+228,misprint in print,,,,"A prime is printed on the first δ; the subsequent condition is nevertheless (δ,δ)=2. The draft silently removes that prime."
+228,misprint in print,,,,"Already present in the draft. The first subscript is unprimed δ, although the two vectors just named are δ′ and δ″; retained."
+228,misprint in print,,,,Second occurrence of the same printed subscript inconsistency; retained.
+229,transcription error,,,,Systematic loss of boldface for projective spaces and fields. Frobenius F_x is ordinary upright roman.
+229,transcription error,,,,Typographical distinctions absent from the draft.
+229,transcription error,,,,The printed inequality has two horizontal equality bars beneath the greater-than sign.
+230,transcription error,,,,Boldface restored at every occurrence of these field and ring symbols.
+230,transcription error,,,,The theorem's a) and b) labels are upright; their statement text is italic.
+230,silent change,,,,The scan has a stacked fraction without enclosing parentheses and a baseline multiplication point.
+230,silent change,,,,The multiplication point is printed on the baseline.
+230,misprint in print,,,,Already present in the draft. The printed constant is −2; the reflection trace calculation would give −4. The printed formula is retained.
+231,transcription error,,,,Systematic mathematical-boldface distinction. Polynomial P and Q and Frobenius F remain ordinary upright roman.
+231,transcription error,,,,The words divise and et in the statement displays are also italic.
+231,silent change,,,,The product in the proof of (4.5.1) uses a baseline point.
+231,silent change,,,,The product in (4.5.2) uses a baseline point.
+231,misprint in print,,,,Already present in the draft. Printed +2 is retained; it carries forward the erroneous −2 in the preceding page's trace formula.
+232,transcription error,,,,"Systematic boldface distinction for projective space, fields, and the profinite integers; Frobenius F and polynomial P are not bold."
+232,transcription error,,,,The unlabelled prose assertions and proof remain upright.
+232,silent change,,,,"The closure is printed with a superscript minus, not an overbar."
+232,silent change,,,,Second occurrence of the printed superscript-minus closure notation.
+232,misprint in print,,,,Already present in the draft. The number (4.5.4) is printed twice; neither occurrence has been renumbered.
+233,transcription error,,,,"Relevé typographique pour toute la page : types de racines et W en romain; Z en gras romain, non en double barre."
+233,transcription error,,,,L’introduction du premier cas est en italique; les symboles conservent leurs alphabets mathématiques.
+233,transcription error,,,,Le g de cette réunion n’a pas de barre.
+233,transcription error,,,,L’introduction du second cas est également en italique.
+233,misprint in print,,,,Graphie imprimée conservée; le nom usuel est Hurwitz. Le brouillon reproduisait déjà cette coquille.
+234,transcription error,,,,Relevé systématique des alphabets de cette page : corps et anneau de base en gras romain; autres capitales mathématiques citées en romain.
+234,transcription error,,,,"Italique définitoire en (5.1.1), absent du brouillon en texte brut."
+234,transcription error,,,,Première occurrence définitoire de t-graduation en italique.
+234,transcription error,,,,Ces deux mots sont en italique en (5.1.2).
+234,transcription error,,,,"En (5.1.3), la partie définitoire est en italique; DG reste romain."
+234,transcription error,,,,"Seconde occurrence définitoire de t-graduation en italique, en (5.1.3)."
+235,transcription error,,,,"Relevé systématique des alphabets de cette page; les lettres des anneaux usuels sont grasses, les autres capitales citées et DRS sont romains."
+235,misprint in print,,,,"L’imprimé emploie bien isomorphisme après avoir introduit un morphisme vers l’algèbre de De Rham-Sullivan; cette anomalie, déjà présente dans le brouillon, n’est pas corrigée."
+235,transcription error,,,,Le mot un est expressément en italique.
+235,transcription error,,,,Italiques de la dénomination définitoire en (5.1.6.1); DG et le sur qui suit restent romains.
+235,silent change,,,,"En (5.1.6.3) a), aucun A ne figure sous le produit tensoriel; l’étoile de la puissance extérieure est centrée au-dessus du signe."
+235,silent change,,,,Même ajout non imprimé du sous-indice A en b); l’étoile extérieure est également placée au-dessus du signe.
+236,transcription error,,,,Relevé systématique des alphabets de cette page. Le S ordinaire est romain et se distingue du S cursif désignant l’ensemble des simplexes.
+237,transcription error,,,,"L’étoile est centrée au-dessus du signe de puissance extérieure, comme dans (5.1.6.3)."
+237,transcription error,,,,Relevé systématique des alphabets de cette page; les occurrences du X gras du système projectif sont détaillées séparément.
+237,transcription error,,,,"Le système projectif est désigné par un X gras, à distinguer des X^α."
+237,transcription error,,,,Le X du membre de gauche est gras; X^α ne l’est pas.
+237,transcription error,,,,Le X du membre de gauche est gras.
+237,transcription error,,,,X est gras et le texte de l’hypothèse est en italique.
+237,transcription error,,,,Le premier X est gras. Le X après lim proj est effectivement maigre dans l’imprimé : cette incohérence typographique est conservée.
+237,transcription error,,,,Les trois X de la suite des coefficients universels sont gras.
+237,transcription error,,,,"Les deux X sont gras; n est placé sous lim, non sous proj."
+237,transcription error,,,,X gras dans le point a).
+237,transcription error,,,,X gras dans le point b).
+237,transcription error,,,,Les trois X de cette suite exacte sont gras.
+237,transcription error,,,,Les deux X sont gras.
+237,transcription error,,,,Les deux X de la phrase suivant (5.2.1.5) sont gras.
+238,transcription error,,,,"Relevé systématique des alphabets de cette page; les X des trois premières formules sont toutefois gras, comme détaillé ci-dessous."
+238,transcription error,,,,Les deux X désignent le système projectif et sont gras.
+238,transcription error,,,,Les deux X sont gras.
+238,transcription error,,,,Les deux X sont gras.
+238,misprint in print,,,,"L’imprimé porte k, non k_1, bien que le corps dénombrable introduit soit k_1; conservé."
+238,misprint in print,,,,"L’imprimé n’a pas l’indice 1 au but de ce morphisme, malgré le contexte des revêtements de X_1; conservé."
+238,silent change,,,,Le brouillon a rétabli les indices attendus; l’imprimé a bien 1 en exposant et α en indice.
+238,silent change,,,,Même interversion imprimée de 1 et α dans la formule; elle est conservée.
+239,transcription error,,,,"Relevé systématique des alphabets de cette page, en distinguant les X gras des systèmes projectifs."
+239,silent change,,,,Le brouillon ajoute une paire de parenthèses autour du quotient. Cette paire ne figure pas dans l’imprimé.
+239,misprint in print,,,,"L’imprimé change effectivement la position de α; cette variation, déjà reproduite par le brouillon, n’est pas uniformisée."
+239,transcription error,,,,Construction et le texte de l’énoncé sont en italique; le numéro est gras; DG et [6] restent romains.
+239,transcription error,,,,"Dans les isomorphismes de comparaison, le premier X est maigre, non gras."
+239,transcription error,,,,"Dans la chaîne finale seulement, une flèche vers la droite est imprimée sous lim; elle manque dans le brouillon."
+239,transcription error,,,,"Au dernier terme de la chaîne, X est romain maigre et le C en indice est gras."
+240,transcription error,,,,Relevé systématique des alphabets de cette page; les deux k minuscules anormaux sont signalés séparément.
+240,silent change,,,,"L’imprimé a un k minuscule sous la barre, malgré le K majuscule du contexte; conservé."
+240,silent change,,,,"Après le produit tensoriel, l’imprimé a encore k minuscule; le K de type K̄^* reste majuscule."
+240,misprint in print,,,,L’astérisque après K̄ est bien imprimé dans ce produit tensoriel; il n’est pas supprimé.
+241,transcription error,,,,"Écart typographique systématique regroupé : les corps et G_m sont en gras plein, non en double barre; H, X, A, G_1, G_2, U et le W de la filtration sont romains droits. Toutes leurs occurrences sont concernées."
+241,transcription error,,,,Italique non indiqué dans le brouillon.
+241,transcription error,,,,Restitution typographique regroupée pour ces trois entrées; la référence (5.3.1) dans le lemme reste droite.
+241,transcription error,,,,Le W désignant une graduation est script dans cet énoncé.
+241,misprint in print,,,,L’imprimé porte n à gauche mais j≤m dans la somme. Le brouillon avait silencieusement remplacé n par m; n est conservé.
+241,transcription error,,,,"W est une lettre script munie de l’indice j, non un exposant placé à gauche."
+241,misprint in print,,,,Singulier terme imprimé et conservé; le brouillon suit ici le scan.
+242,transcription error,,,,"Graisse pleine rétablie dans toutes les occurrences, y compris les deux indices de 𝓜. Le Q désignant un quotient algébrique reste maigre. Les autres capitales mathématiques ordinaires sont droites; h dans Aut h est italique."
+242,transcription error,,,,Restitution typographique regroupée; le numéro de la formule (5.3.9.1) est lui aussi gras.
+242,transcription error,,,,Seule cette première occurrence de continu est mise en italique.
+242,transcription error,,,,Accentuation typographique de pas omise.
+243,transcription error,,,,"Graisses mathématiques rétablies partout, y compris dans les indices Q; les autres capitales ordinaires et les opérateurs Hom et lim ind sont droits."
+243,transcription error,,,,Restitution typographique regroupée; le titre de la partie VI reste en capitales.
+243,transcription error,,,,Les trois passages sont en italiques; les marques a) et b) de cette page sont droites.
+243,misprint in print,,,,"L’indice Q manque déjà dans l’imprimé, après l’introduction de 𝓕_Q. Le brouillon suit cette inadvertance; aucun indice n’a été ajouté."
+243,transcription error,,,,"La fraction est empilée dans la référence imprimée, non composée avec une barre oblique."
+244,transcription error,,,,"Graisses rétablies. Dans la phrase Il existe donc..., A_S^1 est en revanche maigre dans le scan et le reste ici. Les autres capitales ordinaires sont droites."
+244,transcription error,,,,Restitution typographique regroupée pour toutes les entrées numérotées de la page.
+244,transcription error,,,,"En (6.1.4), Dans ce cas et la suite reviennent au romain; toute la phrase de (6.1.5) est italique."
+244,transcription error,,,,Les deux diagonales du premier diagramme portent des pointes dirigées vers A_S^1; elles ne sont pas de simples traits.
+244,transcription error,,,,Distinction typographique entre le petit label du diagramme et les deux expressions du paragraphe suivant.
+244,transcription error,,,,Fraction empilée dans la référence à Th. finitude.
+245,transcription error,,,,Les numéros de paragraphes sont gras; les étiquettes de formules (1) et (2) restent maigres.
+245,silent change,,,,"La première suite exacte porte i_!, non i_*. Leur équivalence pour ce plongement fermé ne permet pas de substituer la notation."
+245,transcription error,,,,Typographie mathématique regroupée : capitales ordinaires et red droits dans toutes les occurrences; m dans R/m^n est italique.
+246,transcription error,,,,"Graisse pleine rétablie; les autres capitales ordinaires, notamment R, S, X, F et I, sont droites, ainsi que Ext et Gr."
+246,transcription error,,,,Restitution typographique regroupée pour les trois entrées.
+246,transcription error,,,,Italique dans cette phrase de définition; la première mention de la même expression au début de (6.1.12) reste droite.
+246,transcription error,,,,Le terme défini est en italique.
+246,silent change,,,,Cette occurrence porte une virgule dans le scan. Les occurrences suivantes portent bien une barre oblique.
+246,transcription error,,,,Restitution des six marques ou renvois alphabétiques de cette définition.
+246,transcription error,,,,Fraction empilée dans la référence initiale.
+247,transcription error,,,,"Graisses et alphabet romain rétablis partout; les H des faisceaux de cohomologie restent script, comme dans le brouillon."
+247,transcription error,,,,"La variante et les définitions sont en italiques, sauf les locutions définies est mixte de poids et est pur de poids, qui sont droites. Le texte des exemples est droit."
+247,transcription error,,,,Les trois marques alphabétiques sont italiques.
+247,transcription error,,,,Italique du terme défini omis.
+247,transcription error,,,,Le mot Exemple est en italique.
+247,transcription error,,,,"Hom est en italique dans ces trois occurrences, sans soulignement; R reste droit."
+247,silent change,,,,"Le scan porte une flèche simple, sans barre de départ."
+247,uncertain,,,,Lecture certaine : l’indice est 1 aux deux endroits et le brouillon le reproduit. Possible coquille pour la page E_2 de la suite spectrale usuelle; aucune correction apportée.
+247,transcription error,,,,"Le scan commence un nouveau paragraphe, avec alinéa, à L’aboutissement."
+248,transcription error,,,,"Graisses et alphabets rétablis dans toutes les occurrences; A_0 est maigre, contrairement au symbole d’espace affine de la page 244."
+248,transcription error,,,,"Proposition et Théorème, y compris son intitulé parenthétique et est surjectif, ont leurs énoncés en italiques. Le texte de la Variante reste droit. Les marques des deux listes et le renvoi (6.2.5) a) sont italiques."
+248,silent change,,,,Les deux Q sont sans barre dans la formule de c). Le brouillon avait ajouté deux barres absentes du scan.
+248,transcription error,,,,"Les deux Hom de c) sont italiques; celui de D′K=R Hom(K,K′_X), en (6.2.7), est au contraire droit dans l’imprimé."
+248,transcription error,,,,Italique du terme défini omis.
+248,transcription error,,,,"Les deux lettres de sp sont italiques dans la formule de spécialisation, non composées comme un opérateur romain."
+249,silent change,,,,Capitales mathématiques ordinaires droites dans toute la page; cette distinction typographique n’est pas codée dans le brouillon.
+249,silent change,,,,Le brouillon isole la relation en affichage; l’imprimé la donne en ligne avec et et Ceci exprime.
+249,silent change,,,,Numéro de paragraphe imprimé en gras.
+249,transcription error,,,,Le Q barré est gras dans l’imprimé; ce n’est ni un Q ordinaire ni une lettre à double barre.
+249,silent change,,,,Hom est imprimé en italique.
+249,transcription error,,,,Les quatre occurrences de P dans le texte de ce passage sont grasses.
+249,silent change,,,,Étiquette du diagramme imprimée en gras.
+249,misprint in print,,,,Le caron manque dans cette case de l’imprimé; le brouillon l’a silencieusement rétabli. La case est conservée sans caron.
+249,transcription error,,,,La flèche est dirigée de D vers P; son étiquette est au-dessus et non au-dessous.
+249,silent change,,,,Le terme défini générale est imprimé en italique.
+249,silent change,,,,Étiquette de la formule imprimée en gras.
+249,silent change,,,,Proposition et tout l’énoncé sont en italique; le numéro est gras; les repères (i) et (ii) restent droits.
+249,silent change,,,,Dans l’imprimé et se trouve à gauche du second morphisme affiché.
+250,silent change,,,,Capitales mathématiques ordinaires droites dans toute la page; les alphabets distinctifs sont relevés séparément.
+250,silent change,,,,La fraction est superposée dans l’imprimé et non écrite avec une barre oblique.
+250,transcription error,,,,Le P désignant l’espace projectif dual est gras.
+250,silent change,,,,Intitulé et énoncé en italique; numéro en gras.
+250,silent change,,,,Intitulé et énoncé en italique jusqu’à est un isomorphisme; numéro en gras.
+250,transcription error,,,,P est imprimé en gras dans l’énoncé du théorème.
+250,transcription error,,,,La lettre est un O calligraphique et non un O ordinaire.
+250,transcription error,,,,Les trois Z désignant les coefficients sont gras; ils ne sont pas à double barre.
+250,misprint in print,,,,Que manque après supposons dans l’imprimé comme dans le brouillon; aucune insertion n’a été faite.
+250,transcription error,,,,L’imprimé emploie ici H droit ordinaire; le H script ne figure que dans l’hypothèse précédente.
+251,silent change,,,,Capitales mathématiques droites dans la preuve et dans les trois occurrences de I_X de l’ajout sur épreuves.
+251,silent change,,,,L’annonce seule est en italique; le texte qui suit est droit.
+251,silent change,,,,Nom en petites capitales; revue en italique; numéro de volume en gras.
+251,silent change,,,,Nom en petites capitales; Actes ICM et les deux mentions de la revue en italique; volumes en gras.
+251,silent change,,,,Nom en petites capitales et titre des actes en italique.
+251,silent change,,,,Nom en petites capitales; abréviations de publications en italique; 179 en gras. Le numéro 355 reste ordinaire.
+251,silent change,,,,Nom en petites capitales; publications en italique; volume en gras.
+251,silent change,,,,Les quatre noms sont en petites capitales; revue en italique; volume en gras.
+251,silent change,,,,Les deux noms sont en petites capitales; revue en italique; volume en gras.
+251,silent change,,,,Nom en petites capitales; revue en italique; volume en gras. Le numéro (2) reste ordinaire.
+251,silent change,,,,Nom en petites capitales; revue en italique; volume en gras.
+251,misprint in print,,,,La notice [9] se termine bien par une virgule dans l’imprimé; elle n’a pas été remplacée par un point.
+251,silent change,,,,Nom en petites capitales et titre du livre en italique; Publ. Math. Nancago reste droit.
+251,silent change,,,,Nom en petites capitales et titre entier du livre en italique.
+251,silent change,,,,Nom en petites capitales; revue en italique; volume en gras.
+251,silent change,,,,Nom en petites capitales; revue en italique; volume en gras.
+251,silent change,,,,La revue est en italique dans la notice EGA.
+251,silent change,,,,Cette première phrase de la notice SGA est en italique.
+251,silent change,,,,Nom de collection en italique et volume en gras.
+252,silent change,,,,Nom de collection en italique et les trois volumes en gras.
+252,silent change,,,,Fraction superposée dans le sigle; nom de collection en italique; volume en gras.
+252,silent change,,,,Nom de collection en italique et volume en gras.
+252,silent change,,,,Nom de collection en italique et les deux volumes en gras.
+252,silent change,,,,La ligne est en italique; er est en exposant droit et non sur la ligne de base.

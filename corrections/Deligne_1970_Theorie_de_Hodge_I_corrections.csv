@@ -1,0 +1,82 @@
+page,kind,earlier_transcription,print,confidence,note
+425,silent change,$\ell$-adique,$l$-adique,1,Opening paragraph: cohomology
+425,silent change,Définition 1.1. Une,Définition 1.1. — Une,1,Définition 1.1: heading separator
+425,silent change,un,Un,1,Définition 1.1(a): initial capital
+425,silent change,une,Une,1,Définition 1.1(b): initial capital
+425,misprint in print,croissante,croissance,0.99,Définition 1.1(b): adjective; intended croissante
+425,silent change,une,Une,1,Définition 1.1(c): initial capital
+425,silent change,"H^{p,q};","H^{p,q}",1,Axiom (i): terminal punctuation
+425,silent change,"H^{p',q'};","H^{p',q'}",1,Axiom (ii): terminal punctuation
+425,silent change,"\overline{H^{p,q}}=H^{q,p}",\overline{H^{pq}}=H^{qp},1,Axiom (iii): superscript notation
+425,silent change,"\dim H^{p,q}",\dim H^{pq},1,Equation (1.2): superscript notation
+425,silent change,i.e. si,i. e. si,1,Definition of purity: abbreviation
+426,silent change,"On sait que, ou on pose,","On sait que, ou on pose",1,Section 2: introduction to fundamental-group identity
+426,silent change,\ell un nombre premier,l un nombre premier,1,Section 2: choice of auxiliary prime
+426,silent change,$\Zl$- (ou un $\Ql$-),$\Z_l$- (ou un $\Q_l$-),1,Section 2: coefficient modules
+426,silent change,\ell inversible,l inversible,1,Section 2: invertibility hypothesis
+426,silent change,Principe 2.1. Si,Principe 2.1. — Si,1,Principe 2.1: heading separator
+426,silent change,H_{\Ql}=H\otimes_{\Zl}\Ql,H_{\Q_l}=H\otimes_{\Z_l}\Q_l,1,Principe 2.1: scalar extension
+426,silent change,\Zl(1),\Z_l(1),1,Tate module: prose preceding its definition
+426,silent change,"\Zl(1)=\Hom(\Ql/\Zl,\mu)","\Z_l(1)=\Hom(\Q_l/\Z_l,\mu)",1,Tate module: defining display
+426,silent change,"\Hom(\Ql/\Zl,\mu),","\Hom(\Q_l/\Z_l,\mu)",1,Tate module: punctuation after defining display
+426,silent change,\Zl(n)=\Zl(1)^{\otimes n},\Z_l(n)=\Z_l(1)^{\otimes n},1,Tate twists: tensor-power formula
+426,silent change,3. Traduction. Les,3. Traduction. — Les,1,Section 3: heading separator
+426,silent change,$\ell$-adique,$l$-adique,1,Section 3: cohomology
+426,silent change,\Zl(1),\Z_l(1),1,"Section 3: dictionary, Tate-module entry"
+426,silent change,\Z(1).,\Z(1),1,"Section 3: dictionary, final punctuation"
+426,silent change,"sur $\Q$, tel que",sur $\Q$ tel que,1,Section 4: field of definition
+426,silent change,i.e. provienne,i. e. provienne,1,Section 4: parenthetical explanation
+426,silent change,$\ell$-adique,$l$-adique,1,Section 4: cohomology
+426,silent change,"H^*(X,\Zl)","H^*(X,\Z_l)",1,Section 4: cohomology group in prose
+426,silent change,"H^*(X(\C),\Z)\otimes\Zl=H^*(X,\Zl)=H^*(X'_{\barK},\Zl)","H^*(X(\C),\Z)\otimes\Z_l=H^*(X,\Z_l)=H^*(X'_{\barK},\Z_l)",1,Section 4: comparison display
+427,silent change,"H^n(X,\Zl)","H^n(X,\Z_l)",1,Section 4: purity for projective smooth X
+427,silent change,"f^*:H^*(Y,\Zl)\to H^*(X,\Zl)","f^*:H^*(Y,\Z_l)\to H^*(X,\Z_l)",1,Section 4: Galois-compatible pullback
+427,silent change,"H^{2n}(X,\Zl(n))","H^{2n}(X,\Z_l(n))",1,Section 4: twisted cycle-class group
+427,silent change,i.e. définit,i. e. définit,1,Section 4: explanation of Galois invariance
+427,silent change,"\Hom_{\Gal}(\Zl(-n),H^{2n}(X,\Zl))","\Hom_{\Gal}(\Z_l(-n),H^{2n}(X,\Z_l))",1,Section 4: Galois-equivariant Hom display
+427,silent change,i.e. correspond,i. e. correspond,1,Section 4: explanation of Hodge type
+427,silent change,\Hom_{\mathrm{H.M.}},\Hom_{H.M.} (italic letters),0.98,Section 4: Hodge-morphism subscript
+427,silent change,$\Ql$-vectoriels,$\Q_l$-vectoriels,1,Section 5: coefficient field
+427,misprint in print,Une remarque plus utile est la suivante.,Une remarque plus utile est la,1,Section 5: incomplete printed sentence; intended la suivante.
+427,silent change,Scholie 5.1. Soient,Scholie 5.1. — Soient,1,Scholie 5.1: heading separator
+427,silent change,D=\sum_{i=1}^n D_i,D=\sum_1^n D_i,1,Section 6: lower summation limit
+427,silent change,$\ell$-adique,$l$-adique,1,Section 6: cohomology
+427,silent change,R^qj_*\Zl=\bigoplus_{\#Q=q}\Zl(-q)_{D_Q},R^qj_*\Z_l=\bigoplus_{\#Q=q}\Z_l(-q)_{D_Q},1,Equation (6.1): coefficient notation
+427,silent change,"H^p(D_Q,\Ql)\otimes\Zl(-q)\Rightarrow H^{p+q}(U,\Ql)","H^p(D_Q,\Q_l)\otimes\Z_l(-q)\Rightarrow H^{p+q}(U,\Q_l)",1,Equation (6.2): coefficient notation
+427,silent change,"H^p(D_Q,\Ql)","H^p(D_Q,\Q_l)",1,Paragraph after (6.2): pure cohomology group
+427,silent change,À une renumérotation près,A une renumérotation près,1,Paragraph before (6.3): initial capital
+427,silent change,"H^*(U,\Ql)","H^*(U,\Q_l)",1,Paragraph before (6.3): abutment
+427,silent change,"H^k(U,\Ql)","H^k(U,\Q_l)",1,Equation (6.3): coefficient notation
+427,silent change,"E_3^{2k-n,n-k}.","E_3^{2k-n,n-k}",1,Equation (6.3): terminal punctuation
+428,silent change,\footnote{Le texte imprimé renvoie à (6.4) ; il semble viser (7.1).},No footnote or footnote marker,1,Section 7: invented editorial footnote
+428,misprint in print,(6.4),(6.4),1,Section 7: printed cross-reference retained; sic comment added; intended (7.1)
+428,silent change,$\ell$-adique,$l$-adique,1,Section 7: analogue of the spectral sequence
+428,silent change,$\Ql$ ($\ell\ne p$),$\Q_l$ ($l\ne p$),1,Section 8: coefficient field and auxiliary-prime condition
+428,misprint in print,elle se factorise alors par le plus grand,elle se factorise alors le plus grand,1,Section 8: omitted preposition in print; intended alors par le
+428,silent change,pro-$\ell$-groupe $I_\ell$; $\Zl(1)$,pro-$l$-groupe $I_l$; $\Z_l(1)$,1,Section 8: pro-l quotient and Tate module
+428,silent change,Principe 8.1. Dans,Principe 8.1. — Dans,1,Principe 8.1: heading separator
+428,silent change,À l'aide,A l'aide,1,Paragraph after Principe 8.1: initial capital
+428,silent change,T\in I_\ell,T\in I_l,1,Logarithm construction: inertia element
+428,silent change,\Id (upright operator),\mathit{Id} (italic letters),0.98,Logarithm series: identity notation
+428,silent change,"(T,x)\mapsto\log T(x)","(T,x)\to\log T(x)",1,Logarithm construction: application arrow
+428,silent change,\Zl(1),\Z_l(1),1,Equation (8.2): Tate module
+428,silent change,\Zl(1),\Z_l(1),1,Sentence before (8.3): Tate module
+428,silent change,\Zl(1),\Z_l(1),1,Equation (8.3): Tate module
+428,silent change,\Zl(1),\Z_l(1),1,Equation (8.4): Tate module
+429,silent change,"\Zl(-1)\otimes H^*(X,\Zl)\longrightarrow H^*(X,\Zl)","\Z_l(-1)\otimes H^*(X,\Z_l)\longrightarrow H^*(X,\Z_l)",1,Section 8.5: Lefschetz-operator display
+429,silent change,\Zl(1); \Zl(-1),\Z_l(1); \Z_l(-1),1,Section 8.5: modules acting in the analogy
+429,silent change,"\tag{9.1}, producing (9.1)",9.1.,1,Dictionary numbering
+429,silent change,I_\ell=\Zl(1),I_l=\Z_l(1),1,Dictionary 9.1: inertia identification
+429,silent change,"H^i(X_{\barK},\Zl)","H^i(X_{\barK},\Z_l)",1,Dictionary 9.1: Galois module corresponding to the local system
+429,silent change,\Zl,\Z_l,1,"Dictionary 9.1: final row, coefficient notation"
+429,misprint in print,X_{\barK},X_K,0.99,"Dictionary 9.1: final row, base field; intended barred K"
+429,silent change,"H^i(X_{\barK},\Zl).","H^i(X_K,\Z_l) (no final full stop)",1,Dictionary 9.1: final punctuation
+429,silent change,"H^i(X_{\barK},\Zl)","H^i(X_{\barK},\Z_l)",1,Paragraph after dictionary: Galois cohomology group
+429,misprint in print,"\Gr_n^W(H^i(\wt X,\Q))","\Gr_n^W(H^i(\wt X,\Q)",0.99,Expected Hodge structure on the graded piece: missing closing parenthesis in print
+429,misprint in print,\Z(-1),\Z(-1),1,M_n display: printed twist retained; sic comment added; intended \Z(1)
+430,silent change,1969--1970,1969-1970,0.99,Bibliography [2]: year-range punctuation
+430,transcription error,kahlériens,kählériens,1,Bibliography [3]: title
+430,silent change,392--394,392-394,0.99,Bibliography [3]: page-range punctuation
+430,silent change,492--517,492-517,0.99,Bibliography [4]: page-range punctuation
+430,silent change,Bull. Amer. Math. Soc.,Bull. Amer. math. Soc.,1,Bibliography [5]: journal abbreviation
+430,silent change,497--508,497-508,0.99,Bibliography [5]: page-range punctuation

@@ -1,0 +1,314 @@
+page,kind,earlier_transcription,print,confidence,note
+5,silent change,\footnote{Travail présenté comme thèse de doctorat à l'Université d'Orsay.},{\renewcommand{\thefootnote}{(\arabic{footnote})}\footnote{Travail présenté comme thèse de doctorat à l'Université d'Orsay.}},1,Both the callout and the footnote number are parenthesized in print.
+5,silent change,\section*{Introduction},\section*{INTRODUCTION},1,The printed heading is entirely uppercase.
+6,silent change,"\item le théorème (1.2.10), qui ne sera utilisé que via son corollaire (2.3.5), donnant les propriétés fondamentales des \og structures de Hodge mixtes\fg{};","\item Le théorème (1.2.10), qui ne sera utilisé que via son corollaire (2.3.5), donnant les propriétés fondamentales des \og structures de Hodge mixtes\fg{}.",1,The print capitalizes Le and ends item a) with a full stop.
+6,silent change,\item le \og lemme des deux filtrations\fg{} (1.3.16).,\item Le \og lemme des deux filtrations\fg{} (1.3.16).,1,Item b) begins with capitalized Le.
+6,silent change,\subsection*{1.1. Objets filtrés},\subsection*{1.1. Objets filtrés.},1,The printed subsection heading has a final full stop.
+6,silent change,"en général finies, sur les objets de $\calA$.","en général finies, sur les objets de $\calA$ :",1,The print ends this introductory sentence with a colon.
+6,silent change,\paragraph{Définition (1.1.2).},\paragraph{Définition (1.1.2).} ---,1,The em dash following the definition heading is omitted.
+6,silent change,"Une filtration décroissante, resp. croissante, $F$ d'un objet",Une filtration décroissante (resp. croissante) $F$ d'un objet,1,The alternative resp. croissante is parenthesized in print.
+6,silent change,"$(F^n(A))_{n\in\Z}$, resp. $(F_n(A))_{n\in\Z}$, de sous-objets",$(F^n(A))_{n\in\Z}$ (resp. $(F_n(A))_{n\in\Z}$) de sous-objets,1,The alternative family is enclosed in parentheses rather than commas.
+6,silent change,"\forall n,m\qquad n\le m\Rightarrow F^n(A)\supset F^m(A)","\forall n,m\qquad n\le m\Rightarrow F^m(A)\subset F^n(A)",1,The print writes the equivalent inclusion in the opposite order.
+6,silent change,"Si $F$ est une filtration décroissante, resp. croissante, sur $A$",Si $F$ est une filtration décroissante (resp. croissante) sur $A$,1,The resp. clause is parenthesized in print.
+6,silent change,"\paragraph{(1.1.3)} Si $F$ est une filtration décroissante, resp. croissante, de $A$, alors les $F_n(A)=F^{-n}(A)$, resp. les $F^n(A)=F_{-n}(A)$, forment une filtration croissante, resp. décroissante, de $A$.","\paragraph{(1.1.3)} Si $F$ est une filtration décroissante (resp. croissante) de $A$, alors les $F_n(A)=F^{-n}(A)$ (resp. les $F^n(A)=F_{-n}(A)$) forment une filtration croissante (resp. décroissante) de $A$.",1,All three resp. alternatives are parenthesized in print.
+7,silent change,la flèche canonique de $\Coim(f)$ dans $\Imop(f)$,la flèche canonique de $\operatorname{Coïm}(f)$ dans $\Imop(f)$,1,The printed operator is Coïm with a diaeresis.
+7,silent change,les $(A/F^{1-n}(A))^{\circ}$ s'identifient,les $(A/F^n(A))^{\circ}$ s'identifient,1,This preliminary family uses F^n(A) in print rather than F^{1-n}(A).
+7,silent change,"sur $A/X$, unique filtration telle que $p:A\to A/X$ soit strictement compatible aux filtrations, est donnée par",sur $A/X$ (unique filtration telle que $p:A\to A/X$ soit strictement compatible aux filtrations) est donnée par,1,The uniqueness clause is parenthesized in print.
+7,silent change,F^n(A/X)=p(F^n(A))\simeq (X+F^n(A))/X\simeq F^n(A)/(X\cap F^n(A)).,F^n(A/X)=p(F^n(A))\approx (X+F^n(A))/X\approx F^n(A)/(X\cap F^n(A)).,0.99,Both printed comparison symbols are approximately-equal signs.
+8,silent change,\paragraph{Lemme (1.1.9).},\paragraph{Lemme (1.1.9).} ---,1,The em dash following the lemma heading is omitted.
+8,silent change,sur $Y/X\simeq\Ker(A/X\to A/Y)$,sur $Y/X\iso\Ker(A/X\to A/Y)$,1,The print has a rightward isomorphism arrow rather than a relation sign.
+8,silent change,H(\Sigma)=\Ker(g)/\Imop(f)=\Ker(\Coker(f)\to\Coim(g)),H(\Sigma)=\Ker(g)/\Imop(f)=\Ker(\Coker(f)\to\operatorname{Coïm}(g)),1,The printed operator is Coïm with a diaeresis.
+8,silent change,\paragraph{Proposition (1.1.11).},\paragraph{Proposition (1.1.11).} ---,1,The em dash following the proposition heading is omitted.
+8,silent change,H(\Gr(\Sigma))\simeq\Gr(H(\Sigma)).,H(\Gr(\Sigma))\approx\Gr(H(\Sigma)).,0.99,The print uses an approximately-equal sign.
+8,silent change,"($b\in F^n(B)$), qui est dans l'image de $A$",($b\in F^n(B)$) qui est dans l'image de $A$,1,There is no comma after the parenthesized membership condition in print.
+8,misprint in print,F^k(H(A_i))=\bigcap_{\sum k_i=k}\Ker\left(H(A_i)\to H(A_i/F^{k_i}(A_i))\right).,F^k(H(A_i))=\bigcap_{\sum k_i=k}\Ker\left(H(A_i)\to H(A_i/F^{k_i}(A_i))\right).,0.99,For n arguments the printed constraint omits the n−1 shift required by duality.
+9,silent change,\subsection*{1.2. Filtrations opposées},\subsection*{1.2. Filtrations opposées.},1,The printed subsection heading has a final full stop.
+9,transcription error,"Par définition, $\Gr_F^m(A)$ est un quotient","Par définition, $\Gr_F^n(A)$ est un quotient",1,The first graded piece has superscript n in print.
+9,silent change,\paragraph{Définition (1.2.3).},\paragraph{Définition (1.2.3).} ---,1,The em dash following the definition heading is omitted.
+9,silent change,"\item $A^{p,q}=0$ sauf pour un nombre fini de couples $(p,q)$;","\item $A^{p,q}=0$ sauf pour un nombre fini de couples $(p,q)$,",1,Item a) ends with a comma rather than a semicolon.
+10,silent change,"F^p(A)&=\sum_{p'\ge p} A^{p',q'}, \tag{1.2.4.1}\\","F^p(A)&=\sum_{p'\ge p} A^{p',q'} \tag{1.2.4.1}\\",1,There is no comma at the end of equation (1.2.4.1).
+10,silent change,\paragraph{Proposition (1.2.5).},\paragraph{Proposition (1.2.5).} ---,1,The em dash following the proposition heading is omitted.
+10,silent change,"\forall p,q\qquad p+q=n+1\Rightarrow F^p(A)","\forall p,q,\qquad p+q=n+1\Rightarrow F^p(A)",1,The print includes a comma after the quantified pair.
+10,silent change,"A^{p,q}=0 & \text{pour }p+q\ne n,\\","A^{p,q}=0 & \text{pour }p+q\ne n\\",1,The first line of the cases has no final comma in print.
+10,silent change,\paragraph{Preuve.} (i),\paragraph{Preuve.} --- (i),1,The printed proof heading is followed by an em dash.
+10,silent change,F^p\cap\overline F^q=(F^{p+1}\cap\overline F^q)+(F^p\cap\overline F^{q+1})\qquad(p+q>n).,F^p\cap\overline F^q=(F^{p+1}\cap\overline F^q)+(F^p\cap\overline F^{q+1})\qquad\text{pour }p+q>n.,1,The print introduces the condition with pour rather than parentheses.
+11,silent change,\paragraph{Définition (1.2.7).},\paragraph{Définition (1.2.7).} ---,1,The em dash following the definition heading is omitted.
+11,silent change,"A^{p,q}=\Gr_F^p\Gr_{\overline F}^{q}\Gr_W^{-p-q}(A),","A^{p,q}=\Gr_F^p\Gr_{\overline F}^{q}G_W^{-p-q}(A),",0.98,The print reads G_W here and apparently omits the r of Gr.
+11,silent change,\paragraph{Lemme (1.2.8).},\paragraph{Lemme (1.2.8).} ---,1,The em dash following the lemma heading is omitted.
+11,silent change,\item $p_i\le p_j$ et $q_i\le q_j$ pour $i\ge j$;,\item $p_i\le p_j$ et $q_i\le q_j$ pour $i\ge j$.,1,Item a) ends with a full stop rather than a semicolon.
+12,silent change,"La formule (1.2.8.1) se transcrit en
+\[
+B'+C'=D,","La formule (1.2.8.1) se transcrit en
+\[
+B'+C'=D",1,The first displayed equality has no final comma in print.
+12,silent change,B\cap D\subset F^{p_k}(A)\cap W^{n+k}(A)\subset B',B\cap D\subset F^p(A)\cap W^{n+k}(A)\subset B',1,"The scan prints F^p(A), apparently a misprint for F^{p_k}(A)."
+12,silent change,L'assertion $(*_{k+1})$ résulte alors de $(*_k)$ et du lemme suivant.,L'assertion $(*_{k+1})$ résulte alors de $(*_k)$ et du,1,The print ends with et du and proceeds directly to the lemma heading.
+12,silent change,\paragraph{Lemme (1.2.9).},\paragraph{Lemme (1.2.9).} ---,1,The em dash following the lemma heading is omitted.
+12,silent change,\paragraph{Théorème (1.2.10).},\paragraph{Théorème (1.2.10).} ---,1,The em dash following the theorem heading is omitted.
+13,silent change,L'assertion (iii) résulte donc du lemme suivant.,L'assertion (iii) résulte donc du lemme suivant :,1,The printed introduction to the lemma ends with a colon.
+13,silent change,\paragraph{Lemme (1.2.11).},\paragraph{Lemme (1.2.11).} ---,1,The em dash following the lemma heading is omitted.
+13,silent change,"W^n(A)=\sum_{n+p+q\le0} A_i^{p,q}\qquad(i=0,1),","W^n(A)=\sum_{n+p+q\le0} A_i^{p,q}\qquad(i=0,1)",1,Equation (1.2.11.1) has no final comma in print.
+13,silent change,"F^p(A)=\sum_{p'\ge p} A_0^{p',q'},","F^p(A)=\sum_{p'\ge p} A_0^{p',q'}",1,Equation (1.2.11.2) has no final comma in print.
+13,silent change,"Le morphisme $i$ est donc un isomorphisme, et les $A_0^{p,q}$ forment une bigraduation de $A$.","Le morphisme $i$ est donc un isomorphisme, et les $A_0^{pq}$ forment un bigraduation de $A$.",1,The print has A_0^{pq} and the grammatical misprint un bigraduation.
+13,silent change,"\Gr_W(K)=\bigoplus_{p,q}(\Gr_W(K)\cap A^{p,q}).","\Gr_W(K)=\bigoplus_{p,q}(\Gr_W(K)\cap A^{pq}).",1,The exponent on A is printed pq without a comma.
+14,silent change,le morphisme canonique de $\Coim(f)$ dans $\Imop(f)$,le morphisme canonique de $\operatorname{Coïm}(f)$ dans $\Imop(f)$,1,The printed operator is Coïm with a diaeresis.
+14,transcription error,"d'une filtration finie croissante $W$, et de deux filtrations finies décroissantes",d'une filtration finie croissante $W_\bullet$ et de deux filtrations finies décroissantes,1,The first W has a subscript bullet and no following comma in print.
+14,silent change,\subsection*{1.3. Le lemme des deux filtrations},\subsection*{1.3. Le lemme des deux filtrations.},1,The printed subsection heading has a final full stop.
+15,silent change,"E_{r+1}^{p,q}=H\bigl(E_r^{p-r,q+r-1}\xrightarrow{d_r}E_r^{p,q}\xrightarrow{d_r}E_r^{p+r,q-r+1}\bigr).","E_{r+1}^{pq}=H\bigl(E_r^{p-r,q+r-1}\xrightarrow{d_r}E_r^{pq}\xrightarrow{d_r}E_r^{p+r,q-r+1}\bigr).",1,The left-hand and central terms have superscript pq without a comma.
+15,silent change,\paragraph{Proposition (1.3.2).},\paragraph{Proposition (1.3.2).} ---,1,The em dash following the proposition heading is omitted.
+15,silent change,\item la suite spectrale définie par $F$ dégénère ($E_1=E_\infty$).,\item La suite spectrale définie par $F$ dégénère ($E_1=E_\infty$).,1,Item (i) begins with capitalized La.
+15,silent change,\item les morphismes $d:K^i\to K^{i+1}$ sont strictement compatibles aux filtrations.,\item Les morphismes $d:K^i\to K^{i+1}$ sont strictement compatibles aux filtrations.,1,Item (ii) begins with capitalized Les.
+15,silent change,"les $E_r^{p,q}$ soient nulles pour $r\geq 1$",les $E_r^{pq}$ soient nulles pour $r\geq 1$,1,The print writes the superscript pq without a comma.
+15,silent change,"même image dans $E_1^{p,q}$. Modifiant $y$ par un bord et posant $z=x-y$","même image dans $E_1^{pq}$. Modifiant $y$ par un bord, et posant $z=x-y$",1,The print uses E_1^{pq} and includes a comma after bord.
+15,silent change,"\exists z\in F^{p+1}(K^{p+q}),\ dz=dx\bigr)",\exists z\bigl(z\in F^{p+1}(K^{p+q})\text{ et }dz=dx\bigr)\bigr),1,The print quantifies z separately and joins the parenthesized conditions with et.
+15,silent change,"soit, en d'autres termes,",soit en d'autres termes,1,Neither comma appears in the printed introductory phrase.
+15,misprint in print,"pour $p+r$ grand, s'écrit","pour $p+r$ grand, s'écrit",0.99,The print itself says p+r large although the argument requires p sufficiently small before reindexing.
+15,silent change,"ce qui, pour $p+r$ grand, s'écrit",ce qui pour $p+r$ grand s'écrit,1,Neither comma appears in print.
+15,transcription error,"L'assertion (2) implique trivialement (i), et équivaut à (ii)","L'assertion (2) implique trivialement (1), et équivaut à (ii)",1,"The printed reference is to equation (1), not condition (i)."
+15,silent change,\paragraph{Proposition (1.3.4).},\paragraph{Proposition (1.3.4).} ---,1,The em dash following the proposition heading is omitted.
+15,silent change,"Il induit de proche en proche, via (1.3.1.5), des isomorphismes de complexes gradués",Il induit de proche en proche (via (1.3.1.5)) des isomorphismes de complexes gradués,1,The via clause is parenthesized rather than enclosed in commas.
+16,silent change,\emph{Preuve.} Soit $F'$ la filtration de $K$ définie par,\emph{Preuve.} --- Soit $F'$ la filtration de $K$ définie par,1,The dash following the proof heading is missing.
+16,silent change,"On a trivialement des isomorphismes, compatibles aux $d_r$ et à (1.3.1.5),","On a trivialement des isomorphismes, compatibles aux $d_r$ et à (1.3.1.5)",1,The scan has no comma after this reference.
+16,silent change,"E_r^{p,q}(K,F')\simeq E_r^{p,q}(K,F)","E_r^{pq}(K,F')\iso E_r^{pq}(K,F)",1,The scan has comma-free superscripts and an isomorphism arrow.
+16,silent change,"Z_r^{p,q}(K,F')=Z_r^{p,q}(K,F)\qquad(r\ge1)","Z_r^{pq}(K,F')=Z_r^{pq}(K,F)\qquad\text{pour }r\ge1",1,The scan prints pq and introduces the condition with pour rather than parentheses.
+16,silent change,"Z_r^{p,q}(K,F')\cap B_r^{p,q}(K,F')=Z_r^{p,q}(K,F)\cap B_r^{p,q}(K,F)\qquad(r\ge2)","Z_r^{pq}(K,F')\cap B_r^{pq}(K,F')=Z_r^{pq}(K,F)\cap B_r^{pq}(K,F)\qquad\text{pour }r\ge2",1,The scan prints comma-free superscripts and pour before the condition.
+16,misprint in print,"E_0^{p,n-p}(\Dec K)\longrightarrow E_1^{p+n,p}(K)\longrightarrow E_0^{p,n-p}(\Dec^*K)","E_0^{p,n-p}(\Dec K)\longrightarrow E_1^{p+n,p}(K)\longrightarrow E_0^{p,n-p}(\Dec^*K)",1,"The middle bidegree is printed as (p+n,p) although its second index should mathematically be -p."
+16,misprint in print,"E_r^{p,n-p}(\Dec K)\iso E_{r+1}^{p+n,p}(K)\iso E_r^{p,n-p}(\Dec^*K)","E_r^{p,n-p}(\Dec K)\iso E_{r+1}^{p+n,p}(K)\iso E_r^{p,n-p}(\Dec^*K)",1,The same printed sign error occurs in the middle bidegree of the isomorphisms.
+16,silent change,\paragraph{Définition (1.3.6).},\paragraph{Définition (1.3.6).} ---,1,The scan places a dash after the definition heading.
+16,silent change,"i.e. si les $E_1^{p,q}(f)$ sont des isomorphismes.",i.e. si les $E_1^{pq}(f)$ sont des isomorphismes.,1,The printed superscript is pq without a comma.
+16,silent change,"\item Un morphisme $f:(K,F,W)\to(K',F',W')$","\item Un morphisme $f:(K,F,W)\to(K,F',W')$",0.98,The print omits the prime on the target K.
+16,transcription error,entre complexes bifiltrés biréguliers est un quasi-isomorphisme bifiltré,entre complexes bifiltrés est un quasi-isomorphisme bifiltré,1,The word biréguliers and its additional condition are absent from clause (ii).
+16,silent change,"Soit $E_r^{p,q}$ la suite spectrale définie par $W$. La filtration $F$ induit sur les $E_r^{p,q}$ diverses filtrations",Soit $E_r^{pq}$ la suite spectrale définie par $W$. La filtration $F$ induit sur les $E_r^{pq}$ diverses filtrations,1,Both printed superscripts are pq without commas.
+16,silent change,"La formule (1.3.1.2) identifie $E_r^{p,q}$ à un quotient d'un sous-objet de $K^{p+q}$. Le terme $E_r^{p,q}$",La formule (1.3.1.2) identifie $E_r^{pq}$ à un quotient d'un sous-objet de $K^{p+q}$. Le terme $E_r^{pq}$,1,Both printed superscripts are pq without commas.
+16,silent change,"la formule (1.3.1.3) identifie $E_r^{p,q}$ à un sous-objet d'un quotient",la formule (1.3.1.3) identifie $E_r^{pq}$ à un sous-objet d'un quotient,1,The printed superscript is pq without a comma.
+17,silent change,\paragraph{Lemme (1.3.10).},\paragraph{Lemme (1.3.10).} ---,1,The dash following the lemma heading is missing.
+17,silent change,"Pour $r=0$ ou $1$, on a $B_r^{p,q}\subset Z_r^{p,q}$ et on applique (1.1.9).","Pour $r=0$ ou $1$, on a $B_r^{pq}\subset Z_r^{pq}$ et on applique (1.1.9).",1,Neither printed superscript contains a comma.
+17,silent change,"La formule (1.3.1.5) identifie $E_{r+1}^{p,q}$ à un quotient d'un sous-objet de $E_r^{p,q}$. On définit la filtration récurrente $F_r$ des $E_r^{p,q}$ par les conditions :",La formule (1.3.1.5) identifie $E_{r+1}^{pq}$ à un quotient d'un sous-objet de $E_r^{pq}$. On définit la filtration récurrente $F_r$ des $E_r^{pq}$ par les conditions,1,The scan uses pq throughout and has no colon after conditions.
+17,silent change,"\item sur $E_0^{p,q}$, $F_r=F_d=F_{d*}$.","\item Sur $E_0^{pq}$, $F_r=F_d=F_{d*}$.",1,The scan begins with capital Sur and prints the superscript pq.
+17,silent change,"\item sur $E_{r+1}^{p,q}$, la filtration récurrente est celle induite par la filtration récurrente de $E_r^{p,q}$.","\item Sur $E_{r+1}^{pq}$, la filtration récurrente est celle induite par la filtration récurrente de $E_r^{pq}$.",1,The scan begins with capital Sur and uses comma-free superscripts.
+17,silent change,"Si la filtration de $K$ est birégulière, les filtrations directes de $E_\infty^{p,q}$ coïncident avec celles de $E_r^{p,q}=E_\infty^{p,q}$ pour $r$ assez grand, et on définit la filtration récurrente de $E_\infty^{p,q}$ comme coïncidant avec celle de $E_r^{p,q}$ pour $r$ assez grand.","Si la filtration de $K$ est birégulière, les filtrations directes de $E_\infty^{pq}$ coïncident avec celles de $E_r^{pq}=E_\infty^{pq}$, pour $r$ assez grand, et on définit la filtration récurrente de $E_\infty^{pq}$ comme coïncidant avec celle de $E_r^{pq}$ pour $r$ assez grand.",1,The scan uses pq superscripts and includes a comma after the equality of spectral-sequence terms.
+17,silent change,"induit dès lors sur $E_\infty^{p,q}$ une nouvelle filtration.",induit dès lors sur $E_\infty^{pq}$ une nouvelle filtration.,1,The printed superscript is pq without a comma.
+17,silent change,\paragraph{Proposition (1.3.13).},\paragraph{Proposition (1.3.13).} ---,1,The dash following the proposition heading is missing.
+17,silent change,"\item Pour la première filtration directe, les morphismes $d_r$ sont compatibles aux filtrations. Si $E_{r+1}^{p,q}$ est considéré comme quotient d'un sous-objet de $E_r^{p,q}$, alors la première filtration directe sur $E_{r+1}^{p,q}$ est plus fine que la filtration $F'$ induite par la première filtration directe sur $E_r^{p,q}$ : on a $F_d(E_{r+1}^{p,q})\subset F'(E_{r+1}^{p,q})$.","\item Pour la première filtration directe, les morphismes $d_r$ sont compatibles aux filtrations. Si $E_{r+1}^{pq}$ est considéré comme quotient d'un sous-objet de $E_r^{pq}$, alors la première filtration directe sur $E_{r+1}^{pq}$ est plus fine que la filtration $F'$ induite par la première filtration directe sur $E_r^{pq}$ : on a $F_d(E_{r+1}^{pq})\subset F'(E_{r+1}^{pq})$.",1,All six printed superscripts in clause (i) are comma-free.
+17,silent change,"\item Dualement, les morphismes $d_r$ sont compatibles à la seconde filtration directe, et la seconde filtration directe sur $E_{r+1}^{p,q}$ est moins fine que la filtration induite par celle de $E_r^{p,q}$.","\item Dualement, les morphismes $d_r$ sont compatibles à la seconde filtration directe, et la seconde filtration directe sur $E_{r+1}^{pq}$ est moins fine que la filtration induite par celle de $E_r^{pq}$.",1,Both printed superscripts in clause (ii) are comma-free.
+17,silent change,"\item $F_d(E_r^{p,q})\subset F_r(E_r^{p,q})\subset F_{d*}(E_r^{p,q})$.",\item $F_d(E_r^{pq})\subset F_r(E_r^{pq})\subset F_{d*}(E_r^{pq})$.,1,All three printed superscripts in clause (iii) are comma-free.
+17,silent change,"\item Sur $E_\infty^{p,q}$, la filtration induite","\item Sur $E_\infty^{pq}$, la filtration induite",1,The printed superscript in clause (iv) is pq.
+17,misprint in print,la filtration induite par la filtration $F$ de $H^*(K)$ (1.3.12) est plus fine que la première filtration directe et moins fine que la seconde.,la filtration induite par la filtration $F$ de $H^*(K)$ (1.3.12) est plus fine que la première filtration directe et moins fine que la seconde.,0.99,The print also reverses the expected comparisons plus fine and moins fine here.
+17,silent change,"Désignons par $\Dec(K)$, respectivement $\Dec^*(K)$, le complexe $K$ muni des filtrations $\Dec(W)$ et $F$, respectivement $\Dec^*(W)$ et $F$.",Désignons par $\Dec(K)$ (resp. $\Dec^*(K)$) le complexe $K$ muni des filtrations $\Dec(W)$ et $F$ (resp. $\Dec^*(W)$ et $F$).,1,The print uses parenthetical resp. twice rather than the expanded wording.
+17,silent change,"première filtration directe de $E_{r+1}(K)$, pour $r\ge1$.",première filtration directe de $E_{r+1}(K)$ ($r\ge1$).,1,The scan gives the range parenthetically without pour.
+17,silent change,\paragraph{Lemme (1.3.15).},\paragraph{Lemme (1.3.15).} ---,1,The dash following the lemma heading is missing.
+17,silent change,\item le morphisme (1.3.3.2) de complexes gradués filtrés par $F$,\item Le morphisme (1.3.3.2) de complexes gradués filtrés par $F$,1,Clause (i) begins with capital Le in the print.
+17,silent change,"u:\Gr_{\Dec(W)}(K)\longrightarrow E_1(K,W)
+\]
+est un quasi-isomorphisme filtré;","u:\Gr_{\Dec(W)}(K)\longrightarrow E_1(K,W)
+\]
+est un quasi-isomorphisme filtré.",1,Clause (i) ends with a full stop rather than a semicolon.
+17,silent change,"\item dualement, le morphisme (1.3.5)","\item Dualement, le morphisme (1.3.5)",1,Clause (ii) begins with capital Dualement in the print.
+18,misprint in print,& & & & B^{p+1}/Z^{p+1},& & & & B^{p+1}/Z^{p+1},0.99,The upper-right denominator is printed Z^{p+1} although the differential requires Z^{p+2}.
+18,transcription error,B^{p+1}/Z^{p+1} \arrow[dl] \arrow[dd],B^{p+1}/Z^{p+1} \arrow[dd],1,The scan has no arrow from the upper-right object down-left to Im(d).
+18,silent change,"Par hypothèse, le morphisme (1) est strict. Le carré (2) n'étant autre que la décomposition canonique de (1), la flèche (3) est un isomorphisme filtré. Les flèches du trapèze (4) sont des isomorphismes; ce sont donc des isomorphismes filtrés, puisque (3) en est un. Que (5) soit un isomorphisme filtré signifie que $d$ est strict. Ceci prouve (1.3.15).","Par hypothèse, le morphisme \textcircled{1} est strict. Le carré \textcircled{2} n'étant autre que la décomposition canonique de \textcircled{1}, la flèche \textcircled{3} est un isomorphisme filtré. Les flèches du trapèze \textcircled{4} sont des isomorphismes; ce sont donc des isomorphismes filtrés, puisque \textcircled{3} en est un. Que \textcircled{5} soit un isomorphisme filtré signifie que $d$ est strict. Ceci prouve (1.3.15).",1,The seven references to diagram labels use circled numerals rather than parenthesized numerals.
+18,silent change,\paragraph{Théorème (1.3.16).},\paragraph{Théorème (1.3.16).} ---,1,The dash following the theorem heading is missing.
+18,silent change,"un entier, et supposons que, pour $0\le r<r_0$","un entier, et supposons que pour $0\le r<r_0$",1,The scan has no comma between que and pour.
+18,silent change,"Alors, pour $r\le r_0+1$, on a
+\[
+F_d=F_r=F_{d*}\quad\text{sur }E_r^{p,q}.","Alors, pour $r\le r_0+1$,
+\[
+F_d=F_r=F_{d*}\quad\text{sur }E_r^{pq}.",1,The words on a are added and the printed superscript is pq.
+18,silent change,"Pour $r_0=0$, l'hypothèse est vide",Pour $r_0=0$ l'hypothèse est vide,1,The scan has no comma after r_0=0.
+18,silent change,"sur $E_r^{p,q}$ pour $r\le r_0$.",sur $E_r^{pq}$ pour $r\le r_0$.,1,The printed superscript is pq without a comma.
+19,misprint in print,de $H^*(\Dec K)$ dans $H^*(E_1(K))$,de $H^*(\Dec K)$ dans $H^*(E_1(K))$,0.99,The print also omits E_0 inside the first cohomology expression.
+19,silent change,de $E_s(\Dec K)$ dans $E_{s+1}(K)$ ($s\ge1$),de $E_s(\Dec K)$ dans $E_{s+1}$ ($s\ge1$),1,The argument (K) after E_{s+1} is not printed.
+19,silent change,"$(E_s(\Dec K),F_r)\simeq(E_{s+1}(K),F_r)$","$(E_s(\Dec K),F_r)\approx(E_{s+1}(K),F_r)$",1,The printed relation is the double-wavy approximation symbol.
+19,silent change,"$(E_s(\Dec K),F_d)\simeq(E_{s+1}(K),F_d)$","$(E_s(\Dec K),F_d)\approx(E_{s+1}(K),F_d)$",1,The printed relation is the double-wavy approximation symbol.
+19,misprint in print,(1.3.13) montre alors que $F_d=F_r$ sur $E_r(K)$ pour $r\le r_0+1$.,(1.3.13) montre alors que $F_d=F_r$ sur $E_r(K)$ pour $r\le r_0+1$.,0.99,The scan also cites (1.3.13) although the relevant isomorphism is stated in (1.3.14).
+19,silent change,\paragraph{Corollaire (1.3.17).},\paragraph{Corollaire (1.3.17).} ---,1,The dash following the corollary heading is missing.
+19,silent change,"supposons que, pour tout $r$, les différentielles $d_r$",supposons que pour tout $r$ les différentielles $d_r$,1,Neither comma surrounding pour tout r appears in the scan.
+20,silent change,\Gr_{TF}TA\iso T\Gr_FA.,\Gr_{FT}TA\iso T\Gr_FA.,1,The scan prints FT in the subscript despite having named the filtration TF.
+20,misprint in print,est l'image dans $T(\Gr_W^p(A))$ de $T(F^p\cap W^q)$.,est l'image dans $T(\Gr_W^p(A))$ de $T(F^p\cap W^q)$.,1,The print also interchanges p and q in the final intersection.
+20,transcription error,T(F^q\cap W^p) \arrow[r] \arrow[d] & T(F^q\Gr_W^pA) \arrow[r] & T\Gr_W^pA \arrow[d]\\,"T(F^q\cap W^p) \arrow[r] \arrow[d,""\sim""'] & T(F^q\Gr_W^pA) \arrow[r] & T\Gr_W^pA \arrow[d,""\sim""']\\",0.99,Both downward arrows carry isomorphism marks in the scan.
+20,silent change,résolution injective de Cartan--Eilenberg de $K$.,résolution injective de Cartan-Eilenberg de $K$.,0.98,The scan prints a hyphen in Cartan-Eilenberg.
+20,silent change,"E_1^{p,q}=R^{p+q}T(\Gr^pK)\Rightarrow R^{p+q}T(K)",E_1^{pq}=R^{p+q}T(\Gr^p(K))\Rightarrow R^{p+q}T(K),1,The scan prints pq and retains parentheses around K inside the graded object.
+21,silent change,"E_1^{p,q}&=0 &&\text{si }p+q\ne-p",E_1^{pq}&=0 &&\text{si }p+q\ne-p,1,The printed superscript is pq without a comma.
+21,silent change,"le foncteur $\Gamma(Y,\cdot)$.","le foncteur $\Gamma(Y,\,)$.",1,The second argument of Gamma is blank in the print.
+21,silent change,"E_1^{p,q}=H^{2p+q}(Y,R^{-p}f_*\calF)\Rightarrow H^{p+q}(X,\calF)","E_1^{pq}=H^{2p+q}(Y,R^{-p}f_*\calF)\Rightarrow H^{p+q}(X,\calF)",1,The printed superscript on E_1 is pq without a comma.
+21,silent change,"la renumérotation $E_r^{p,q}\mapsto E_{r+1}^{2p+q,-p}$","la renumérotation $E_r^{pq}\mapsto E_{r+1}^{2p+q,-p}$",1,The source term has the comma-free superscript pq in the scan.
+21,silent change,"À ce complexe, on associe :","A ce complexe, on associe :",1,The scan prints an unaccented capital A.
+22,silent change,"{}_{F,W}d_1:H^n\Gr_F^p\Gr_W^qK\longrightarrow H^{n+1}\Gr_F^{p+1}\Gr_W^qK,","{}_{F,W}d_1:H^n\Gr_F^p\Gr_W^qK\longrightarrow H^{n+1}\Gr_F^{p+1}\Gr_W^qK",1,The first displayed connection morphism has no terminal comma in the scan.
+22,silent change,"\begin{tikzcd}[column sep=5.2em,row sep=3.2em]
+& H^n\Gr_W^qK
+  \arrow[dr,shift left=1.2pt,""{\scriptstyle({}_Wd_1)}""]
+  \arrow[dr,shift right=1.2pt,no head]
+& \\
+H^n\Gr_F^p\Gr_W^qK
+  \arrow[ur,shift left=1.2pt,""{\scriptstyle(F,{}_Wd_1)}""]
+  \arrow[ur,shift right=1.2pt,no head]
+  \arrow[dr,shift left=1.2pt,""{\scriptstyle(W,{}_Fd_1)}""']
+  \arrow[dr,shift right=1.2pt,no head]
+&& H^nK \\
+& H^n\Gr_F^pK
+  \arrow[ur,shift left=1.2pt,""{\scriptstyle({}_Fd_1)}""']
+  \arrow[ur,shift right=1.2pt,no head]
+&
+\end{tikzcd}","\begin{tikzcd}[column sep=5.2em,row sep=3.2em]
+& H^n\Gr_W^qK
+  \arrow[dr,Rightarrow,""{\scriptstyle({}_Wd_1)}""]
+& \\
+H^n\Gr_F^p\Gr_W^qK
+  \arrow[ur,Rightarrow,""{\scriptstyle(F,{}_Wd_1)}""]
+  \arrow[dr,Rightarrow,""{\scriptstyle(W,{}_Fd_1)}""']
+&& H^nK \\
+& H^n\Gr_F^pK
+  \arrow[ur,Rightarrow,""{\scriptstyle({}_Fd_1)}""']
+&
+\end{tikzcd}",0.98,All four printed arrows have double shafts sharing a single arrowhead.
+23,silent change,\Gr_F^p\Gr_W^q\simeq\Gr_W^q\Gr_F^p,\Gr_F^p\Gr_W^q\sim\Gr_W^q\Gr_F^p,1,The scan uses a single tilde without an underlying bar.
+23,misprint in print,"d'un morphisme de suites spectrales (1.4.9.2), aboutissant à ${}_Wd_1$.","d'un morphisme de suites spectrales (1.4.9.2), aboutissant à ${}_Wd_1$.",0.99,The print cites (1.4.9.2) although the relevant F-filtered spectral sequence is (1.4.9.1).
+24,transcription error,différentielles des complexes $\Gr_W^n(T(K))$ soient strictement,différentielles des complexes $\Gr_W^n(T(K'))$ soient strictement,1,The scan has K prime inside T.
+24,silent change,"X(S)=\Hom(S_\C,\Gm)=\Hom(S,\Gm)(\C)","X(S)=\Hom(S_\C,\Gm)=\mathit{Hom}(S,\Gm)(\C)",1,The second Hom is italic in the print and is distinguished from the first.
+25,silent change,"qui, sur les points réels, s'identifie à la norme",qui sur les points réels s'identifie à la norme,1,The scan has neither of the commas surrounding sur les points réels.
+25,silent change,"N=z\bar z
+\]
+et
+\[
+\tag{2.1.3.5}","N=z\bar z
+\]
+\[
+\tag{2.1.3.5}",1,The word et between the two numbered formulas is not printed.
+25,misprint in print,de se donner sur $V$ une bigraduation telle que $\overline{V^{pq}}=V^{qp}$,de se donner sur $V$ une bigraduation telle que $\overline{V^{pq}}=V^{qp}$,0.93,The print says V although the complex bigraduation belongs on V_\C.
+26,silent change,(resp. des filtrations de Hodge (cf. (1.1.12))) de $H_\C$ et $H'_\C$.,(resp. des filtrations de Hodge (cf. (1.1.12)) de $H_\C$ et $H'_\C$.,0.99,The scan has only two closing parentheses after the reference and leaves the outer parenthesis unmatched.
+26,silent change,"la structure de Hodge $\Hom(H,H')$ (de poids $n'-n$)","la structure de Hodge $\mathit{Hom}(H,H')$ (de poids $n'-n$)",1,The Hom denoting the internal Hodge structure is italic in the print.
+26,silent change,"\Hom(H,H')_\Z=\Hom_\Z(H_\Z,H'_\Z)","\mathit{Hom}(H,H')_\Z=\Hom_\Z(H_\Z,H'_\Z)",1,The left Hom is italic whereas the right Hom is upright in the print.
+26,silent change,"et $\Hom(H,H')_\R=\Hom(H_\R,H'_\R)$ sont en effet liées par","et $\mathit{Hom}(H,H')_\R=\Hom(H_\R,H'_\R)$ sont en effet liées par",1,The internal Hom on the left is italic whereas the ordinary Hom on the right is upright.
+27,silent change,une identification $\Z\simeq\Z(n)_\Z$ figureront,une identification $\Z\sim\Z(n)_\Z$ figureront,1,The printed identification uses a single tilde.
+27,silent change,On définit de même $\R(n)$ sous-jacente à $\Z(n)$.,On définit de même $\R(n)$ sous-jacent à $\Z(n)$.,1,The print reads sous-jacent without a final e.
+27,silent change,"une variété kählérienne compacte, par exemple projective lisse.",une variété kählérienne compacte (par exemple projective lisse).,1,The example is parenthesized in print.
+27,transcription error,du faisceau constant $\C$. On a donc un isomorphisme,du faisceau constant $\C$. On a donc un isomorphisme (1.4.2),1,The printed reference (1.4.2) has been omitted.
+27,silent change,"H^*(X,\C)\sim\mathbb H^*(X,\Omega_X^*),","H^*(X,\C)\sim\mathbf H^*(X,\Omega_X^*),",1,Hypercohomology is printed with bold H rather than blackboard-bold H.
+27,misprint in print,et la filtration bête de $\Omega_X^*$ (1.4.5) définit la suite spectrale d'hypercohomologie,et la filtration bête de $\Omega_X^*$ (1.4.5) définit la suite spectrale d'hypercohomologie,0.97,"The printed reference is (1.4.5), although the stupid filtration is defined in (1.4.7)."
+28,silent change,"Son image par $df/f:\cO^*\to\Omega_X^1$ se trouve dans $H^1(X,\Omega_X^1)$.","Son image par $df/f:\cO^*\to\Omega^1$ se trouve dans $H^1(X,\Omega^1)$.",1,Neither occurrence of Omega in this sentence has an X subscript in print.
+28,transcription error,et l'image de $c$ par $\dlog$ est dans $H^2(\Omega_X^*)$.,et l'image de $c$ par $\dlog$ est dans $\mathbf H^2(\Omega_X^*)$.,1,The printed H denotes hypercohomology and is bold.
+28,transcription error,"H^2(X,\C)\sim H^2(X,\Omega_X^*)","H^2(X,\C)\xrightarrow{\sim}\mathbf H^2(X,\Omega_X^*)",1,The scan has an isomorphism arrow and bold H on the right.
+29,silent change,dans lequel $\simeq$ désigne un quasi-isomorphisme,dans lequel $\approx$ désigne un quasi-isomorphisme,1,The quasi-isomorphism symbol is printed as approximately equal.
+29,silent change,"\C \arrow[r,""\simeq""] \arrow[d,equal] & \Omega_X^*","\C \arrow[r,""\approx""] \arrow[d,equal] & \Omega_X^*",1,The upper arrow is labelled with approximately equal.
+29,silent change,"\C & {[\C\to\cO]} \arrow[l] \arrow[r,""\simeq"",""d""']","\C & {[\C\to\cO]} \arrow[l] \arrow[r,""\approx"",""d""']",1,The middle quasi-isomorphism label is approximately equal.
+29,silent change,"{[\Z(1)\to\cO]} \arrow[l] \arrow[r,""\simeq"",""{\exp}""']","{[\Z(1)\to\cO]} \arrow[l] \arrow[r,""\approx"",""{\exp}""']",1,The lower quasi-isomorphism label is approximately equal.
+29,misprint in print,"est un isomorphisme et, combiné à la dualité de Poincaré","est un isomorphisme et, combiné à la dualité de Poincaré",1,Hard Lefschetz is not generally an isomorphism over Z; the printed assertion omits rationalization.
+30,silent change,\item un $\Z$-module de type fini $H_\Z$ (le \og réseau entier\fg{}).,\item Un $\Z$-module de type fini $H_\Z$ (le \og réseau entier\fg{}).,1,Item a begins with a capital U.
+30,silent change,"\item une filtration finie croissante $W_n$ de $H_\Q=\Q\otimes_\Z H_\Z$,","\item Une filtration finie croissante $W_n$ de $H_\Q=\Q\otimes_\Z H_\Z$,",1,Item b begins with a capital U.
+30,silent change,"\item une filtration finie $F^p$ de $H_\C=\C\otimes_\Z H_\Z$,","\item Une filtration finie $F^p$ de $H_\C=\C\otimes_\Z H_\Z$,",1,Item c begins with a capital U.
+30,silent change,"L'axiome des structures de Hodge mixtes signifie que, pour chaque $n$,","L'axiome des structures de Hodge mixtes signifie que pour chaque $n$,",1,There is no comma after que in print.
+30,silent change,"à la filtration $W$ de $H_\Q$ et $H'_\Q$, et à la filtration $F$",à la filtration $W$ de $H_\Q$ et $H'_\Q$ et à la filtration $F$,1,The comma before et à has been added.
+31,silent change,le sous-$\cO$-module localement libre de $j_*\Omega_{X^*}^1$,le sous-$\cO$-Module localement libre de $j_*\Omega_{X^*}^1$,1,Module has a capital M in print.
+31,silent change,"$\frac{dz_i}{z_i}$, pour $z_i$ équation locale",$\frac{dz_i}{z_i}$ pour $z_i$ équation locale,1,The print has no comma before pour.
+31,transcription error,présentent au plus des pôles simples le long du diviseur $Y$.,présentent au pis des pôles simples le long du diviseur $Y$.,1,The printed wording is au pis rather than au plus.
+32,silent change,(\alpha\mid Y_{i(1)}\cap\cdots\cap Y_{i(n)})\otimes,(\alpha\mid Y_{i(1)}\cap\cdots Y_{i(n)})\otimes,0.98,The print omits the second intersection sign after the ellipsis.
+32,silent change,\operatorname{R\acute{e}s}:\Gr_n^W(\Omega_X^*\langle Y\rangle)\simeq i_{n*}\Omega_{\widetilde Y^n}^*(\varepsilon^n)[-n],\operatorname{R\acute{e}s}:\Gr_n^W(\Omega_X^*\langle Y\rangle)\approx i_{n*}\Omega_{\widetilde Y^n}^*(\varepsilon^n)[-n],1,The residue isomorphism is printed with approximately equal.
+33,silent change,"H^*(X^*,\C)\xrightarrow{\sim}\mathbb H^*(X^*,\Omega_{X^*}^*)\xleftarrow{\sim}\mathbb H^*(X,j_*\Omega_{X^*}^*)","H^*(X^*,\C)\xrightarrow{\sim}\mathbf H^*(X^*,\Omega_{X^*}^*)\xleftarrow{\sim}\mathbf H^*(X,j_*\Omega_{X^*}^*)",1,Both hypercohomology symbols are bold H in print.
+33,transcription error,"\xrightarrow{\ \beta\ }
+(j_*\Omega_{X^*}^*,\tau)","\xhookrightarrow{\ \beta\ }
+(j_*\Omega_{X^*}^*,\tau)",1,The beta arrow is hooked in print.
+33,silent change,"dans [3], II, (6.9), ou dans [1], la démonstration","dans [3], II, (6.9) ou dans [1], la démonstration",1,The comma after (6.9) has been added.
+33,silent change,"\varepsilon_X^n&\text{pour }i=n,\end{cases}",\varepsilon_X^n&\text{pour }i=n;\end{cases},1,The cases display ends with a semicolon.
+33,uncertain,"et que $Y=\bigcup_{k=1}^{\ell}Y_k$, $Y_k=\operatorname{pr}_k^{-1}(0)$. La fibre en $0$ de $R^nj_*\Z$ est alors la cohomologie entière de $X^*=D^{*\ell}\times D^{(m-\ell)}$,","et que $Y=\bigcup_{k=1}^{l}Y_k$, $Y_k=\operatorname{pr}_k^{-1}(0)$. La fibre en $0$ de $R^nj_*\Z$ est alors la cohomologie entière de $X^*=D^{*l}\times D^{(m-l)}$,",0.6,The repeated printed glyph could be ordinary italic l or \ell; the TeX chooses \ell.
+34,silent change,"les $\frac1{2\pi i}\frac{dz_k}{z_k}$, et ceci prouve (3.1.9).",les $\frac1{2\pi i}\frac{dz_k}{z_k}$ et ceci prouve (3.1.9).,1,The print has no comma before et ceci.
+34,silent change,j_*^m\mathcal F=\varinjlim_n \mathcal F'(nY).,j_*^m\mathcal F=\varinjlim \mathcal F'(nY).,1,The printed inductive-limit symbol has no indexing n.
+34,silent change,sur $j_*^m\cO_{X^*}$ par la formule,sur $j_*^m\cO_X^*$ par la formule,0.99,"The prose prints O_X^*, despite O_{X^*} in the following display."
+34,silent change,\cO_X\Bigl(\sum_i(n_i+1)Y_i\Bigr),\cO_X\Bigl(\sum(n_i+1)Y_i\Bigr),1,The inner summation sign is unindexed in print.
+34,silent change,P^{p-k}(j_*^m\cO_{X^*})\otimes\Omega_X^k.,P^{p-k}(j_*^m\cO_X)\otimes\Omega_X^k.,1,The right-hand side prints O_X without a star.
+34,silent change,Rappelons qu'on entend dorénavant par schéma un schéma de type fini,"Rappelons qu'on entend dorénavant par schéma, un schéma de type fini",1,The print has a comma after the first schéma.
+35,silent change,"H^*(X,\C)\simeq \mathbb H^*(\overline X,\Omega_{\overline X}^{*}\langle Y\rangle).","H^*(X,\C)\simeq \mathbf H^*(\overline X,\Omega_{\overline X}^{*}\langle Y\rangle).",1,The hypercohomology symbol is bold H in print.
+35,misprint in print,par les tronqués bêtes (1.4.5). Sur $\Omega_{\overline X}^{*}\langle Y\rangle$,par les tronqués bêtes (1.4.5). Sur $\Omega_{\overline X}^{*}\langle Y\rangle$,0.99,"The print cites (1.4.5), whereas the stupid truncations are defined in (1.4.7)."
+35,silent change,telles que les $\Gr_F^p\Gr_n^W(K^j)$ soient des faisceaux acycliques,telles que les $\Gr_F^p\Gr_n^W(K_j)$ soient des faisceaux acycliques,1,The prose prints K_j although the following display prints K^j.
+35,transcription error,"{}_W E_1^{pq}=H^{p+q}(\overline X,\varepsilon_{\overline X}^{-p}[p])=H^{2p+q}","{}_W E_1^{pq}=\mathbf H^{p+q}(\overline X,\varepsilon_{\overline X}^{-p}[p])=\mathbf H^{2p+q}",0.99,Both H symbols in this equality chain are bold in print.
+35,misprint in print,"(\widetilde Y^p,\varepsilon^{-p})\Rightarrow H^n(X,\C)","(\widetilde Y^p,\varepsilon^{-p})\Rightarrow H^n(X,\C)",0.99,The print has \widetilde Y^p and H^n where the expected indices are -p and p+q.
+35,misprint in print,"{}_F E_1^{pq}=H^q(\overline X,\Omega_{\overline X}^p\langle Y\rangle)\Rightarrow H^n(X,\C).","{}_F E_1^{pq}=H^q(\overline X,\Omega_{\overline X}^p\langle Y\rangle)\Rightarrow H^n(X,\C).",0.97,The abutment is printed H^n rather than H^{p+q}.
+35,silent change,"La filtration sur $H^n(X,\C)$, aboutissement de la suite spectrale ${}_WE$, se déduit","La filtration sur $H^n(X,\C)$ aboutissement de la suite spectrale ${}_WE$ se déduit",1,Neither comma surrounding the apposition is printed.
+35,silent change,de la compactification choisie $\overline X$ de $X$ ni du choix de $K^*$.,de la compactification choisie $\overline X$ de $X$ ou du choix de $K^*$.,1,The print reads ou du choix rather than ni du choix.
+36,silent change,d'une suite spectrale de $\Q$-vectoriels et la première assertion (ii) est vraie.,d'une suite spectrale de $\Q$-vectoriel et la première assertion (ii) est vraie.,1,The print has the singular vectoriel.
+36,silent change,La conjugaison complexe agit sur les ${}_WE_r$;,La conjugaison complexe agit sur les ${}_WE$;,1,The printed E has no subscript r here.
+36,misprint in print,elle peut se calculer via (3.1.10).,elle peut se calculer via (3.1.10).,0.96,"The print cites pole-order paragraph (3.1.10), apparently intending the integral-structure identification (3.1.9)."
+36,silent change,"$i_n:\widetilde Y^n\to\overline X$. D'après (3.1.5.2),","$i_n:\widetilde Y^n\to X$. D'après (3.1.5.2),",1,The target is printed X without a bar.
+36,silent change,\simeq i_{n*}\Omega_{\widetilde Y^n}^{*}(\varepsilon^n)[-n].,\sim i_{n*}\Omega_{\widetilde Y^n}^{*}(\varepsilon^n)[-n].,1,The displayed identification uses a single tilde.
+36,misprint in print,"De plus, la filtration de Hodge induit la filtration bête (1.4.5),","De plus, la filtration de Hodge induit la filtration bête (1.4.5),",0.98,"The printed reference is (1.4.5), although the stupid filtration is defined in (1.4.7)."
+36,transcription error,"=H^k(\overline X,\Gr_n^W(\Omega_{\overline X}^{*}\langle Y\rangle))","=\mathbf H^k(\overline X,\Gr_n^W(\Omega_{\overline X}^{*}\langle Y\rangle))",1,The first H in the lemma's display is bold hypercohomology H.
+36,transcription error,"Cette filtration est l'aboutissement de la suite spectrale (3.2.6) ((1.4.8), (iii)).","Cette filtration est l'aboutissement de la suite spectrale (3.2.6) ((1.4.8), (ii)).",1,"The scan reads ((1.4.8), (ii)), apparently intending (1.4.12)(ii)."
+36,transcription error,"d_1:H^k(\overline X,\Gr_n^W(\Omega_{\overline X}^{*}\langle Y\rangle))","d_1:\mathbf H^k(\overline X,\Gr_n^W(\Omega_{\overline X}^{*}\langle Y\rangle))",1,The source of d_1 is printed with bold hypercohomology H.
+36,transcription error,"H^{k+1}(\overline X,\Gr_{n-1}^W(\Omega_{\overline X}^{*}\langle Y\rangle))","\mathbf H^{k+1}(\overline X,\Gr_{n-1}^W(\Omega_{\overline X}^{*}\langle Y\rangle)),",1,The target has bold H and the printed display ends with a comma.
+36,transcription error,"respecte la bigraduation, et donc la filtration définie par $F$ et $\overline F$, ce qui prouve (3.2.8).","respecte la bigraduation (de poids $k+n$) définie par $F$ et $\overline F$, ce qui prouve (3.2.8).",1,The print specifies the bigraduation's weight k+n instead of adding a claim about the filtration.
+36,silent change,la cohomologie du complexe $E_1$ sera encore bigraduée.,la cohomologie du complexe $E_1$ sera encore bigraduée :,1,The printed sentence ends with a colon introducing the next lemma.
+37,misprint in print,"on applique (3.2.6) et (1.4.8), (iii) (resp. (3.2.8)).","on applique (3.2.6) et (1.4.8), (iii) (resp. (3.2.8)).",1,"The print cites (1.4.8)(iii), but the applicable result is (1.4.12)(iii)."
+37,misprint in print,"sur les termes ${}_WE_s$ $(s\ge r+1)$, on a $F_d=F_r=F_{d*}$,","sur les termes ${}_WE_s$ $(s\ge r+1)$, on a $F_d=F_r=F_{d*}$,",1,"The printed inequality is retained, although (1.3.16) gives s≤r+1 here."
+37,silent change,"vérifie donc, pour $r-1>0$,","vérifie donc, pour $r-1>0$",1,The print has no comma after the inequality.
+37,silent change,"\overline X_1 \arrow[r,""\overline f""'] & \overline X_2 ,","\overline X_1 \arrow[r,""\overline f""] & \overline X_2",1,The lower arrow's label is above it in print and the diagram has no terminal comma.
+38,silent change,"structure de Hodge mixte définie par $\overline X_1$ dans $H^n(X,\Z)$","structure de Hodge mixte définie par $\overline X_1$, dans $H^n(X,\Z)$",1,The print has a comma after \overline X_1.
+38,silent change,de Leray pour l'inclusion $j:X^*\hookrightarrow\overline X$ dégénère en $E_3$,de Leray pour l'inclusion $j:X^*\hookrightarrow X$ dégénère en $E_3$,1,The printed inclusion has target X without a bar.
+38,silent change,"sont, pour $n$ fixé, aboutissement d'une suite spectrale","sont, pour $n$ fixe, aboutissement d'une suite spectrale",0.99,The print reads fixe without an acute accent.
+39,misprint in print,"de cette suite spectrale (3.2.7), et est (1.4.12) l'aboutissement","de cette suite spectrale (3.2.7), et est (1.4.12) l'aboutissement",0.95,"The print cites (3.2.7), whereas strict compatibility is explicitly stated in (3.2.8)."
+39,silent change,"\sum_n \dim H^n(X,\C)\le \sum \dim {}_F E_1^{**},","\sum_n \dim H^n(X,\C)\le \sum \dim {}_F E_1^{**}",1,There is no comma after this displayed inequality in the print.
+39,misprint in print,"H^{n-k}(\widetilde Y^n,\Q)\otimes\Q(-k).","H^{n-k}(\widetilde Y^n,\Q)\otimes\Q(-k).",0.99,The printed stratum is \widetilde Y^n although this formula requires \widetilde Y^k.
+40,misprint in print,"$\Gr_n^W(j^*)$ est un isomorphisme, tandis que","$\Gr_n^W(j^*)$ est un isomorphisme, tandis que",0.99,The print says isomorphisme although (3.2.17) gives only surjectivity.
+40,silent change,"sous les hypothèses de (3.2.5), la filtration de Hodge",sous les hypothèses de (3.2.5) la filtration de Hodge,1,The comma after (3.2.5) is absent from the print.
+40,silent change,"H^0(S,R^nf_*\Q)\longrightarrow (R^nf_*\Q)_s\simeq H^n(X_s,\Q)","H^0(S,R^nf_*\Q)\longrightarrow (R^nf_*\Q)_s\approx H^n(X_s,\Q)",0.99,The printed isomorphism symbol has two wavy strokes.
+41,silent change,"H^0(S,R^nf_*\Q)\xrightarrow{\sim} H^0(S_1,R^nf_{1*}\Q),","H^0(S,R^nf_*\Q)\xrightarrow{\sim} H^0(S_1,R^nf_{1*}\Q)",1,The print has no comma at the end of this display.
+41,silent change,"H^n(\overline X'_1,\Q) \arrow[u,""\overline p_!""']","H^n(\overline X',\Q) \arrow[u,""\overline p_!""']",1,The last square prints \overline X' without the subscript 1.
+42,misprint in print,"dans $H^0(S,R^n(f\times f)_*\Q)$. On a par Künneth","dans $H^0(S,R^n(f\times f)_*\Q)$. On a par Künneth",0.99,The diagonal class is printed in degree n although its degree is 2n for relative dimension n.
+42,misprint in print,"R^n(f\times f)_*\Q=
+\sum_{p+q=n}(R^pf_*\Q\otimes R^qf_*\Q).","R^n(f\times f)_*\Q=
+\sum_{p+q=n}(R^pf_*\Q\otimes R^qf_*\Q).",0.99,In this diagonal calculation the printed total degree and index sum should be 2n rather than n.
+42,misprint in print,"On désignera par $\delta'_{pq}$ ($p+q=n$) les composantes de $\delta$ dans cette décomposition, et par $\delta_{pq}$ des classes dans $H^n(X\times_SX)$ d'images les $\delta'_{pq}$.","On désignera par $\delta'_{pq}$ ($p+q=n$) les composantes de $\delta$ dans cette décomposition, et par $\delta_{pq}$ des classes dans $H^n(X\times_SX)$ d'images les $\delta'_{pq}$.",0.99,The printed p+q=n and H^n repeat the diagonal-degree misprint.
+44,transcription error,le plus grand sous-système local constant $H'$ de $H$,le plus grand sous-système local constant $H^f$ de $H$,0.99,The print has a superscript f rather than a prime.
+44,silent change,"alors $\Hom(H_1,H_2)\in\Ob\mathcal C$.","alors $\mathit{Hom}(H_1,H_2)\in\Ob\mathcal C$.",0.99,The internal Hom is printed in italics.
+44,silent change,"et $\Hom(H_1,H_2)\simeq H_1^*\otimes H_2$.","et $\mathit{Hom}(H_1,H_2)\simeq H_1^*\otimes H_2$.",0.99,The internal Hom is printed in italics.
+44,silent change,"\item D'après la formule de Künneth,",\item D'après la formule de Künneth,1,The print has no comma after Künneth before the display.
+45,misprint in print,"Prouvons (iii). Si $f:X\to S$ est projectif et lisse,","Prouvons (iii). Si $f:X\to S$ est projectif et lisse,",0.99,The print says projectif where this proof of (iii) requires propre.
+45,transcription error,"le morphisme de Gysin $p_*$, d'où l'algébraïcité de $Rf_*\Q$.","le morphisme de Gysin $p_!$, d'où l'algébraïcité de $Rf_*\Q$.",1,The printed Gysin morphism is p_! rather than p_*.
+46,silent change,"On trouve que, pour $t\in S$,",On trouve que pour $t\in S$ :,1,The print uses a colon after the condition and no comma after que.
+47,transcription error,"Par ailleurs, $A$ est la fibre du plus grand sous-système local constant de $\Hom(H,H)$.","Par ailleurs, $A$ est la fibre du plus grand sous-système local constant de $\mathit{Hom}(H_\Q,H_\Q)$.",1,Both arguments have a subscript Q and Hom is italic in the print.
+47,silent change,"Puisque $\Hom(H,H)\in\mathcal C$ ((4.2.3), (ii)),","Puisque $\mathit{Hom}(H,H)\in\mathcal C$ ((4.2.3), (ii)),",0.99,The internal Hom is printed in italics.
+47,silent change,"il suffit de vérifier que, pour $t$ dans un voisinage assez petit de $1$,","il suffit de vérifier que pour $t$ dans un voisinage assez petit de $1$,",1,The print has no comma between que and pour.
+47,silent change,\bigwedge^{kd}H_1\simeq(\bigwedge^dW_s)^{\otimes k},\bigwedge^{kd}H_1\approx(\bigwedge^dW_s)^{\otimes k},1,The print uses the two-wavy-stroke symbol \approx.
+48,silent change,\item Pour $H_1$ réel : $\chi^{2k}$ est trivial;,\item Pour $H_1$ réel : $\chi^{2k}$ est trivial.,1,The printed item ends with a period rather than a semicolon.
+48,silent change,"une racine $k$-ième de l'unité, avec $k\le N$.","une racine $k^{\text{ième}}$ de l'unité, avec $k\le N$.",1,The print places ième in superscript without a hyphen.
+48,misprint in print,"avec $k\le N$. On a donc $\chi^{N!}=1$, ce qui prouve b).","avec $k\le N$. On a donc $\chi^{N!}=1$, ce qui prouve b).",0.99,"The printed bound k\le N and exponent N! are erroneous: the degree bounds \varphi(k), not k."
+48,silent change,"il admet une représentation semi-simple fidèle, à savoir $(R^nf_*\C)_s$.",il admet une représentation semi-simple fidèle (à savoir $(R^nf_*\C)_s$).,1,The print encloses the à savoir phrase in parentheses.
+48,silent change,$\rho$ serait facteur direct dans $((H_\C+H_\C^*)^{\otimes m})_s$,$\rho$ serait facteur direct dans $((H+H^*)_\C^{\otimes m})_s$,1,The print applies the complexification subscript to the parenthesized sum.
+49,silent change,"Prouvons (4.2.9), \textit{b)}, par dévissage","Prouvons (4.2.9), \textit{b)} par dévissage",1,The scan has no comma after b).
+49,misprint in print,\to R^if''_*(j_!\Q)\to R^if''_*\Q\to Rf''_*(\Q/j_!\Q)\to,\to R^if''_*(j_!\Q)\to R^if''_*\Q\to Rf''_*(\Q/j_!\Q)\to,0.99,The third term lacks the superscript i in print.
+49,silent change,"D'après \textit{a)}, la condition $(*)$",D'après \textit{a)} la condition $(*)$,1,The scan has no comma after a).
+50,transcription error,"du complexe double $H^0(X,\mathcal A^{pq})$ dégénère","du complexe double $H^0(X,\Omega^{pq})$ dégénère",1,The printed symbol is Omega rather than calligraphic A.
+50,misprint in print,"de $\delta$ avec $p'<p-1$, $\delta_2$ la somme","de $\delta$ avec $p'<p-1$, $\delta_2$ la somme",0.99,The printed inequality conflicts with the depicted support of delta_1 and is retained.
+50,silent change,"et $\beta$ la composante de type $(p-1,q-1)$.","et $\beta$ la composante de type $(p-1,q-1)$,",1,The sentence ends with a comma before the diagram.
+51,silent change,"la pleine fidélité résulte de ce que, pour $X_1$ et $X_2$","la pleine fidélité résulte que ce que, pour $X_1$ et $X_2$",1,The scan prints the grammatical slip 'résulte que ce que'.
+51,silent change,"$S$-schéma $\Hom_S(X_1,X_2)$","$S$-schéma $\mathit{Hom}_S(X_1,X_2)$",0.99,The represented Hom is printed in italics.
+51,silent change,"\item $Z=Z_0$; pour toute place réelle $\rho$ de $Z$, $H\otimes_\rho\R$ est une algèbre de matrices sur $\R$, et $\varepsilon_*=1$.","\item $Z=Z_0$, pour toute place réelle $\rho$ de $Z$, $H\otimes_\rho\R$ est une algèbre de matrices sur $\R$, et $\varepsilon_*=1$.",1,The scan has a comma after Z=Z_0.
+51,silent change,"\item $Z=Z_0$; pour toute place réelle $\rho$ de $Z$, $H\otimes_\rho\R$ est une algèbre de matrices sur $\mathbb H$, et $\varepsilon_*= -1$.","\item $Z=Z_0$, pour toute place réelle $\rho$ de $Z$, $H\otimes_\rho\R$ est une algèbre de matrices sur $\mathbb H$, et $\varepsilon_*= -1$.",1,The scan has a comma after Z=Z_0.
+51,silent change,"\simeq\Gamma\bigl(S,\Hom(R_1f_{1*}\Z,R_1f_{2*}\Z)\bigr)","\simeq\Gamma\bigl(S,\mathit{Hom}(R_1f_{1*}\Z,R_1f_{2*}\Z)\bigr)",0.99,The internal Hom inside Gamma is italicized in print.
+52,misprint in print,"$H=\End(R_1f_*\Z)$ est alors de type $(0,0)$","$H=\End(R_1f_*\Z)$ est alors de type $(0,0)$",0.98,Print uses integral endomorphisms although the subsequent description of the centre as a product of fields requires rationalization.
+53,silent change,"on pose $\varepsilon_{H,\rho}=\varepsilon_{H,\varphi}$.",on pose $\varepsilon_{H\rho}=\varepsilon_{H\varphi}$.,0.97,Both subscripts are printed without separating commas.
+53,misprint in print,"unique à un facteur scalaire réel près, de carré scalaire.","unique à un facteur scalaire réel près, de carré scalaire.",0.97,Print says réel although the implementing antilinear map is determined only up to a complex scalar.
+53,silent change,"\sigma_1^2=\varepsilon_{H,\rho}.",\sigma_1^2=\varepsilon_{H\rho}.,0.98,The printed H-rho subscript contains no comma.
+53,silent change,"\sigma_1^2=\sigma_2^2=\varepsilon_{H,\rho}.",\sigma_1^2=\sigma_2^2=\varepsilon_{H\rho}.,0.98,The printed H-rho subscript contains no comma.
+53,silent change,"\Phi=\Tr_{Z/\Q}(\psi),",\Phi=\Tr_{Z/\Q}(\psi),1,No comma follows this formula in the scan.
+53,silent change,"A_\rho(X,Y)=\varepsilon_V A_\rho(Y,X),","A_\rho(X,Y)=\varepsilon_V A_\rho(Y,X)",1,No comma follows formula (4.4.9.4) in the scan.
+53,silent change,"Dans le cas (4.4.8), a) (resp. b)), normalisons les bigraduations","Dans le cas (4.4.8), a) (resp. b)) normalisons les bigraduations",1,The scan has no comma before normalisons.
+54,silent change,"=\varepsilon_V\cdot\varepsilon_{H,\rho}\cdot A_\rho(x,\sigma_1x),","=\varepsilon_V\cdot\varepsilon_{H,\rho} A_\rho(x,\sigma_1x),",0.96,The scan juxtaposes the second epsilon factor and A_rho without a multiplication dot.
+54,silent change,"d'où $\varepsilon_V\cdot\varepsilon_{H,\rho}=1$.",d'où $\varepsilon_V\cdot\varepsilon_{H\rho}=1$.,0.98,The printed H-rho subscript contains no comma.
+54,silent change,"De même, dans le cas b), on trouve que $\varepsilon_T\cdot\varepsilon_{H,\rho}=1$.","De même, dans le cas b), on trouve que $\varepsilon_T\cdot\varepsilon_{H\rho}=1$.",0.98,The printed H-rho subscript contains no comma.
+54,silent change,\paragraph{Lemme (4.4.10).} Pour,\paragraph{Lemme (4.4.10).} --- Pour,1,The printed dash after the lemma number was omitted.
+54,silent change,"Pour $\varepsilon_T=\varepsilon_{H,\rho}$, on est dans le cas b)","Pour $\varepsilon_T=\varepsilon_{H\rho}$, on est dans le cas b)",0.98,The printed H-rho subscript contains no comma.
+54,silent change,"pour $\varepsilon_T=-\varepsilon_{H,\rho}$, on est dans le cas a).","pour $\varepsilon_T=-\varepsilon_{H\rho}$, on est dans le cas a).",0.98,The printed H-rho subscript contains no comma.
+54,silent change,\paragraph{Proposition (4.4.11).} Soient,\paragraph{Proposition (4.4.11).} --- Soient,1,The printed dash after the proposition number was omitted.
+54,silent change,"mais encore $\varepsilon_{H,\rho}$ est alors indépendant de $\rho$.",mais encore $\varepsilon_{H\rho}$ est alors indépendant de $\rho$.,0.98,The printed H-rho subscript contains no comma.
+54,silent change,\paragraph{Proposition (4.4.12).} Soit,\paragraph{Proposition (4.4.12).} --- Soit,1,The printed dash after the proposition number was omitted.
+55,silent change,On a $D\otimes\C\simeq M_n(Z\otimes\C)$.,On a $D\otimes\C\simeq \mathbf{M}_n(Z\otimes\C)$.,0.99,The matrix-algebra symbol M is bold in the scan.
+55,misprint in print,(R_1g_*\C)_s\approx (R_1f_*\C)_s\otimes_{Z\otimes\C},(R_1g_*\C)_s\approx (R_1f_*\C)_s\otimes_{Z\otimes\C},0.96,The printed Morita tensor formula omits the idempotent e on the first tensor factor.
+55,silent change,"Si $Z\otimes\R\simeq \C\oplus\cdots\oplus\C$,","Si $Z\otimes\R\approx \C\oplus\cdots\oplus\C$,",0.99,The scan uses the double-wavy approximation symbol.
+55,silent change,"Posons $H=M_c(D)$, $D$ étant un corps gauche","Posons $H=\mathbf{M}_c(D)$, $D$ étant un corps gauche",0.99,The matrix-algebra symbol M is bold in the scan.
+56,misprint in print,"on doit avoir $a=2g=4$. Pour $s\in S$,","on doit avoir $a=2g=4$. Pour $s\in S$,",0.99,The printed numerical conclusion omits the possible case a=2g=6.
+56,misprint in print,"si les conditions $(c_1)$ et $(c_2)$ sont violées, alors $a\ge2$ et $b\ge2$","si les conditions $(c_1)$ et $(c_2)$ sont violées, alors $a\ge2$ et $b\ge2$",0.99,Print cites c_1 and c_2 where the argument requires c_2 and c_3.
+56,silent change,C'est ce qui résulte du lemme suivant.,C'est ce qui résulte du lemme suivant :,1,The scan ends this introduction with a colon.
+57,silent change,"$\Sp(H^1(X_s,\Z))$ noyau de l'application","$\mathbf{Sp}(H^1(X_s,\Z))$ noyau de l'application",0.99,The symplectic-group symbol Sp is bold in print.
+57,silent change,noyau de l'application de réduction modulo $n$.,noyau de l'application de réduction \textit{mod} $n$.,0.99,The scan prints italic mod rather than modulo.
+57,silent change,\textsc{M. F. Atiyah and W. V. D. Hodge},\textsc{M. F. Atiyah} and \textsc{W. V. D. Hodge},0.99,The conjunction and is lowercase roman rather than small capitals.
+57,misprint in print,"\emph{Lectures Notes in mathematics}, \textbf{163}","\emph{Lectures Notes in mathematics}, \textbf{163}",1,The scan prints Lectures instead of Lecture in the series title.
+57,misprint in print,Applications of a result of Turritin,Applications of a result of Turritin,1,The printed surname Turritin omits the second t of Turrittin.

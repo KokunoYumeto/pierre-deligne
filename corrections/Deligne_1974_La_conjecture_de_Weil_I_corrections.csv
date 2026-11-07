@@ -1,0 +1,182 @@
+page,kind,earlier_transcription,print,confidence,note
+273-283,silent change,"\pagestyle{fancy}\fancyhf{}
+\fancyhead[L]{Pierre Deligne}
+\fancyhead[R]{La conjecture de Weil. I}
+\fancyfoot[C]{\thepage}
+\begin{document}","\pagestyle{fancy}\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\fancyhead[C]{\ifnum\value{page}=273\else\ifodd\value{page}LA CONJECTURE DE WEIL. I\else PIERRE DELIGNE\fi\fi}
+\fancyhead[L]{\ifodd\value{page}\else\thepage\fi}
+\fancyhead[R]{\ifnum\value{page}=273\else\ifodd\value{page}\thepage\fi\fi}
+\fancyfoot[L]{\ifodd\value{page}\else\textit{\thepage}\fi}
+\fancyfoot[R]{\ifodd\value{page}\ifnum\value{page}=273 \shortstack[r]{\textit{\thepage}\\35}\else\ifnum\value{page}=281 \shortstack[r]{\textit{\thepage}\\36}\else\textit{\thepage}\fi\fi\fi}
+\begin{document}
+\setcounter{page}{273}",1,"The scan has alternating uppercase running heads without a rule, outer folios 273–283, no running head on 273, and signatures 35 and 36."
+273,silent change,\par\medskip par PIERRE DELIGNE\end{center},\par\medskip \emph{par} \textsc{Pierre} DELIGNE\end{center},0.99,The byline prints italic « par » and small-cap « Pierre ».
+273,silent change,\phantomsection\label{physical-2}\noindent{\footnotesize Authority physical page 2; printed 273}\par\smallskip,\phantomsection\label{physical-2},1,The English authority annotation is absent from the printed page.
+273,silent change,(ce produit converge absolument pour \(\Re (s)\) assez grand).,(ce produit converge absolument pour \(\mathcal{R} (s)\) assez grand).,0.96,The real-part symbol is a script R in the scan rather than the blackletter symbol produced by \Re.
+274,silent change,\phantomsection\label{physical-3}\noindent{\footnotesize Authority physical page 3; printed 274}\par\smallskip,\phantomsection\label{physical-3},1,The English authority annotation is absent from the printed page.
+275,silent change,\phantomsection\label{physical-4}\noindent{\footnotesize Authority physical page 4; printed 275}\par\smallskip,\phantomsection\label{physical-4},1,The English authority annotation is absent from the printed page.
+275,silent change,\noindent a) L’ensemble \(\mathrm{X}^{\mathrm{F}}\) des points fermés,\noindent \(a)\) L’ensemble \(\mathrm{X}^{\mathrm{F}}\) des points fermés,0.99,The printed enumeration letter a is italic.
+275,silent change,fixes sous le \(n\)-ième itéré de \(\mathrm{F}\),fixes sous le \(n^{\mathrm{ième}}\) itéré de \(\mathrm{F}\),1,The scan superscripts « ième » and has no hyphen.
+275,silent change,"raisonnable que parce que dF=0, même à l’infini","raisonnable que parce que \(d\mathrm{F}=0\), même à l’infini",0.99,The scan prints a mathematical italic d in this differential.
+275,silent change,la relation dF=0 implique que les points fixes,la relation \(d\mathrm{F}=0\) implique que les points fixes,0.99,The second differential likewise has mathematical italic d.
+275,silent change,\sum_{n>0}\deg(x)t^{n\deg(x)},\sum_{n>0}\deg(x)t^{n\cdot\deg(x)},1,The exponent in (1.5.2) contains a multiplication dot between n and deg(x).
+275,silent change,"t\cdot \frac{d}{dt} \operatorname{log}(\operatorname{det}(1- \mathrm{F}t, \mathrm{V})^{- 1})","t \frac{d}{dt} \operatorname{log}(\operatorname{det}(1- \mathrm{F}t, \mathrm{V})^{- 1})",1,There is no multiplication dot after the initial t in (1.5.3).
+276,silent change,\phantomsection\label{physical-5}\noindent{\footnotesize Authority physical page 5; printed 276}\par\smallskip,\phantomsection\label{physical-5},1,The English authority annotation is absent from the printed page.
+276,silent change,"t\cdot \frac{d}{dt} \operatorname{log} \mathrm{Z}(\mathrm{X}_{0},t)","t \frac{d}{dt} \operatorname{log} \mathrm{Z}(\mathrm{X}_{0},t)",1,The first displayed logarithmic derivative has no dot after t.
+276,silent change,(- 1)^{i} t\cdot \frac{d}{dt} \operatorname{log} \operatorname{det},(- 1)^{i} t \frac{d}{dt} \operatorname{log} \operatorname{det},1,The logarithmic derivative on the right also has no dot after t.
+276,silent change,\noindent Preuve de (\(1.7) \Rightarrow  (1.6)\). —,\noindent \emph{Preuve de} (\(1.7) \Rightarrow  (1.6)\). —,1,The words « Preuve de » are italic in the print.
+276,misprint in print,"D’après (1.5.3), l’image de \(\mathrm{Z}(\mathrm{X}_{0},t)\)","D’après (1.5.3), l’image de \(\mathrm{Z}(\mathrm{X}_{0},t)\)",0.99,"The print says (1.5.3), although the rationality assertion refers to (1.5.4)."
+277,silent change,\phantomsection\label{physical-6}\noindent{\footnotesize Authority physical page 6; printed 277}\par\smallskip,\phantomsection\label{physical-6},1,The English authority annotation is absent from the printed page.
+277,silent change,\noindent a) Si \(\mathcal{F} \) est un \(\mathbf{Q}_{\ell }\)-faisceau constructible,\noindent \(a)\) Si \(\mathcal{F} \) est un \(\mathbf{Q}_{\ell }\)-faisceau constructible,0.99,The printed enumeration letter a is italic.
+278,silent change,\phantomsection\label{physical-7}\noindent{\footnotesize Authority physical page 7; printed 278}\par\smallskip,\phantomsection\label{physical-7},1,The English authority annotation is absent from the printed page.
+278,uncertain,"\noindent Pour \(k=\mathbf{C}\), les \(\mathrm{H}^{i}(\mathrm{X},\mathcal{F} )\)","\noindent Pour , \(k=\mathbf{C}\), les \(\mathrm{H}^{i}(\mathrm{X},\mathcal{F} )\)",0.72,"The scan may read « Pour , k=C » rather than « Pour k=C »; the comma-like mark could be a speck."
+278,silent change,"\mathrm{X}\times _{\mathrm{F},\mathrm{X},f}[\mathcal{F} ]=[\mathrm{F}^{*}\mathcal{F} ]","\mathrm{X}\times _{(\mathrm{F},\mathrm{X},f)}[\mathcal{F} ]=[\mathrm{F}^{*}\mathcal{F} ]",0.99,The printed fibre-product subscript encloses the triple in parentheses.
+278,silent change,le \(n\)-ième itéré de \(\mathrm{F}^{*}\) définit des morphismes,le \(n^{\mathrm{ième}}\) itéré de \(\mathrm{F}^{*}\) définit des morphismes,1,The scan superscripts « ième » and has no hyphen.
+278,silent change,\(\mathrm{F}_{x}^{*n} : \mathcal{F} _{\mathrm{F}^{n}(x)}\longrightarrow \mathcal{F} _{x}\),\(\mathrm{F}_{x}^{*n} : \mathcal{F} _{\mathrm{F}_{x}^{n}(x)}\longrightarrow \mathcal{F} _{x}\),0.96,"The printed inner F has an additional subscript x, apparently a misprint silently corrected in the TeX."
+278,silent change,"\noindent À isomorphisme près,","\noindent A isomorphisme près,",1,The initial capital A is unaccented in the print.
+279,silent change,\phantomsection\label{physical-8}\noindent{\footnotesize Authority physical page 8; printed 279}\par\smallskip,\phantomsection\label{physical-8},1,The English authority annotation is absent from the printed page.
+280,silent change,\phantomsection\label{physical-9}\noindent{\footnotesize Authority physical page 9; printed 280}\par\smallskip,\phantomsection\label{physical-9},1,The English authority annotation is absent from the printed page.
+280,silent change,\noindent \(b)\) \emph{Variétés complexes}. —,\noindent b) \emph{Variétés complexes}. —,0.99,This outer enumeration letter b is upright in the print.
+280,silent change,\noindent a) à choisir l’une des deux racines de l’équation,\noindent \(a)\) à choisir l’une des deux racines de l’équation,0.99,The inner enumeration letter a is italic in the print.
+280,silent change,"avec l’un des ensembles à deux éléments a), \(b), c)\).","avec l’un des ensembles à deux éléments \(a)\), \(b), c)\).",0.99,The reference letter a is italic like b and c in the print.
+280,silent change,Soit \(\mathbf{Z}(r)\) la puissance tensorielle \(r\)-ième de \(\mathbf{Z}(1)\).,Soit \(\mathbf{Z}(r)\) la puissance tensorielle \(r^{\mathrm{ième}}\) de \(\mathbf{Z}(1)\).,1,The ordinal suffix is superscripted without a hyphen.
+280,silent change,On note \(\mathbf{Q}_{\ell }(r)\) la puissance tensorielle \(r\)-ième de \(\mathbf{Q}_{\ell }(1)\);,On note \(\mathbf{Q}_{\ell }(r)\) la puissance tensorielle \(r^{\mathrm{ième}}\) de \(\mathbf{Q}_{\ell }(1)\);,1,This ordinal suffix is also superscripted without a hyphen.
+281,silent change,\phantomsection\label{physical-10}\noindent{\footnotesize Authority physical page 10; printed 281}\par\smallskip,\phantomsection\label{physical-10},1,The English authority annotation is absent from the printed page.
+281,silent change,"\noindent a) Le cup-produit met \(\mathrm{H}^{i}(\mathrm{X},\mathbf{Q}_{\ell })\)","\noindent \(a)\) Le cup-produit met \(\mathrm{H}^{i}(\mathrm{X},\mathbf{Q}_{\ell })\)",0.99,The printed enumeration letter a is italic.
+281,silent change,"t^{- \chi (\mathrm{X})}\cdot \mathrm{Z}(\mathrm{X}_{0},q^{- n}t^{- 1}).\end{gathered}","t^{- \chi (\mathrm{X})}\cdot \mathrm{Z}(\mathrm{X}_{0},q^{- n}t^{- 1})\end{gathered}",1,The displayed functional equation has no terminal period and continues with « où » on page 282.
+282,silent change,\phantomsection\label{physical-11}\noindent{\footnotesize Authority physical page 11; printed 282}\par\smallskip,\phantomsection\label{physical-11},1,The English authority annotation is absent from the printed page.
+282,silent change,"\[\varepsilon=\begin{cases}1&\text{si }n\text{ est impair},\\(-1)^{\mathrm N}&\text{si }n\text{ est pair}.\end{cases}\]",\[\varepsilon=\begin{cases}1&\text{si }n\text{ est impair}\\(-1)^{\mathrm N}&\text{si }n\text{ est pair}.\end{cases}\],1,The print has no comma after « impair » in the first case.
+282,silent change,L’assertion (\(i)\) signifie simplement que \(\mathcal{F} \),L’assertion (i) signifie simplement que \(\mathcal{F} \),0.99,The assertion reference uses upright roman i rather than mathematical italic i.
+283,silent change,\phantomsection\label{physical-12}\noindent{\footnotesize Authority physical page 12; printed 283}\par\smallskip,\phantomsection\label{physical-12},1,The English authority annotation is absent from the printed page.
+283,silent change,le faisceau étale des racines (\(\ell ^{n})\)-ièmes de l’unité.,le faisceau étale des racines \((\ell ^{n})^{\mathrm{ièmes}}\) de l’unité.,1,The printed suffix « ièmes » is superscripted after the closing parenthesis without a hyphen.
+283,silent change,\(\mathrm{B})\) À l’exception de la formule de Lefschetz et de (2.12),\(\mathrm{B})\) A l’exception de la formule de Lefschetz et de (2.12),1,The initial capital A is unaccented in the print.
+283,silent change,\noindent \(\mathbf{C})\) La relation entre les divers Frobenius,\noindent \(\mathrm{C})\) La relation entre les divers Frobenius,1,The enumeration label C is ordinary roman rather than bold.
+283,uncertain,par un calcul local qui n’est pas difficile.,"par un calcul local qui n’est, pas difficile.",0.62,"The scan may read « n’est, pas difficile » rather than « n’est pas difficile »; the comma-like mark could be a speck."
+284-294,silent change,"\fancyhead[L]{Pierre Deligne}
+\fancyhead[R]{La conjecture de Weil. I}","\fancyhead[L]{\ifodd\value{page}\else\thepage\fi}
+\fancyhead[C]{\ifodd\value{page}LA CONJECTURE DE WEIL. I\else PIERRE DELIGNE\fi}
+\fancyhead[R]{\ifodd\value{page}\thepage\fi}
+\renewcommand{\headrulewidth}{0pt}",1,The scan has alternating centered uppercase running heads with outer folios and no header rule.
+284-294,silent change,"\fancyfoot[C]{\thepage}
+\begin{document}","\fancyfoot[L]{\ifodd\value{page}\else\textit{\thepage}\fi}
+\fancyfoot[R]{\ifodd\value{page}\textit{\thepage}\fi}
+\begin{document}
+\setcounter{page}{273}",1,The printed folios recur at the outer foot and retain the journal numbering rather than restarting at 1.
+284,silent change,\phantomsection\label{physical-13}\noindent{\footnotesize Authority physical page 13; printed 284}\par\smallskip,\phantomsection\label{physical-13},1,The visible authority annotation is absent from the scan.
+284,misprint in print,"\noindent {\itshape Alors, \(\mathcal{F} \) est de poids \(\beta \).}\par","\noindent {\itshape Alors, \(\mathcal{F} \) est de poids \(\beta \).}\par",0.96,"The print says \(\mathcal F\), although the preceding definition assigns weight to \(\mathcal F_0\)."
+284,silent change,la puissance tensorielle (\(2k)\)-ième de \(\mathcal{F} _{0}\).,la puissance tensorielle (\(2k)\)\textsuperscript{ième} de \(\mathcal{F} _{0}\).,1,The print superscripts « ième » without a hyphen.
+284,silent change,"t\cdot \frac{d}{dt} \operatorname{log}(\operatorname{det}(1- \mathrm{F}_{x} t^{\operatorname{deg}(x)},\bigotimes\limits^{2k}\mathcal{F} _{0})^{- 1})","t \frac{d}{dt} \operatorname{log}(\operatorname{det}(1- \mathrm{F}_{x} t^{\operatorname{deg}(x)},\bigotimes\limits^{2k}\mathcal{F} _{0})^{- 1})",1,There is no multiplication dot after t in the printed logarithmic derivative.
+285,silent change,\phantomsection\label{physical-14}\noindent{\footnotesize Authority physical page 14; printed 285}\par\smallskip,\phantomsection\label{physical-14},1,The visible authority annotation is absent from the scan.
+285,silent change,x_{1}\otimes \cdots \otimes x_{2k} \longmapsto  \prod _{\alpha } \psi,x_{1}\otimes \ldots \otimes x_{2k} \longmapsto  \prod _{\alpha } \psi,0.97,The printed ellipsis between the tensor factors is on the baseline.
+285,misprint in print,Soit \(x\) un point fermé de \(\mathrm{X}\). L’hypothèse (ii),Soit \(x\) un point fermé de \(\mathrm{X}\). L’hypothèse (ii),0.99,The print has X in this unused sentence although the curve under discussion is U.
+285,misprint in print,"\operatorname{det}(1- \mathrm{F}^{*}t,\mathrm{H}^{1}(\mathrm{U},\bigotimes\limits^{2k}\mathcal{F} ))","\operatorname{det}(1- \mathrm{F}^{*}t,\mathrm{H}^{1}(\mathrm{U},\bigotimes\limits^{2k}\mathcal{F} ))",1,The printed numerator has H¹ without c despite the compact-support formula (1.14.3).
+285,silent change,"|q_{x}^{\beta } \alpha ^{- 1}| \leq  q_{x}^{\beta /2},\end{gathered}",|q_{x}^{\beta } \alpha ^{- 1}| \leq  q_{x}^{\beta /2}\end{gathered},1,The scan has no comma after this inequality.
+286,silent change,\phantomsection\label{physical-15}\noindent{\footnotesize Authority physical page 15; printed 286}\par\smallskip,\phantomsection\label{physical-15},1,The visible authority annotation is absent from the scan.
+286,silent change,\emph{Corollaire} \textbf{(3.9)}. —,\emph{Corollaire} \textbf{(3.9)} —,1,The printed heading has no period between (3.9) and the dash.
+287,silent change,\phantomsection\label{physical-16}\noindent{\footnotesize Authority physical page 16; printed 287}\par\smallskip,\phantomsection\label{physical-16},1,The visible authority annotation is absent from the scan.
+287,silent change,"\noindent a) \(\mathrm{X}\) est non singulier, et purement de dimension \(n+1\);","\noindent \emph{a)} \(\mathrm{X}\) est non singulier, et purement de dimension \(n+1\);",0.99,The enumeration label a) is italic in the scan.
+287,silent change,système local \(\mathrm{R}^{i} f_{*}\mathbf{Z}|\mathrm{D}^{*}\),système local \(\mathrm{R}^{i} f_{*}\underline{\mathbf{Z}}|\mathrm{D}^{*}\),0.99,The print underlines Z in this constant-sheaf notation.
+288,silent change,\phantomsection\label{physical-17}\noindent{\footnotesize Authority physical page 17; printed 288}\par\smallskip,\phantomsection\label{physical-17},1,The visible authority annotation is absent from the scan.
+289,silent change,\phantomsection\label{physical-18}\noindent{\footnotesize Authority physical page 18; printed 289}\par\smallskip,\phantomsection\label{physical-18},1,The visible authority annotation is absent from the scan.
+289,silent change,"\sigma x = x&\text{ si }\varepsilon (\sigma )=1,\\\sigma x = x",\sigma x = x&\text{ si }\varepsilon (\sigma )=1\\\sigma x = x,1,The first line of the printed monodromy formula ends without a comma.
+289,silent change,\noindent \(b)\) \emph{Si} \(\delta =0\) :,\noindent b) \emph{Si} \(\delta =0\) :,0.99,The case label b) is upright in the scan.
+289,silent change,\noindent La fibre de \(f\) en \(t\in \mathrm{D}\) est la section hyperplane \(\mathrm{X}_{t}=\mathrm{X}\cap \mathrm{H}_{t}\) de \(\mathrm{X}\).\par,\noindent La fibre de \(f\) en \(t\in \mathrm{D}\) est la section hyperplane \(\mathrm{X}_{t}=\mathrm{X}\cap \mathrm{H}_{t}\) de \(\mathrm{X}\).\par\fancypagestyle{signature37}{\fancyfoot[R]{\textit{\thepage}\\{\footnotesize 37}}}\thispagestyle{signature37},1,The printer’s signature 37 below the lower folio is omitted.
+290,silent change,\phantomsection\label{physical-19}\noindent{\footnotesize Authority physical page 19; printed 290}\par\smallskip,\phantomsection\label{physical-19},1,The visible authority annotation is absent from the scan.
+290,uncertain,"des \(x_{s}\).\par
+
+\noindent \(\mathbf{C})\) Les","des \(x_{s}\)..\par
+
+\noindent \(\mathbf{C})\) Les",0.65,The scan may have two stops rather than one after x_s; the second mark could be an ink speck.
+290,silent change,\noindent \(\mathbf{C})\) Les \(x_{s}\) sont des points critiques,\noindent \(\mathrm{C})\) Les \(x_{s}\) sont des points critiques,0.99,The condition label C is ordinary roman rather than bold.
+290,uncertain,\begin{center}\includegraphics[width=.73\linewidth]{P0019-A01_lacets_presentation.png}\end{center},\begin{center}\includegraphics[width=.73\linewidth]{P0019-A01_lacets_presentation.png}\end{center},0,The referenced PNG is unavailable for comparison; the scan shows three oriented loops based at u with γ_s and s marked.
+290,silent change,système local \(\mathrm{R}^{i} f_{*}\mathbf{Z}|\mathrm{U}\),système local \(\mathrm{R}^{i} f_{*}\underline{\mathbf{Z}}|\mathrm{U}\),0.99,The print underlines Z in this constant-sheaf notation.
+290,silent change,(\emph{partie évanescente} de la cohomologie).,(partie \emph{évanescente} de la cohomologie).,0.99,Only « évanescente » is italicized in the print.
+291,silent change,\phantomsection\label{physical-20}\noindent{\footnotesize Authority physical page 20; printed 291}\par\smallskip,\phantomsection\label{physical-20},1,The visible authority annotation is absent from the scan.
+291,misprint in print,et \(\mathrm{F}=\mathrm{E}\). Ceci prouve (5.5).,et \(\mathrm{F}=\mathrm{E}\). Ceci prouve (5.5).,0.97,The print concludes F=E rather than F=E⊗C in the complexified argument.
+292,silent change,\phantomsection\label{physical-21}\noindent{\footnotesize Authority physical page 21; printed 292}\par\smallskip,\phantomsection\label{physical-21},1,The visible authority annotation is absent from the scan.
+292,silent change,\noindent \(\mathbf{C}) x_{s}\) est un point singulier quadratique ordinaire,\noindent \(\mathrm{C}) x_{s}\) est un point singulier quadratique ordinaire,0.99,The condition label C is ordinary roman rather than bold.
+292,transcription error,la ramification de \(\mathrm{R}^{i} g_{*}\mathbf{Q}_{\ell }\) le long,la ramification de \(\mathrm{R}^{\bullet} g_{*}\mathbf{Q}_{\ell }\) le long,0.98,The printed superscript on R is a dot rather than i.
+292,silent change,"par les \(x\longmapsto x\pm (x,\delta _{s})\delta _{s} (s\in \mathrm{S})\)","par les \(x\longrightarrow x\pm (x,\delta _{s})\delta _{s} (s\in \mathrm{S})\)",0.99,The print uses an ordinary right arrow rather than a mapping arrow.
+293,silent change,\phantomsection\label{physical-22}\noindent{\footnotesize Authority physical page 22; printed 293}\par\smallskip,\phantomsection\label{physical-22},1,The visible authority annotation is absent from the scan.
+293,silent change,\noindent \(b)\) \emph{Si les cycles évanescents sont nuls :},\noindent b) \emph{Si les cycles évanescents sont nuls :},0.99,The case label b) is upright in the scan.
+293,silent change,\noindent a) \(\mathrm{W}\) est stable par homothétie,\noindent \emph{a)} \(\mathrm{W}\) est stable par homothétie,0.99,The enumeration label a) is italic in the scan.
+294,silent change,\phantomsection\label{physical-23}\noindent{\footnotesize Authority physical page 23; printed 294}\par\smallskip,\phantomsection\label{physical-23},1,The visible authority annotation is absent from the scan.
+294,silent change,"par la \(i\)-ième cup-puissance de \(\eta \),","par la \(i\)\textsuperscript{ième} cup-puissance de \(\eta \),",1,The print superscripts « ième » without a hyphen.
+295-300,silent change,"\pagestyle{fancy}\fancyhf{}
+\fancyhead[L]{Pierre Deligne}
+\fancyhead[R]{La conjecture de Weil. I}
+\fancyfoot[C]{\thepage}","\pagestyle{fancy}\fancyhf{}
+\fancyhead[C]{\ifodd\value{page}LA CONJECTURE DE WEIL. I\else PIERRE DELIGNE\fi}
+\fancyhead[L]{\ifodd\value{page}\else\thepage\fi}
+\fancyhead[R]{\ifodd\value{page}\thepage\fi}
+\fancyfoot[L]{\ifodd\value{page}\else\textit{\thepage}\fi}
+\fancyfoot[R]{\ifodd\value{page}\ifnum\value{page}=297\relax\shortstack[r]{\textit{\thepage}\\[6pt]{\footnotesize 38}}\else\textit{\thepage}\fi\fi}
+\renewcommand{\headrulewidth}{0pt}",1,"The scan has alternating uppercase running heads and outer folios without a header rule, plus the printer’s signature 38 on page 297."
+295,silent change,\noindent{\footnotesize Authority physical page 24; printed 295}\par\smallskip,\setcounter{page}{295},1,The authority annotation is absent from the scan; the counter retains the printed folio.
+296,silent change,\noindent{\footnotesize Authority physical page 25; printed 296}\par\smallskip,\setcounter{page}{296},1,The authority annotation is absent from the scan; the counter retains the printed folio.
+296,silent change,"\[\mathrm{Z}(\mathrm{X}_{x},t)=\frac{\prod\limits _{i}(1- \alpha _{i}^{\operatorname{deg}(x)}t)}{\prod\limits _{j}(1- \beta _{j}^{\operatorname{deg}(x)}t)}\cdot \operatorname{det}(1- \mathrm{F}_{x}^{*}t,\mathcal{F} _{0})\]","\[\mathrm{Z}(\mathrm{X}_{x},t)=\frac{\prod\limits _{i}(1- \alpha _{i}^{\operatorname{deg} x}t)}{\prod\limits _{j}(1- \beta _{j}^{\operatorname{deg} x}t)}\cdot \operatorname{det}(1- \mathrm{F}_{x}^{*}t,\mathcal{F} _{0})\]",1,Both exponents in this display print deg x without parentheses.
+296,silent change,"\operatorname{det}(1- \mathrm{F}_{x}^{*}t,\mathcal{F} _{0})\cdot \prod _{i}(1- \gamma _{i}^{\operatorname{deg}(x)}t)/\prod _{j}(1- \delta _{j}^{\operatorname{deg}(x)}t),","\operatorname{det}(1- \mathrm{F}_{x}^{*}t,\mathcal{F} _{0})\prod _{i}(1- \gamma _{i}^{\operatorname{deg}(x)}t)/\prod _{j}(1- \delta _{j}^{\operatorname{deg}(x)}t),",0.99,There is no multiplication dot between the determinant and the first product in (6.6.1).
+297,silent change,\noindent{\footnotesize Authority physical page 26; printed 297}\par\smallskip,\setcounter{page}{297},1,The authority annotation is absent from the scan; the counter retains the printed folio.
+297,uncertain,"On aurait \(\delta _{\mathrm{Q}}^{n}\ne \varepsilon _{j}^{n}\), et ceci contredirait l’hypothèse.","On, aurait \(\delta _{\mathrm{Q}}^{n}\ne \varepsilon _{j}^{n}\), et ceci contredirait l’hypothèse.",0.55,"A small mark permits the readings ‘On, aurait’ and ‘On aurait’; it may be a scan blemish."
+297,misprint in print,deux familles d’unités \(p\)-adiques,deux familles d’unités \(p\)-adiques,1,The print says p-adiques although the ambient field and the preceding proposition are ℓ-adic.
+298,silent change,\noindent{\footnotesize Authority physical page 27; printed 298}\par\smallskip,\setcounter{page}{298},1,The authority annotation is absent from the scan; the counter retains the printed folio.
+298,misprint in print,\begin{equation*}\begin{gathered}q^{- n}=\mu (g)\end{gathered}\end{equation*},\begin{equation*}\begin{gathered}q^{- n}=\mu (g)\end{gathered}\end{equation*},0.97,With profinite coordinate r and fixed Tate weight n the multiplier should be q^{-nr}; the print has q^{-n}.
+298,misprint in print,"tels que \(\mu (g)=q^{- n}\), et soit \(\mathrm{Z}_{n}\)","tels que \(\mu (g)=q^{- n}\), et soit \(\mathrm{Z}_{n}\)",0.97,The printed definition of CSp_n repeats the omission of the fixed Tate-weight factor.
+298,misprint in print,tels qu’un \(\beta _{j}^{\operatorname{deg}(x)}\) soit valeur propre de \(\mathrm{F}_{x}^{*}\),tels qu’un \(\beta _{j}^{\operatorname{deg}(x)}\) soit valeur propre de \(\mathrm{F}_{x}^{*}\),1,The print has β_j although the denominator family in the proposition being proved is δ_j.
+299,silent change,\noindent{\footnotesize Authority physical page 28; printed 299}\par\smallskip,\setcounter{page}{299},1,The authority annotation is absent from the scan; the counter retains the printed folio.
+299,silent change,les valeurs propres de \(\mathrm{F}^{*}\) sont remplacées par leurs puissances \(r\)-ièmes.,les valeurs propres de \(\mathrm{F}^{*}\) sont remplacées par leurs puissances \(r\)\textsuperscript{ièmes}.,1,The print places ièmes in superscript after r without a hyphen.
+299,silent change,\noindent a) Les points de \(\mathrm{S}\) sont définis sur \(\mathbf{F}_{q}\).,\noindent \(a)\) Les points de \(\mathrm{S}\) sont définis sur \(\mathbf{F}_{q}\).,0.99,The list label a) is italic in the print.
+300,silent change,\noindent{\footnotesize Authority physical page 29; printed 300}\par\smallskip,\setcounter{page}{300},1,The authority annotation is absent from the scan; the counter retains the printed folio.
+300,silent change,"\noindent \(\mathbf{C}) \mathrm{E}_{2}^{1,n}\).","\noindent \(\mathrm{C}) \mathrm{E}_{2}^{1,n}\).",0.95,The label C) is printed in ordinary roman type rather than boldface.
+300,misprint in print,\bigoplus\limits_{s\in \mathrm{S}}\mathbf{Q}_{\ell }(n- m)_{s},\bigoplus\limits_{s\in \mathrm{S}}\mathbf{Q}_{\ell }(n- m)_{s},1,The printed twist n-m is a sign misprint for m-n in (7.1.5).
+300,uncertain,"\mathrm{H}^{1}(\mathrm{D},\mathcal{F} ),\end{gathered}\tag{7.1.4′}","\mathrm{H}^{1}(\mathrm{D}',\mathcal{F} ),\end{gathered}\tag{7.1.4′}",0.65,The scan may read D′ rather than D; the small mark could be an ink blemish.
+300,misprint in print,"\bigoplus\limits_{s\in \mathrm{S}}\mathbf{Q}_{\ell }(n- m) \longrightarrow  \mathrm{H}^{1}(\mathrm{D},\mathcal{F} )","\bigoplus\limits_{s\in \mathrm{S}}\mathbf{Q}_{\ell }(n- m) \longrightarrow  \mathrm{H}^{1}(\mathrm{D},\mathcal{F} )",1,The printed twist n-m repeats the sign misprint in (7.1.5′).
+300,misprint in print,et on remarque que \(\mathrm{F}\) agit sur \(\mathbf{Q}_{\ell }(n- m)\) par multiplication par \(q^{d/2}\).,et on remarque que \(\mathrm{F}\) agit sur \(\mathbf{Q}_{\ell }(n- m)\) par multiplication par \(q^{d/2}\).,1,For the printed twist n-m Frobenius acts by q^{-d/2}; the asserted q^{d/2} requires m-n.
+301,silent change,"\fancyhead[L]{Pierre Deligne}
+\fancyhead[R]{La conjecture de Weil. I}
+\fancyfoot[C]{\thepage}
+\begin{document}","\fancyhead[L]{\ifodd\value{page}\else\thepage\fi}
+\fancyhead[C]{\ifodd\value{page}LA CONJECTURE DE WEIL. I\else PIERRE DELIGNE\fi}
+\fancyhead[R]{\ifodd\value{page}\thepage\fi}
+\fancyfoot[C]{}
+\fancyfoot[L]{\ifodd\value{page}\else\textit{\thepage}\fi}
+\fancyfoot[R]{\ifodd\value{page}\textit{\thepage}\fi}
+\renewcommand{\headrulewidth}{0pt}
+\begin{document}
+\setcounter{page}{273}",1,"Across the five scans the running heads alternate in centered capitals, folios appear at the outer edges, and there is no header rule."
+301,silent change,\noindent{\footnotesize Authority physical page 30; printed 301}\par\smallskip,,1,This provenance annotation is absent from the scan.
+301,silent change,"\(\mathrm{W}(\mathrm{X}_{0},i)\). Soit \(\mathrm{X}\) déduit de \(\mathrm{X}_{0}\)","\(\mathrm{W}(\mathrm{X}_{0,i})\). Soit \(\mathrm{X}\) déduit de \(\mathrm{X}_{0}\)",0.99,The printed label puts the comma and i inside the subscript of X.
+301,silent change,\noindent a) Si \(\mathbf{F}_{q^{n}}\) est une extension de degré \(n\),\noindent \(a)\) Si \(\mathbf{F}_{q^{n}}\) est une extension de degré \(n\),0.99,The enumeration letter a is italic in the scan.
+301,silent change,"\noindent — par a) et \(d)\), à supposer de plus \(i=n\);","\noindent — par \(a)\) et \(d)\), à supposer de plus \(i=n\);",0.99,The reference letter a is italic in the scan.
+301,silent change,"\noindent — par a) et \(c)\), à supposer de plus \(\mathrm{X}_{0}\) absolument irréductible.","\noindent — par \(a)\) et \(c)\), à supposer de plus \(\mathrm{X}_{0}\) absolument irréductible.",0.99,The reference letter a is italic in the scan.
+301,misprint in print,q^{\frac{kd}{2}- \frac{1}{2}} \leq  |\alpha ^{k}| \leq  q^{\frac{kd}{2}- \frac{1}{2}},q^{\frac{kd}{2}- \frac{1}{2}} \leq  |\alpha ^{k}| \leq  q^{\frac{kd}{2}- \frac{1}{2}},1,The upper exponent really is printed kd/2−1/2 rather than the mathematically required kd/2+1/2.
+301,silent change,"de multidegré (\(d_{1},\cdots ,d_{r})\). Soit \(b'\)","de multidegré (\(d_{1},\ldots ,d_{r})\). Soit \(b'\)",0.99,The printed ellipsis is on the baseline.
+301,silent change,Soit \(b'\) le \(n\)-ième nombre de Betti,Soit \(b'\) le \(n^{\mathrm{ième}}\) nombre de Betti,0.99,The ordinal suffix ième is superscripted and has no preceding hyphen.
+301,silent change,la \(i\)-ième cup-puissance de la classe de cohomologie,la \(i^{\mathrm{ème}}\) cup-puissance de la classe de cohomologie,0.99,The scan prints i with the superscript suffix ème.
+302,silent change,\noindent{\footnotesize Authority physical page 31; printed 302}\par\smallskip,,1,This provenance annotation is absent from the scan.
+302,misprint in print,|\# \mathrm{X}_{0}(\mathbf{F}_{q}) - \# \mathbf{P}(\mathbf{F}_{q})|,|\# \mathrm{X}_{0}(\mathbf{F}_{q}) - \# \mathbf{P}(\mathbf{F}_{q})|,0.99,The print omits the superscript n on P in this line.
+302,misprint in print,\mathrm{T}^{2} - a_{p} \mathrm{T} + \varepsilon (p)\cdot p^{k-1},\mathrm{T}^{2} - a_{p} \mathrm{T} + \varepsilon (p)\cdot p^{k-1},0.99,The expression called an equation is printed without an equals-zero clause.
+303,silent change,\noindent{\footnotesize Authority physical page 32; printed 303}\par\smallskip,,1,This provenance annotation is absent from the scan.
+303,silent change,"|\sum _{x_{1},\cdots ,x_{n} \in  \mathbf{F}_{q}} \psi (\mathrm{Q}(x_{1},\cdots ,x_{n}))| \leq  (d-1)^{n} q^{n/2}.","|\sum _{x_{1},\ldots ,x_{n} \in  \mathbf{F}_{q}} \psi (\mathrm{Q}(x_{1},\ldots ,x_{n}))| \leq  (d-1)^{n} q^{n/2}.",0.99,Both printed ellipses are baseline ellipses.
+303,silent change,"\mathrm{X}_{0} = \operatorname{Spec}(\mathbf{F}_{q}[x_{1},\cdots ,x_{n},\mathrm{T}]/(\mathrm{T}^{p}-\mathrm{T}-\mathrm{Q})).","\mathrm{X}_{0} = \operatorname{Spec}(\mathbf{F}_{q}[x_{1},\ldots ,x_{n},\mathrm{T}]/(\mathrm{T}^{p}-\mathrm{T}-\mathrm{Q})).",0.99,The variable-list ellipsis is printed on the baseline.
+303,silent change,Soient \(\mathrm{E}\) le corps des racines \(p\)-ièmes de l'unité,Soient \(\mathrm{E}\) le corps des racines \(p^{\mathrm{ièmes}}\) de l'unité,0.99,The suffix ièmes is superscripted without a hyphen.
+303,misprint in print,"La formule des traces (1.12.1) pour \(\mathcal{F} _{j,0}\) s'écrit","La formule des traces (1.12.1) pour \(\mathcal{F} _{j,0}\) s'écrit",0.9,The prose prints the general index j although the following formula is specialized to j=1.
+303,silent change,"\sum _{x_{1},\cdots ,x_{n} \in  \mathbf{F}_{q}} \psi (\mathrm{Q}(x_{1},\cdots ,x_{n})) = \sum _{i} (-1)^{i} \operatorname{Tr}","\sum _{x_{1},\ldots ,x_{n} \in  \mathbf{F}_{q}} \psi (\mathrm{Q}(x_{1},\ldots ,x_{n})) = \sum _{i} (-1)^{i} \operatorname{Tr}",0.99,Both ellipses in (8.4.2) are printed on the baseline.
+303,uncertain,"\mathrm{H}_{c}^{*}(\mathrm{X},\mathbf{Q}_{\ell }) \otimes _{\mathbf{Q}_{\ell }} \mathrm{E}_{\lambda }","\mathrm{H}_{c}^{*}(\mathrm{X},\mathbf{Q}_{\ell }) \otimes _{\mathbf{q}_{\ell }} \mathrm{E}_{\lambda }",0.6,"The tensor subscript appears to read lowercase q_l, though a small capital Q_l cannot be excluded."
+304,silent change,\noindent{\footnotesize Authority physical page 33; printed 304}\par\smallskip,,1,This provenance annotation is absent from the scan.
+304,transcription error,et de (-\(d)\) fois l'hyperplan à l'infini. On a :,et de \((-d)\) fois l'hyperplan à l'infini. On a :,0.99,The scan has a mathematical minus sign rather than a text hyphen.
+304,silent change,"il existe des coordonnées locales (\(z_{1},\cdots ,z_{n})\) telles que","il existe des coordonnées locales (\(z_{1},\ldots ,z_{n})\) telles que",0.99,The coordinate-list ellipsis is printed on the baseline.
+304,silent change,"(correspondant aux coordonnées \(z_{2},\cdots ,z_{n})\). Par normalité, il est lisse.","(correspondant aux coordonnées \(z_{2},\ldots ,z_{n})\). Par normalité, il est lisse.",0.99,The second coordinate-list ellipsis is also printed on the baseline.
+305,silent change,\noindent{\footnotesize Authority physical page 34; printed 305}\par\smallskip,,1,This provenance annotation is absent from the scan.
+305,silent change,"\mathcal{O}_{\mathrm{S}}[x_{1},\cdots ,x_{n}])\) le polynôme universel sur","\mathcal{O}_{\mathrm{S}}[x_{1},\ldots ,x_{n}])\) le polynôme universel sur",0.99,The variable-list ellipsis is printed on the baseline.
+305,silent change,Soient \(\mathrm{P}_{\mathrm{S}} = \mathbf{P}^{n} \times  \mathrm{S}\) l'espace projectif,Soient \(\mathrm{P}_{\mathrm{S}} = \mathrm{P}^{n} \times  \mathrm{S}\) l'espace projectif,0.98,The P in P^n is ordinary roman rather than bold in this passage.
+305,silent change,\mathrm Z_{\mathrm S}\\ {\scriptstyle\sigma}\downarrow&&\downarrow{\scriptstyle f}\\ \mathrm A_{\mathrm S},\mathrm Z_{\mathrm S}\\ \downarrow{\scriptstyle\sigma}&&\downarrow{\scriptstyle f}\\ \mathrm A_{\mathrm S},1,The diagram places sigma to the right of the left vertical arrow.
+305,silent change,pour un polynôme \(\mathrm{Q}\) particulier.,pour \emph{un} polynôme \(\mathrm{Q}\) particulier.,0.99,The word un is emphasized in italics in the scan.
+305,silent change,Ceci correspond au fait que \(\mathcal{F} _{j}\) est le produit tensoriel des images réciproques de\par,"Ceci correspond au fait que \(\mathcal{F} _{j}\) est le produit tensoriel des images réciproques de\par
+\fancypagestyle{signature305}{\fancyfoot[R]{\shortstack[r]{\textit{305}\\\textbf{39}}}}\thispagestyle{signature305}",1,The scan includes the printer's signature 39 below the bottom folio.
+306,misprint in print,l'extension de \(\mathrm{K} = k((x))\) engendré par les racines,l'extension de \(\mathrm{K} = k((x))\) engendré par les racines,1,The printed « engendré » is retained although agreement with « extension » requires « engendrée ».
+306,silent change,"\emph{Séminaire Bourbaki}, 279, décembre 1964 (Benjamin).","\emph{Séminaire Bourbaki}, \textbf{279}, décembre 1964 (Benjamin).",0.95,The exposé number 279 is bold in the scan.
+307,silent change,"SGA 5, \emph{Cohomologie ℓ-adique","SGA 5, \emph{Cohomologie l-adique",0.95,The scan prints an italic l rather than ℓ.
+307,silent change,"et fonctions L}, diffusé par l'IHES.\par","et fonctions \(\mathrm{L}\)}, diffusé par l'IHES.\par",0.99,The printed L is upright despite the surrounding italic title.
