@@ -1,15 +1,16 @@
-# Pierre Deligne : théorie de Hodge I–III et conjecture de Weil I–II
+# Pierre Deligne : articles
 
-Éditions LaTeX de cinq articles de Pierre Deligne : le texte français tel qu'imprimé, et des traductions anglaises.
+Éditions LaTeX d'articles de Pierre Deligne : le texte français tel qu'imprimé, et des traductions anglaises. À ce jour :
+*Théorie de Hodge* I–III et *La conjecture de Weil* I–II.
 [English version](README.md)
 
 | Article | Français | Anglais | Scan de l'imprimé | Corrections |
 |---|---|---|---|---|
-| *Théorie de Hodge. I*, Actes du Congrès international des mathématiciens (Nice, 1970), tome 1, 425–430 | [PDF](https://github.com/KokunoYumeto/deligne-hodge-weil/releases/latest/download/Deligne_1970_Theorie_de_Hodge_I_FR.pdf) | en préparation | — | 81 |
-| *Théorie de Hodge, II*, Publications mathématiques de l'IHÉS 40 (1971), 5–57 | [PDF](https://github.com/KokunoYumeto/deligne-hodge-weil/releases/latest/download/Deligne_1971_Theorie_de_Hodge_II_FR.pdf) | en préparation | [Numdam](https://www.numdam.org/item/PMIHES_1971__40__5_0/) | 264 |
-| *Théorie de Hodge, III*, Publications mathématiques de l'IHÉS 44 (1974), 5–77 | [PDF](https://github.com/KokunoYumeto/deligne-hodge-weil/releases/latest/download/Deligne_1974_Theorie_de_Hodge_III_FR.pdf) | en préparation | [Numdam](https://www.numdam.org/item/PMIHES_1974__44__5_0/) | 691 |
-| *La conjecture de Weil. I*, Publications mathématiques de l'IHÉS 43 (1974), 273–307 | [PDF](https://github.com/KokunoYumeto/deligne-hodge-weil/releases/latest/download/Deligne_1974_La_conjecture_de_Weil_I_FR.pdf) | en préparation | [Numdam](https://www.numdam.org/item/PMIHES_1974__43__273_0/) | 136 |
-| *La conjecture de Weil. II*, Publications mathématiques de l'IHÉS 52 (1980), 137–252 | [PDF](https://github.com/KokunoYumeto/deligne-hodge-weil/releases/latest/download/Deligne_1980_La_conjecture_de_Weil_II_FR.pdf) | en préparation | [Numdam](https://www.numdam.org/item/PMIHES_1980__52__137_0/) | 655 |
+| *Théorie de Hodge. I*, Actes du Congrès international des mathématiciens (Nice, 1970), tome 1, 425–430 | [PDF](https://github.com/KokunoYumeto/pierre-deligne/releases/latest/download/Deligne_1970_Theorie_de_Hodge_I_FR.pdf) | en préparation | — | 81 |
+| *Théorie de Hodge, II*, Publications mathématiques de l'IHÉS 40 (1971), 5–57 | [PDF](https://github.com/KokunoYumeto/pierre-deligne/releases/latest/download/Deligne_1971_Theorie_de_Hodge_II_FR.pdf) | en préparation | [Numdam](https://www.numdam.org/item/PMIHES_1971__40__5_0/) | 264 |
+| *Théorie de Hodge, III*, Publications mathématiques de l'IHÉS 44 (1974), 5–77 | [PDF](https://github.com/KokunoYumeto/pierre-deligne/releases/latest/download/Deligne_1974_Theorie_de_Hodge_III_FR.pdf) | en préparation | [Numdam](https://www.numdam.org/item/PMIHES_1974__44__5_0/) | 691 |
+| *La conjecture de Weil. I*, Publications mathématiques de l'IHÉS 43 (1974), 273–307 | [PDF](https://github.com/KokunoYumeto/pierre-deligne/releases/latest/download/Deligne_1974_La_conjecture_de_Weil_I_FR.pdf) | en préparation | [Numdam](https://www.numdam.org/item/PMIHES_1974__43__273_0/) | 136 |
+| *La conjecture de Weil. II*, Publications mathématiques de l'IHÉS 52 (1980), 137–252 | [PDF](https://github.com/KokunoYumeto/pierre-deligne/releases/latest/download/Deligne_1980_La_conjecture_de_Weil_II_FR.pdf) | en préparation | [Numdam](https://www.numdam.org/item/PMIHES_1980__52__137_0/) | 655 |
 
 Le texte français suit l'imprimé, coquilles comprises. Pour chaque article, `corrections/` relève chaque endroit où une
 transcription antérieure s'écartait de l'imprimé et chaque coquille de l'imprimé (conservée telle quelle), avec la
