@@ -18,6 +18,11 @@
 \title{Théorie de Hodge, III}
 \author{Pierre Deligne}
 \date{}
+
+% --- build fix (typesetting only), 14-15 Nov 2026 ---
+\usepackage{adjustbox}
+\setlength{\emergencystretch}{5em}
+\tolerance=2000
 \begin{document}
 \begin{center}\small\itshape Version corrigée : les 53 coquilles de l'imprimé relevées dans corrections/Deligne\_1974\_Theorie\_de\_Hodge\_III\_misprints\_corrected.csv y sont corrigées. L'édition principale est le texte tel qu'imprimé.\end{center}
 
@@ -4555,7 +4560,7 @@ r_*\Omega^{1}_{\overline{\mathrm{X}}'}(\log\mathrm{S})]\bigr).
 
 Soit le diagramme commutatif
 \[
-\begin{tikzcd}[column sep=0.7em,row sep=3.5em]
+\adjustbox{max width=\displaywidth}{$\displaystyle \begin{tikzcd}[column sep=0.7em,row sep=3.5em]
 \mathrm{H}^{1}(\mathrm{X},\mathbf{Z}(1))
   \arrow[r,"\sim"] \arrow[d]
   \arrow[dr,phantom,"\text{\textcircled{1}}" description]
@@ -4590,7 +4595,7 @@ Soit le diagramme commutatif
  [\mathcal{O}_{\overline{\mathrm{X}}}\longrightarrow
  r_*\Omega^{1}_{\overline{\mathrm{X}}'}(\log\mathrm{S})])
  \arrow[l,"\sim"']
-\end{tikzcd}
+\end{tikzcd}$}
 \]
 
 \Page{72}

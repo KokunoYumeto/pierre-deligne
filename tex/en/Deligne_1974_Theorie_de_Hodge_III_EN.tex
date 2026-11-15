@@ -18,6 +18,11 @@
 \title{Hodge Theory, III}
 \author{Pierre Deligne}
 \date{}
+
+% --- build fix (typesetting only), 14-15 Nov 2026 ---
+\usepackage{adjustbox}
+\setlength{\emergencystretch}{5em}
+\tolerance=2000
 \begin{document}
 % ---- 005-012 ----
 \maketitle
@@ -4551,7 +4556,7 @@ r_*\Omega^{1}_{\overline{\mathrm{X}}'}(\log\mathrm{S})]\bigr).
 
 Consider the commutative diagram
 \[
-\begin{tikzcd}[column sep=0.7em,row sep=3.5em]
+\adjustbox{max width=\displaywidth}{$\displaystyle \begin{tikzcd}[column sep=0.7em,row sep=3.5em]
 \mathrm{H}^{1}(\mathrm{X},\mathbf{Z}(1))
   \arrow[r,"\sim"] \arrow[d]
   \arrow[dr,phantom,"\text{\textcircled{1}}" description]
@@ -4586,7 +4591,7 @@ Consider the commutative diagram
  [\mathcal{O}_{\overline{\mathrm{X}}}\longrightarrow
  r_*\Omega^{1}_{\overline{\mathrm{X}}'}(\log\mathrm{S})])
  \arrow[l,"\sim"']
-\end{tikzcd}
+\end{tikzcd}$}
 \]
 
 \Page{72}
