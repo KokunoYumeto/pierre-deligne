@@ -21,16 +21,16 @@ The corrected French fixes the misprints of the print; each correction is listed
 there but not made in the text. The text as printed remains the main edition.
 
 These editions are AI-produced. The French was AI-transcribed and checked page by page against scans of the print by
-an AI model (OpenAI gpt-6-astra (effort not recorded)); *Théorie de Hodge, III* and *La conjecture de Weil. II* were typeset anew from the
-scans. The misprint corrections are AI-produced (Anthropic Claude Opus 5.5 (effort not recorded)). The English is AI-translated (OpenAI
-gpt-6-astra (effort not recorded)) from the French as printed: formulas, numbering and page references are those of the French, and so are
+an AI model (OpenAI gpt-6-astra at reasoning effort max, Responses API, Flex); *Théorie de Hodge, III* and *La conjecture de Weil. II* were typeset anew from the
+scans. The misprint corrections are AI-produced (Anthropic Claude Opus 5.5 at effort max, Message Batches API). The English is AI-translated (OpenAI
+gpt-6-astra at reasoning effort max, Responses API, Flex) from the French as printed: formulas, numbering and page references are those of the French, and so are
 the misprints. For *La conjecture de Weil. I*, the English translation by E. Goncharov
 ([arXiv:1807.10810](https://arxiv.org/abs/1807.10810)) served as a reference for terminology; the terms settled there
 were used for the other papers as well. Errors certainly remain: please report them as issues, with the page.
 
 These are the papers done so far; more of Deligne's papers will follow.
 
-The corrected English carries each correction of the corrected French into the English translation; `corrections/*_misprints_corrected_en.csv` lists every one with its English edit (most were carried over by script, the rest by AI: OpenAI GPT-6.1 Sol (effort not recorded) and Anthropic Claude Opus 5.5 (effort not recorded)).
+The corrected English carries each correction of the corrected French into the English translation; `corrections/*_misprints_corrected_en.csv` lists every one with its English edit (most were carried over by script, the rest by AI: OpenAI GPT-6.1 Sol at reasoning effort high (Flex) and Anthropic Claude Opus 5.5 at effort max (Message Batches API)).
 
 ## Rights
 
